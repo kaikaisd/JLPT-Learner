@@ -1,6 +1,6 @@
 // JLPT Trainer service worker — precaches the entire app (shell + data) so it
 // works fully offline. Bump VERSION whenever any shipped file changes.
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CACHE = `jlpt-trainer-${VERSION}`;
 
 const LEVELS = ['n5', 'n4', 'n3', 'n2', 'n1'];

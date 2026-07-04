@@ -1040,6 +1040,526 @@
           "en": "Through the internet, you can obtain information from all over the world."
         }
       ]
+    },
+    {
+      "id": "n2-g41",
+      "title": "〜わりに（は）",
+      "structure": "V / い-adj (plain) + わりに（は）; な-adj + な + わりに（は）; N + の + わりに（は）",
+      "explanation": "Means 'considering...' or 'for...' — the actual result does not match what one would expect from the degree stated first. The gap can be positive or negative. It is more casual than にしては and takes の after nouns.",
+      "examples": [
+        {
+          "jp": "この店は値段のわりに、料理がおいしい。",
+          "reading": "この みせ は ねだん の わりに、りょうり が おいしい。",
+          "en": "For its price, this restaurant's food is delicious."
+        },
+        {
+          "jp": "彼はよく食べるわりには、太らない。",
+          "reading": "かれ は よく たべる わりには、ふとらない。",
+          "en": "Considering how much he eats, he doesn't gain weight."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "彼女は年齢の（　　）、ずっと若く見える。",
+          "choices": ["わりに", "からには", "あまり", "うちに"],
+          "answer": 0,
+          "en": "For her age, she looks much younger."
+        }
+      ]
+    },
+    {
+      "id": "n2-g42",
+      "title": "〜にしては",
+      "structure": "N / V(plain) + にしては",
+      "explanation": "Means 'for...' or 'considering that...' — the reality is surprisingly different from what the stated standard would lead one to expect. Unlike わりに, it attaches directly to a noun without の. It is often used for judgments about people or things based on a category.",
+      "examples": [
+        {
+          "jp": "彼は初めてにしては、上手に発表できた。",
+          "reading": "かれ は はじめて にしては、じょうずに はっぴょう できた。",
+          "en": "For a first time, he gave the presentation quite well."
+        },
+        {
+          "jp": "今日は十二月にしては暖かい。",
+          "reading": "きょう は じゅうにがつ にしては あたたかい。",
+          "en": "Today is warm for December."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "この作文は小学生が書いた（　　）、よくできている。",
+          "choices": ["ものだから", "にしては", "ばかりに", "どころか"],
+          "answer": 1,
+          "en": "For something written by an elementary school student, this essay is well done."
+        }
+      ]
+    },
+    {
+      "id": "n2-g43",
+      "title": "〜としても",
+      "structure": "V / い-adj (plain) + としても; N / な-adj + だ + としても",
+      "explanation": "Means 'even if' or 'even supposing that' — the speaker accepts a hypothesis for the sake of argument, but states that the conclusion would not change. It is often used with たとえ for emphasis.",
+      "examples": [
+        {
+          "jp": "たとえ冗談だとしても、言っていいことと悪いことがある。",
+          "reading": "たとえ じょうだん だ としても、いって いい こと と わるい こと が ある。",
+          "en": "Even if it was a joke, there are things you may and may not say."
+        },
+        {
+          "jp": "今から急いで行ったとしても、間に合わないだろう。",
+          "reading": "いま から いそいで いった としても、まにあわない だろう。",
+          "en": "Even if we hurried there now, we probably wouldn't make it in time."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "参加できない（　　）、連絡ぐらいはすべきだ。",
+          "choices": ["ことだから", "たとたん", "ようがない", "としても"],
+          "answer": 3,
+          "en": "Even if you can't attend, you should at least contact them."
+        }
+      ]
+    },
+    {
+      "id": "n2-g44",
+      "title": "〜たところ",
+      "structure": "V-た + ところ",
+      "explanation": "Means 'when I did X, (I found that)...' — the speaker did something and then discovered a certain result. The result is simply a fact that followed, not a cause-and-effect the speaker controlled. It is common in formal or written reports.",
+      "examples": [
+        {
+          "jp": "問い合わせたところ、席はまだ空いているとのことだった。",
+          "reading": "といあわせた ところ、せき は まだ あいて いる との こと だった。",
+          "en": "When I inquired, I was told that seats were still available."
+        },
+        {
+          "jp": "新しい薬を試したところ、症状がだいぶよくなった。",
+          "reading": "あたらしい くすり を ためした ところ、しょうじょう が だいぶ よく なった。",
+          "en": "When I tried the new medicine, my symptoms improved considerably."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "部長に相談した（　　）、すぐに許可が出た。",
+          "choices": ["とたんに", "かのように", "ところ", "ことだから"],
+          "answer": 2,
+          "en": "When I consulted the department manager, permission was granted immediately."
+        }
+      ]
+    },
+    {
+      "id": "n2-g45",
+      "title": "〜たとたん（に）",
+      "structure": "V-た + とたん（に）",
+      "explanation": "Means 'the moment X happened, Y happened' — Y occurs immediately after X, and Y is usually something sudden or unexpected. Because Y is beyond the speaker's control, it cannot be used for the speaker's own intentional actions.",
+      "examples": [
+        {
+          "jp": "ドアを開けたとたん、猫が飛び出してきた。",
+          "reading": "ドア を あけた とたん、ねこ が とびだして きた。",
+          "en": "The moment I opened the door, a cat jumped out."
+        },
+        {
+          "jp": "立ち上がったとたんに、めまいがした。",
+          "reading": "たちあがった とたんに、めまい が した。",
+          "en": "The moment I stood up, I felt dizzy."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "窓を開けた（　　）、冷たい風が入ってきた。",
+          "choices": ["とたん", "ところで", "ままに", "うえで"],
+          "answer": 0,
+          "en": "The moment I opened the window, cold air came in."
+        }
+      ]
+    },
+    {
+      "id": "n2-g46",
+      "title": "〜か〜ないかのうちに",
+      "structure": "V(dictionary / た) + か + V-ない + かのうちに",
+      "explanation": "Means 'hardly had X happened when Y' — the second event follows so quickly that it is unclear whether the first had even finished. The same verb is repeated in affirmative and negative form. It emphasizes almost simultaneous timing.",
+      "examples": [
+        {
+          "jp": "授業が終わるか終わらないかのうちに、彼は教室を出て行った。",
+          "reading": "じゅぎょう が おわる か おわらない か の うちに、かれ は きょうしつ を でて いった。",
+          "en": "Hardly had the class ended when he walked out of the classroom."
+        },
+        {
+          "jp": "布団に入るか入らないかのうちに、眠ってしまった。",
+          "reading": "ふとん に はいる か はいらない か の うちに、ねむって しまった。",
+          "en": "I fell asleep almost before I had even gotten into bed."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "ベルが鳴るか（　　）かのうちに、生徒たちは走り出した。",
+          "choices": ["鳴る", "鳴らない", "鳴った", "鳴れ"],
+          "answer": 1,
+          "en": "Hardly had the bell rung when the students dashed off."
+        }
+      ]
+    },
+    {
+      "id": "n2-g47",
+      "title": "〜最中に",
+      "structure": "V-ている + 最中に / N + の + 最中に",
+      "explanation": "Means 'right in the middle of doing X' — and typically something unexpected interrupts at that very moment. It stresses that the action was at its peak when the interruption occurred.",
+      "examples": [
+        {
+          "jp": "会議の最中に、携帯電話が鳴ってしまった。",
+          "reading": "かいぎ の さいちゅう に、けいたいでんわ が なって しまった。",
+          "en": "Right in the middle of the meeting, my cell phone rang."
+        },
+        {
+          "jp": "話している最中に、急に電気が消えた。",
+          "reading": "はなして いる さいちゅう に、きゅうに でんき が きえた。",
+          "en": "Right while we were talking, the lights suddenly went out."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "試合の（　　）に、雨が降り出した。",
+          "choices": ["うち", "あいだじゅう", "最中", "うえ"],
+          "answer": 2,
+          "en": "Right in the middle of the match, it started to rain."
+        }
+      ]
+    },
+    {
+      "id": "n2-g48",
+      "title": "〜反面",
+      "structure": "V / い-adj (plain) + 反面; な-adj + な・である + 反面",
+      "explanation": "Means 'on the other hand' — one thing has two contrasting sides, and the second clause presents the opposite aspect of the same thing. It is slightly formal and often used to weigh advantages against disadvantages.",
+      "examples": [
+        {
+          "jp": "都会の生活は便利な反面、ストレスも多い。",
+          "reading": "とかい の せいかつ は べんり な はんめん、ストレス も おおい。",
+          "en": "City life is convenient, but on the other hand, it is also stressful."
+        },
+        {
+          "jp": "この仕事は収入がいい反面、休みが少ない。",
+          "reading": "この しごと は しゅうにゅう が いい はんめん、やすみ が すくない。",
+          "en": "This job pays well, but on the other hand, there are few days off."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "インターネットは便利な（　　）、危険もある。",
+          "choices": ["反面", "うえに", "おかげで", "ばかりか"],
+          "answer": 0,
+          "en": "The internet is convenient, but on the other hand, it also has dangers."
+        }
+      ]
+    },
+    {
+      "id": "n2-g49",
+      "title": "〜ことから",
+      "structure": "V / い-adj (plain) + ことから; な-adj + な・である + ことから",
+      "explanation": "Means 'from the fact that...' — a fact serves as the basis for a judgment, conclusion, or the origin of a name. It is common in written explanations of reasons and etymologies.",
+      "examples": [
+        {
+          "jp": "足跡があることから、犯人は窓から入ったと考えられる。",
+          "reading": "あしあと が ある こと から、はんにん は まど から はいった と かんがえられる。",
+          "en": "From the fact that there are footprints, it is thought that the culprit entered through the window."
+        },
+        {
+          "jp": "この地域は富士山がよく見えることから、「富士見町」と呼ばれている。",
+          "reading": "この ちいき は ふじさん が よく みえる こと から、「ふじみちょう」と よばれて いる。",
+          "en": "Because Mt. Fuji can be seen clearly from this area, it is called 'Fujimi Town.'"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "空が急に暗くなった（　　）、嵐が近いと分かった。",
+          "choices": ["ことだから", "ことなく", "ことに", "ことから"],
+          "answer": 3,
+          "en": "From the fact that the sky suddenly darkened, I knew a storm was near."
+        }
+      ]
+    },
+    {
+      "id": "n2-g50",
+      "title": "〜ことだから",
+      "structure": "N + の + ことだから",
+      "explanation": "Means 'because it's (that person)' — a judgment based on the well-known character or usual behavior of someone the speaker and listener both know. The second clause is a confident guess such as だろう or に違いない.",
+      "examples": [
+        {
+          "jp": "真面目な彼のことだから、時間通りに来るだろう。",
+          "reading": "まじめな かれ の こと だから、じかんどおり に くる だろう。",
+          "en": "Knowing how serious he is, he will surely come right on time."
+        },
+        {
+          "jp": "優しい田中さんのことだから、きっと許してくれますよ。",
+          "reading": "やさしい たなかさん の こと だから、きっと ゆるして くれます よ。",
+          "en": "Knowing how kind Tanaka-san is, I'm sure she will forgive you."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "動物が大好きな妹の（　　）、この子犬を見たら喜ぶに違いない。",
+          "choices": ["ことだから", "ことなく", "ことから", "ものだから"],
+          "answer": 0,
+          "en": "Since it's my animal-loving little sister, she is sure to be delighted when she sees this puppy."
+        }
+      ]
+    },
+    {
+      "id": "n2-g51",
+      "title": "〜ことなく",
+      "structure": "V(dictionary form) + ことなく",
+      "explanation": "A formal, written equivalent of 〜ないで, meaning 'without doing X.' It often describes continuing an action without pause or without an expected accompanying action. It sounds literary and is rare in casual speech.",
+      "examples": [
+        {
+          "jp": "彼は一度も休むことなく、働き続けた。",
+          "reading": "かれ は いちども やすむ こと なく、はたらきつづけた。",
+          "en": "He kept working without resting even once."
+        },
+        {
+          "jp": "最後まであきらめることなく、頑張ってください。",
+          "reading": "さいご まで あきらめる こと なく、がんばって ください。",
+          "en": "Please do your best without giving up until the very end."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "彼女は誰にも相談する（　　）、留学を決めた。",
+          "choices": ["ことに", "ことなく", "ことから", "ことか"],
+          "answer": 1,
+          "en": "She decided to study abroad without consulting anyone."
+        }
+      ]
+    },
+    {
+      "id": "n2-g52",
+      "title": "〜ものがある",
+      "structure": "V(dictionary form) / い-adj + ものがある; な-adj + な + ものがある",
+      "explanation": "Means 'there is something (impressive, moving, etc.) about...' — the speaker feels a strong quality in something and expresses that impression somewhat indirectly. It often appears with phrases like 目を見張る or 心を打つ.",
+      "examples": [
+        {
+          "jp": "彼の演奏には人の心を動かすものがある。",
+          "reading": "かれ の えんそう に は ひと の こころ を うごかす もの が ある。",
+          "en": "There is something about his performance that moves people's hearts."
+        },
+        {
+          "jp": "最近の技術の進歩には目を見張るものがある。",
+          "reading": "さいきん の ぎじゅつ の しんぽ に は め を みはる もの が ある。",
+          "en": "There is something truly remarkable about recent technological progress."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "彼のスピーチには聞く人を引きつける（　　）。",
+          "choices": ["ことがある", "ところがある", "ものがある", "はずがある"],
+          "answer": 2,
+          "en": "There is something about his speech that draws in the listeners."
+        }
+      ]
+    },
+    {
+      "id": "n2-g53",
+      "title": "〜ようがない",
+      "structure": "V-ます stem + ようがない",
+      "explanation": "Means 'there is no way to do X' — the action is impossible because the means or conditions for doing it simply do not exist. It expresses complete impossibility, not mere difficulty.",
+      "examples": [
+        {
+          "jp": "連絡先が分からないので、知らせようがない。",
+          "reading": "れんらくさき が わからない ので、しらせよう が ない。",
+          "en": "Since I don't know their contact information, there is no way to inform them."
+        },
+        {
+          "jp": "ここまで壊れていては、直しようがない。",
+          "reading": "ここ まで こわれて いて は、なおしよう が ない。",
+          "en": "Broken this badly, there is no way to fix it."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "名前も顔も覚えていないのだから、探し（　　）。",
+          "choices": ["ようがない", "かねない", "がたくない", "得る"],
+          "answer": 0,
+          "en": "Since I remember neither the name nor the face, there is no way to search for the person."
+        }
+      ]
+    },
+    {
+      "id": "n2-g54",
+      "title": "〜かのように",
+      "structure": "V / い-adj (plain) + かのように; N / な-adj + である + かのように",
+      "explanation": "Means 'as if' or 'as though' — something is described using a comparison that is not actually true. It is often reinforced with まるで, and the clause form かのような modifies nouns.",
+      "examples": [
+        {
+          "jp": "彼は何も知らなかったかのように、話を続けた。",
+          "reading": "かれ は なにも しらなかった か の ように、はなし を つづけた。",
+          "en": "He continued talking as if he had known nothing."
+        },
+        {
+          "jp": "四月なのに、真冬であるかのように寒い。",
+          "reading": "しがつ な のに、まふゆ で ある か の ように さむい。",
+          "en": "Even though it's April, it is as cold as if it were midwinter."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "彼女はまるで自分が見た（　　）、その事故について話した。",
+          "choices": ["からには", "わりには", "かのように", "あまりに"],
+          "answer": 2,
+          "en": "She talked about the accident as if she had seen it herself."
+        }
+      ]
+    },
+    {
+      "id": "n2-g55",
+      "title": "〜だけに",
+      "structure": "V / い-adj (plain) + だけに; な-adj + な + だけに; N + だけに",
+      "explanation": "Means 'precisely because...' — since the premise holds, the result is felt all the more strongly, or is especially natural. Unlike だけあって, it can also introduce feelings that are stronger than usual, such as deep disappointment.",
+      "examples": [
+        {
+          "jp": "彼は経験が長いだけに、仕事が確実だ。",
+          "reading": "かれ は けいけん が ながい だけに、しごと が かくじつ だ。",
+          "en": "Precisely because he has long experience, his work is reliable."
+        },
+        {
+          "jp": "期待していただけに、中止の知らせはショックだった。",
+          "reading": "きたい して いた だけに、ちゅうし の しらせ は ショック だった。",
+          "en": "Precisely because I had been looking forward to it, the news of the cancellation was a shock."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "一生懸命練習した（　　）、負けた時の悔しさは大きかった。",
+          "choices": ["うちに", "ながら", "ように", "だけに"],
+          "answer": 3,
+          "en": "Precisely because we had practiced so hard, the frustration when we lost was great."
+        }
+      ]
+    },
+    {
+      "id": "n2-g56",
+      "title": "〜抜きで / 〜抜きに",
+      "structure": "N + 抜きで / 抜きに（は）",
+      "explanation": "Means 'without' or 'leaving out' something that would normally be included. 〜抜きで describes doing something while omitting an element, and 〜抜きには…ない means something is impossible without that element.",
+      "examples": [
+        {
+          "jp": "今日は仕事の話は抜きで、楽しく飲みましょう。",
+          "reading": "きょう は しごと の はなし は ぬき で、たのしく のみましょう。",
+          "en": "Today, let's leave out the work talk and enjoy our drinks."
+        },
+        {
+          "jp": "冗談抜きに、彼の才能はすごいと思う。",
+          "reading": "じょうだん ぬき に、かれ の さいのう は すごい と おもう。",
+          "en": "Joking aside, I think his talent is amazing."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "朝食（　　）で学校に行くのは体によくない。",
+          "choices": ["きり", "ぬき", "のみ", "ばかり"],
+          "answer": 1,
+          "en": "Going to school without breakfast is not good for your health."
+        }
+      ]
+    },
+    {
+      "id": "n2-g57",
+      "title": "〜を問わず",
+      "structure": "N + を問わず",
+      "explanation": "Means 'regardless of' — a condition such as age, gender, experience, or weather makes no difference to the situation. It is formal and common in announcements and recruitment notices, often with paired nouns like 昼夜 or 男女.",
+      "examples": [
+        {
+          "jp": "この仕事は経験を問わず、誰でも応募できる。",
+          "reading": "この しごと は けいけん を とわず、だれでも おうぼ できる。",
+          "en": "Anyone can apply for this job, regardless of experience."
+        },
+        {
+          "jp": "このイベントは年齢や性別を問わず、楽しめる。",
+          "reading": "この イベント は ねんれい や せいべつ を とわず、たのしめる。",
+          "en": "This event can be enjoyed regardless of age or gender."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "この温泉は昼夜（　　）、いつでも入ることができる。",
+          "choices": ["に限らず", "を問わず", "にかかわって", "をきっかけに"],
+          "answer": 1,
+          "en": "You can bathe in this hot spring at any time, day or night."
+        }
+      ]
+    },
+    {
+      "id": "n2-g58",
+      "title": "〜をきっかけに",
+      "structure": "N + をきっかけに（して）",
+      "explanation": "Means 'taking X as an opportunity' or 'with X as the trigger' — a particular event became the starting point for a change or a new action. The variant をきっかけとして is more formal.",
+      "examples": [
+        {
+          "jp": "病気をきっかけに、生活習慣を見直した。",
+          "reading": "びょうき を きっかけ に、せいかつ しゅうかん を みなおした。",
+          "en": "Taking my illness as an opportunity, I re-examined my lifestyle."
+        },
+        {
+          "jp": "アニメをきっかけに、日本語の勉強を始めた。",
+          "reading": "アニメ を きっかけ に、にほんご の べんきょう を はじめた。",
+          "en": "Anime was the trigger that got me started studying Japanese."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "引っ越し（　　）、要らない物を全部処分した。",
+          "choices": ["を問わず", "に沿って", "をきっかけに", "のみならず"],
+          "answer": 2,
+          "en": "Taking the move as an opportunity, I got rid of everything I didn't need."
+        }
+      ]
+    },
+    {
+      "id": "n2-g59",
+      "title": "〜に伴って",
+      "structure": "N + に伴って / V(plain) + の + に伴って",
+      "explanation": "Means 'along with' or 'accompanying' — as one thing changes or happens, another change occurs together with it. It is formal and typically used for large-scale or gradual changes such as economic development or population growth.",
+      "examples": [
+        {
+          "jp": "経済の発展に伴って、人々の生活も豊かになった。",
+          "reading": "けいざい の はってん に ともなって、ひとびと の せいかつ も ゆたか に なった。",
+          "en": "Along with economic development, people's lives have also become richer."
+        },
+        {
+          "jp": "人口の増加に伴って、住宅の不足が深刻になっている。",
+          "reading": "じんこう の ぞうか に ともなって、じゅうたく の ふそく が しんこく に なって いる。",
+          "en": "Along with the increase in population, the housing shortage is becoming serious."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "気温の上昇（　　）、電力の使用量も増えている。",
+          "choices": ["に反して", "に伴って", "を問わず", "にしては"],
+          "answer": 1,
+          "en": "Along with the rise in temperature, electricity usage is also increasing."
+        }
+      ]
+    },
+    {
+      "id": "n2-g60",
+      "title": "〜恐れがある",
+      "structure": "V(dictionary form) + 恐れがある / N + の + 恐れがある",
+      "explanation": "Means 'there is a risk (fear) that...' — something undesirable may possibly happen. It is formal and objective, and very common in news reports, weather forecasts, and warnings. It is not used for desirable outcomes.",
+      "examples": [
+        {
+          "jp": "今夜は大雨になる恐れがある。",
+          "reading": "こんや は おおあめ に なる おそれ が ある。",
+          "en": "There is a risk of heavy rain tonight."
+        },
+        {
+          "jp": "このままでは、この動物は絶滅する恐れがある。",
+          "reading": "この まま で は、この どうぶつ は ぜつめつ する おそれ が ある。",
+          "en": "At this rate, there is a risk that this animal will become extinct."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "台風の影響で、電車が止まる（　　）。",
+          "choices": ["ことはない", "ものがある", "ようがない", "恐れがある"],
+          "answer": 3,
+          "en": "Due to the typhoon, there is a risk that trains will stop."
+        }
+      ]
     }
   ]
 }

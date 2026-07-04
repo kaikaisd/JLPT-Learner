@@ -137,6 +137,141 @@
           "answer": 1
         }
       ]
+    },
+    {
+      "id": "n2-r6",
+      "title": "和食と世界",
+      "body": [
+        ["近年", "きんねん"], "、", ["日本", "にほん"], "の", ["食文化", "しょくぶんか"], "が", ["世界中", "せかいじゅう"], "で", ["注目", "ちゅうもく"], "を", ["集", "あつ"], "めている。すしやラーメンはもちろん、", ["和食", "わしょく"], "そのものが", ["健康的", "けんこうてき"], "な", ["食事", "しょくじ"], "として", ["評価", "ひょうか"], "され、", ["海外", "かいがい"], "の", ["日本食", "にほんしょく"], "レストランの", ["数", "かず"], "は", ["年々", "ねんねん"], ["増", "ふ"], "え", ["続", "つづ"], "けている。", ["和食", "わしょく"], "が", ["国際的", "こくさいてき"], "な", ["文化遺産", "ぶんかいさん"], "として", ["登録", "とうろく"], "されたことも、この", ["流", "なが"], "れを", ["後押", "あとお"], "しした。\n",
+        ["一方", "いっぽう"], "で、", ["海外", "かいがい"], "で", ["提供", "ていきょう"], "される", ["日本食", "にほんしょく"], "は、", ["必", "かなら"], "ずしも", ["日本", "にほん"], "のものと", ["同", "おな"], "じではない。", ["現地", "げんち"], "の", ["人", "ひと"], "の", ["好", "この"], "みに", ["合", "あ"], "わせて、", ["味", "あじ"], "や", ["材料", "ざいりょう"], "が", ["自由", "じゆう"], "に", ["変", "か"], "えられていることが", ["多", "おお"], "いのである。こうした", ["変化", "へんか"], "を「", ["本物", "ほんもの"], "ではない」と", ["批判", "ひはん"], "する", ["人", "ひと"], "もいるが、", ["考", "かんが"], "えてみれば、", ["日本", "にほん"], "のカレーやラーメンも、", ["外国", "がいこく"], "から", ["伝", "つた"], "わった", ["料理", "りょうり"], "を", ["日本人", "にほんじん"], "の", ["口", "くち"], "に", ["合", "あ"], "うように", ["作", "つく"], "り", ["変", "か"], "えたものだ。\n",
+        ["食文化", "しょくぶんか"], "とは、もともと", ["人", "ひと"], "の", ["移動", "いどう"], "とともに", ["変化", "へんか"], "し", ["続", "つづ"], "けるものである。", ["筆者", "ひっしゃ"], "は、", ["形", "かたち"], "が", ["変", "か"], "わることを", ["恐", "おそ"], "れるより、", ["変化", "へんか"], "を", ["通", "つう"], "じて", ["新", "あたら"], "しい", ["魅力", "みりょく"], "が", ["生", "う"], "まれることを", ["楽", "たの"], "しむべきだと", ["考", "かんが"], "える。", ["大切", "たいせつ"], "なのは、その", ["料理", "りょうり"], "の", ["背景", "はいけい"], "にある", ["文化", "ぶんか"], "への", ["敬意", "けいい"], "を", ["忘", "わす"], "れないことではないだろうか。"
+      ],
+      "en": "In recent years, Japanese food culture has been attracting attention all over the world. Not only sushi and ramen but washoku itself has been praised as a healthy diet, and the number of Japanese restaurants overseas keeps increasing year by year. The fact that washoku was registered as an international cultural heritage also gave this trend a push.\nOn the other hand, the Japanese food served overseas is not necessarily the same as that in Japan. In many cases, the flavors and ingredients are freely changed to suit local people's tastes. Some people criticize such changes as 'not authentic,' but if you think about it, Japanese curry and ramen are themselves dishes that came from abroad and were remade to suit Japanese tastes.\nFood culture is something that has always kept changing along with the movement of people. The author believes that rather than fearing changes in form, we should enjoy the new charms born through change. Isn't the important thing not to forget our respect for the culture behind each dish?",
+      "questions": [
+        {
+          "q": "海外の日本食レストランについて、本文に合うものはどれか。",
+          "choices": ["数が年々減っている", "数が年々増え続けている", "日本と全く同じ味を出している", "健康に悪いと批判されている"],
+          "answer": 1
+        },
+        {
+          "q": "海外の日本食の味や材料が変えられているのはなぜか。",
+          "choices": ["日本の材料が輸入できないから", "作り方が正しく伝わっていないから", "現地の人の好みに合わせるため", "法律で義務づけられているから"],
+          "answer": 2
+        },
+        {
+          "q": "筆者の考えに合うものはどれか。",
+          "choices": ["海外の日本食は本物ではないので認めるべきではない", "和食は変化させずに守ることが最も重要だ", "変化を楽しみつつ、料理の背景にある文化への敬意を忘れるべきではない", "日本のカレーやラーメンは和食とは言えない"],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n2-r7",
+      "title": "都会と田舎、どちらに住むか",
+      "body": [
+        ["最近", "さいきん"], "、", ["都会", "とかい"], "を", ["離", "はな"], "れて", ["地方", "ちほう"], "に", ["移住", "いじゅう"], "する", ["人", "ひと"], "が", ["増", "ふ"], "えているという。", ["都会", "とかい"], "には", ["仕事", "しごと"], "や", ["店", "みせ"], "が", ["集中", "しゅうちゅう"], "し、", ["交通", "こうつう"], "も", ["便利", "べんり"], "である。しかし、", ["家賃", "やちん"], "は", ["高", "たか"], "く、", ["通勤電車", "つうきんでんしゃ"], "は", ["混", "こ"], "み、", ["自然", "しぜん"], "と", ["触", "ふ"], "れ", ["合", "あ"], "う", ["機会", "きかい"], "は", ["少", "すく"], "ない。", ["忙", "いそが"], "しい", ["生活", "せいかつ"], "に", ["疲", "つか"], "れて、ゆとりを", ["求", "もと"], "める", ["人", "ひと"], "が", ["地方", "ちほう"], "に", ["目", "め"], "を", ["向", "む"], "けるのは", ["自然", "しぜん"], "な", ["流", "なが"], "れかもしれない。\n",
+        ["一方", "いっぽう"], "、", ["田舎", "いなか"], "の", ["生活", "せいかつ"], "にも", ["課題", "かだい"], "はある。", ["仕事", "しごと"], "の", ["種類", "しゅるい"], "が", ["限", "かぎ"], "られているうえ、", ["電車", "でんしゃ"], "やバスの", ["本数", "ほんすう"], "が", ["少", "すく"], "ないため、", ["車", "くるま"], "がなければ", ["生活", "せいかつ"], "しにくい。", ["病院", "びょういん"], "や", ["学校", "がっこう"], "が", ["遠", "とお"], "い", ["地域", "ちいき"], "もあり、", ["子育", "こそだ"], "てや", ["老後", "ろうご"], "に", ["不安", "ふあん"], "を", ["感", "かん"], "じる", ["人", "ひと"], "も", ["少", "すく"], "なくない。", ["冬", "ふゆ"], "の", ["雪", "ゆき"], "かきなど、", ["都会", "とかい"], "にはない", ["苦労", "くろう"], "もある。\n",
+        "つまり、", ["都会", "とかい"], "と", ["田舎", "いなか"], "のどちらが", ["優", "すぐ"], "れているかを", ["一般的", "いっぱんてき"], "に", ["決", "き"], "めることはできないのである。", ["大切", "たいせつ"], "なのは、", ["収入", "しゅうにゅう"], "、", ["自然", "しぜん"], "、", ["人", "ひと"], "とのつながりなど、", ["自分", "じぶん"], "が", ["何", "なに"], "を", ["重視", "じゅうし"], "するのかをはっきりさせることだ。", ["筆者", "ひっしゃ"], "は、", ["住", "す"], "む", ["場所", "ばしょ"], "を", ["選", "えら"], "ぶことは、どんな", ["人生", "じんせい"], "を", ["送", "おく"], "りたいかを", ["選", "えら"], "ぶことにほかならないと", ["考", "かんが"], "えている。"
+      ],
+      "en": "Recently, it is said that more and more people are leaving the cities and moving to rural areas. In cities, jobs and shops are concentrated and transportation is convenient. However, rents are high, commuter trains are crowded, and there are few opportunities to be in touch with nature. It may be a natural trend that people who are tired of their busy lives and seek breathing room turn their eyes to the countryside.\nOn the other hand, rural life has its own problems. The types of jobs are limited, and because trains and buses run infrequently, life is difficult without a car. In some areas hospitals and schools are far away, and quite a few people feel anxious about raising children or growing old there. There are also hardships not found in the city, such as shoveling snow in winter.\nIn short, it is impossible to decide in general terms which is better, the city or the countryside. What matters is to clarify what you yourself value — income, nature, connections with people, and so on. The author believes that choosing where to live is nothing other than choosing what kind of life you want to lead.",
+      "questions": [
+        {
+          "q": "都会の生活について、本文に合うものはどれか。",
+          "choices": ["家賃が安い", "自然と触れ合う機会が多い", "仕事や店が集中し、交通が便利である", "電車がすいている"],
+          "answer": 2
+        },
+        {
+          "q": "田舎の生活の課題として、本文に合うものはどれか。",
+          "choices": ["家賃が高すぎること", "通勤電車が混むこと", "店が多すぎること", "車がなければ生活しにくいこと"],
+          "answer": 3
+        },
+        {
+          "q": "筆者の考えに合うものはどれか。",
+          "choices": ["都会より田舎のほうが必ず優れている", "住む場所を選ぶことは、どんな人生を送りたいかを選ぶことだ", "収入よりも自然を重視すべきだ", "地方への移住はやめるべきだ"],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n2-r8",
+      "title": "キャッシュレス決済と私たちの生活",
+      "body": [
+        ["現金", "げんきん"], "を", ["使", "つか"], "わずに", ["買", "か"], "い", ["物", "もの"], "をするキャッシュレス", ["決済", "けっさい"], "が、", ["日本", "にほん"], "でも", ["急速", "きゅうそく"], "に", ["広", "ひろ"], "がっている。カードやスマートフォンをかざすだけで", ["支払", "しはら"], "いが", ["終", "お"], "わるため、レジに", ["並", "なら"], "ぶ", ["時間", "じかん"], "が", ["短", "みじか"], "くなり、", ["財布", "さいふ"], "を", ["持", "も"], "ち", ["歩", "ある"], "く", ["必要", "ひつよう"], "もない。", ["店側", "みせがわ"], "にとっても、", ["現金", "げんきん"], "を", ["数", "かぞ"], "える", ["手間", "てま"], "が", ["減", "へ"], "るという", ["利点", "りてん"], "がある。\n",
+        "しかし、", ["課題", "かだい"], "がないわけではない。まず、", ["機械", "きかい"], "の", ["操作", "そうさ"], "に", ["慣", "な"], "れていない", ["高齢者", "こうれいしゃ"], "には", ["使", "つか"], "いにくい。また、", ["停電", "ていでん"], "や", ["通信障害", "つうしんしょうがい"], "が", ["起", "お"], "きると、", ["支払", "しはら"], "いそのものができなくなる", ["恐", "おそ"], "れがある。さらに、お", ["金", "かね"], "を", ["使", "つか"], "ったという", ["感覚", "かんかく"], "が", ["薄", "うす"], "れ、つい", ["使", "つか"], "いすぎてしまう", ["人", "ひと"], "もいるという。\n",
+        ["筆者", "ひっしゃ"], "もふだんはキャッシュレス", ["決済", "けっさい"], "を", ["利用", "りよう"], "しているが、", ["災害", "さいがい"], "に", ["備", "そな"], "えて、ある", ["程度", "ていど"], "の", ["現金", "げんきん"], "は", ["常", "つね"], "に", ["持", "も"], "ち", ["歩", "ある"], "くようにしている。", ["便利", "べんり"], "さだけに", ["頼", "たよ"], "るのではなく、それぞれの", ["支払", "しはら"], "い", ["方法", "ほうほう"], "の", ["長所", "ちょうしょ"], "と", ["短所", "たんしょ"], "を", ["理解", "りかい"], "したうえで、", ["状況", "じょうきょう"], "に", ["応", "おう"], "じて", ["使", "つか"], "い", ["分", "わ"], "けることが", ["大切", "たいせつ"], "だと", ["考", "かんが"], "えている。"
+      ],
+      "en": "Cashless payment, in which you shop without using cash, is spreading rapidly in Japan as well. Since payment is completed just by holding up a card or smartphone, the time spent waiting in line at the register becomes shorter, and there is no need to carry a wallet. For stores, too, there is the advantage that the work of counting cash is reduced.\nHowever, that is not to say there are no problems. First, it is hard to use for elderly people who are not used to operating machines. Also, if a power outage or communication failure occurs, there is a risk that payment itself becomes impossible. Furthermore, it is said that some people lose the sense of having spent money and end up spending too much without meaning to.\nThe author also usually uses cashless payment, but always carries a certain amount of cash in preparation for disasters. Rather than relying only on convenience, the author believes it is important to understand the strengths and weaknesses of each payment method and use them appropriately depending on the situation.",
+      "questions": [
+        {
+          "q": "キャッシュレス決済の利点として、本文に合うものはどれか。",
+          "choices": ["レジに並ぶ時間が短くなること", "現金が増えること", "停電の時も使えること", "高齢者に使いやすいこと"],
+          "answer": 0
+        },
+        {
+          "q": "キャッシュレス決済の課題として、本文に合うものはどれか。",
+          "choices": ["店側の手間が増えること", "財布が必要になること", "支払いに時間がかかること", "通信障害が起きると支払いができなくなる恐れがあること"],
+          "answer": 3
+        },
+        {
+          "q": "筆者の考えに合うものはどれか。",
+          "choices": ["現金は全く必要なくなった", "キャッシュレス決済は使うべきではない", "支払い方法の長所と短所を理解し、状況に応じて使い分けるべきだ", "高齢者もすぐにキャッシュレスに変えるべきだ"],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n2-r9",
+      "title": "宿題は必要か",
+      "body": [
+        ["小学生", "しょうがくせい"], "に", ["宿題", "しゅくだい"], "は", ["必要", "ひつよう"], "かという", ["議論", "ぎろん"], "が、", ["近年", "きんねん"], ["盛", "さか"], "んになっている。", ["宿題", "しゅくだい"], "に", ["反対", "はんたい"], "する", ["人々", "ひとびと"], "は、", ["学校", "がっこう"], "で", ["長時間", "ちょうじかん"], ["勉強", "べんきょう"], "した", ["子供", "こども"], "に、", ["家", "いえ"], "でさらに", ["勉強", "べんきょう"], "させるのは", ["負担", "ふたん"], "が", ["大", "おお"], "きすぎると", ["主張", "しゅちょう"], "する。", ["家族", "かぞく"], "と", ["過", "す"], "ごす", ["時間", "じかん"], "や、", ["遊", "あそ"], "びを", ["通", "つう"], "じて", ["学", "まな"], "ぶ", ["時間", "じかん"], "こそ、", ["子供", "こども"], "の", ["成長", "せいちょう"], "には", ["欠", "か"], "かせないという", ["考", "かんが"], "え", ["方", "かた"], "である。\n",
+        ["一方", "いっぽう"], "、", ["宿題", "しゅくだい"], "に", ["賛成", "さんせい"], "する", ["人々", "ひとびと"], "は、", ["家庭", "かてい"], "で", ["復習", "ふくしゅう"], "することで", ["学", "まな"], "んだ", ["内容", "ないよう"], "が", ["定着", "ていちゃく"], "しやすくなると", ["述", "の"], "べている。また、", ["毎日", "まいにち"], ["決", "き"], "まった", ["時間", "じかん"], "に", ["机", "つくえ"], "に", ["向", "む"], "かう", ["習慣", "しゅうかん"], "は、", ["将来", "しょうらい"], "、", ["自分", "じぶん"], "で", ["計画", "けいかく"], "を", ["立", "た"], "てて", ["学", "まな"], "ぶ", ["力", "ちから"], "につながるという", ["意見", "いけん"], "もある。\n",
+        ["筆者", "ひっしゃ"], "は、", ["問題", "もんだい"], "は", ["宿題", "しゅくだい"], "の", ["有無", "うむ"], "ではなく、その", ["内容", "ないよう"], "にあると", ["考", "かんが"], "える。ただ", ["同", "おな"], "じ", ["漢字", "かんじ"], "を", ["何十回", "なんじゅっかい"], "も", ["書", "か"], "かせるような", ["宿題", "しゅくだい"], "であれば、", ["子供", "こども"], "は", ["勉強", "べんきょう"], "を", ["嫌", "きら"], "いになるだけだろう。", ["反対", "はんたい"], "に、", ["身", "み"], "の", ["回", "まわ"], "りの", ["不思議", "ふしぎ"], "を", ["調", "しら"], "べるような", ["宿題", "しゅくだい"], "なら、", ["学", "まな"], "ぶ", ["楽", "たの"], "しさを", ["教", "おし"], "えることができる。", ["宿題", "しゅくだい"], "を", ["出", "だ"], "すかどうかを", ["議論", "ぎろん"], "する", ["前", "まえ"], "に、どんな", ["宿題", "しゅくだい"], "なら", ["子供", "こども"], "の", ["力", "ちから"], "を", ["伸", "の"], "ばせるのかを", ["考", "かんが"], "えるべきではないだろうか。"
+      ],
+      "en": "In recent years, the debate over whether elementary school students need homework has become lively. People who oppose homework argue that making children who have already studied for long hours at school study even more at home is too heavy a burden. Their view is that time spent with family and time spent learning through play are exactly what is indispensable for children's growth.\nOn the other hand, people who support homework state that reviewing at home helps what was learned take hold. There is also the opinion that the habit of sitting down at a desk at a fixed time every day leads, in the future, to the ability to plan and learn on one's own.\nThe author thinks the problem lies not in whether homework exists but in its content. If homework merely makes children write the same kanji dozens of times, it will only make them hate studying. Conversely, homework that has them investigate the mysteries around them can teach the joy of learning. Before debating whether to assign homework, shouldn't we be thinking about what kind of homework can develop children's abilities?",
+      "questions": [
+        {
+          "q": "宿題に反対する人々の主張として、本文に合うものはどれか。",
+          "choices": ["家でさらに勉強させるのは子供の負担が大きすぎる", "宿題は先生の負担になる", "宿題は簡単すぎる", "漢字の宿題だけを増やすべきだ"],
+          "answer": 0
+        },
+        {
+          "q": "宿題に賛成する人々の意見として、本文に合うものはどれか。",
+          "choices": ["宿題があると家族の時間が増える", "宿題は遊びより楽しい", "家庭で復習することで学んだ内容が定着しやすくなる", "宿題がないと学校が困る"],
+          "answer": 2
+        },
+        {
+          "q": "筆者の考えに合うものはどれか。",
+          "choices": ["宿題はすべてなくすべきだ", "漢字を何十回も書く宿題が最もよい", "宿題の量を今より増やすべきだ", "どんな宿題なら子供の力を伸ばせるのかを考えるべきだ"],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n2-r10",
+      "title": "「限定」という言葉の力",
+      "body": [
+        "「", ["期間限定", "きかんげんてい"], "」「", ["残", "のこ"], "りわずか」。", ["店", "みせ"], "やインターネットで、こうした", ["言葉", "ことば"], "を", ["目", "め"], "にしない", ["日", "ひ"], "はない。", ["実", "じつ"], "は、これらの", ["言葉", "ことば"], "には、", ["消費者", "しょうひしゃ"], "の", ["心", "こころ"], "を", ["動", "うご"], "かす", ["強", "つよ"], "い", ["力", "ちから"], "があることが", ["知", "し"], "られている。", ["人", "ひと"], "は、いつでも", ["買", "か"], "えるものより、", ["今", "いま"], "しか", ["手", "て"], "に", ["入", "はい"], "らないものに、より", ["高", "たか"], "い", ["価値", "かち"], "を", ["感", "かん"], "じるのだという。\n",
+        "たとえば、ある", ["菓子", "かし"], "メーカーが", ["同", "おな"], "じ", ["商品", "しょうひん"], "を「", ["冬限定", "ふゆげんてい"], "」として", ["売", "う"], "り", ["出", "だ"], "したところ、", ["売", "う"], "り", ["上", "あ"], "げが", ["大", "おお"], "きく", ["伸", "の"], "びたという", ["例", "れい"], "がある。", ["商品", "しょうひん"], "の", ["中身", "なかみ"], "は", ["変", "か"], "わっていないのに、「", ["限定", "げんてい"], "」という", ["言葉", "ことば"], "が", ["加", "くわ"], "わっただけで、", ["消費者", "しょうひしゃ"], "はそれを", ["特別", "とくべつ"], "なものだと", ["感", "かん"], "じたのである。\n",
+        "もちろん、こうした", ["売", "う"], "り", ["方", "かた"], "がすべて", ["悪", "わる"], "いわけではない。しかし、「", ["限定", "げんてい"], "」という", ["言葉", "ことば"], "にあわてて、", ["本当", "ほんとう"], "は", ["必要", "ひつよう"], "のないものまで", ["買", "か"], "ってしまうとすれば", ["問題", "もんだい"], "だ。", ["筆者", "ひっしゃ"], "は、", ["買", "か"], "う", ["前", "まえ"], "に「", ["限定", "げんてい"], "でなくても、", ["自分", "じぶん"], "はこれが", ["欲", "ほ"], "しいのか」と", ["自分", "じぶん"], "に", ["問", "と"], "いかけてみることを", ["勧", "すす"], "めたい。その", ["一呼吸", "ひとこきゅう"], "が、", ["後悔", "こうかい"], "しない", ["買", "か"], "い", ["物", "もの"], "につながるのである。"
+      ],
+      "en": "'Limited time only.' 'Only a few left.' Not a day goes by without seeing such phrases in stores or on the internet. In fact, these words are known to have a strong power to move consumers' hearts. It is said that people feel higher value in things they can only obtain now than in things they can buy anytime.\nFor example, there is a case in which a confectionery maker put the same product on sale as 'winter only,' and sales grew significantly. Even though the contents of the product had not changed, just by adding the word 'limited,' consumers felt it was something special.\nOf course, not all such sales methods are bad. However, it is a problem if, flustered by the word 'limited,' we end up buying things we do not really need. Before buying, the author would like to recommend asking yourself, 'Would I still want this even if it were not limited?' That one small pause leads to shopping you will not regret.",
+      "questions": [
+        {
+          "q": "「限定」という言葉について、本文に合うものはどれか。",
+          "choices": ["消費者の心を動かす強い力がある", "法律で使用が禁止されている", "高齢者にしか効果がない", "売り上げを減らすことが多い"],
+          "answer": 0
+        },
+        {
+          "q": "菓子メーカーの例で、売り上げが伸びたのはなぜか。",
+          "choices": ["商品の中身がよくなったから", "値段を下げたから", "「限定」という言葉によって消費者が特別なものだと感じたから", "有名人が宣伝したから"],
+          "answer": 2
+        },
+        {
+          "q": "筆者の考えに合うものはどれか。",
+          "choices": ["限定商品は必ず買うべきだ", "買う前に本当に欲しいのか自分に問いかけてみるべきだ", "限定という言葉を使う店では買い物をしてはいけない", "買い物で後悔するのは仕方がない"],
+          "answer": 1
+        }
+      ]
     }
   ]
 }

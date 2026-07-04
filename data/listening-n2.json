@@ -115,6 +115,121 @@
           "answer": 2
         }
       ]
+    },
+    {
+      "id": "n2-l6",
+      "title": "気象情報：大雪への備え",
+      "script": "大雪に関する気象情報をお伝えします。強い寒気の影響で、北陸地方では今夜遅くから明日の夕方にかけて、山沿いを中心に大雪となる見込みです。多いところでは、二十四時間に八十センチの雪が降ると予想されています。積雪による交通への影響が心配されるため、車を運転する方は、冬用のタイヤを必ず着用してください。また、雪の重みで電線が切れ、停電が起こる恐れもあります。懐中電灯や飲料水など、非常用の品を準備しておくと安心です。屋根の雪下ろしをする際は、必ず二人以上で行い、命綱を使用してください。不要な外出はできるだけ避け、最新の気象情報に注意してください。",
+      "en": "Here is the weather information regarding heavy snow. Due to a strong cold air mass, heavy snow is expected in the Hokuriku region from late tonight until tomorrow evening, mainly in areas along the mountains. In the heaviest areas, 80 centimeters of snow is forecast to fall within 24 hours. Since effects on traffic from the snowfall are a concern, drivers must be sure to use winter tires. There is also a risk that power lines will snap under the weight of the snow, causing power outages. It is reassuring to prepare emergency supplies such as flashlights and drinking water. When clearing snow from your roof, always work in groups of two or more and use a lifeline. Please avoid unnecessary outings as much as possible and stay alert to the latest weather information.",
+      "questions": [
+        {
+          "q": "大雪はいつごろまで続く見込みか。",
+          "choices": ["今夜遅くまで", "明日の朝まで", "あさっての朝まで", "明日の夕方まで"],
+          "answer": 3
+        },
+        {
+          "q": "車を運転する人は何をするように言っているか。",
+          "choices": ["高速道路を使う", "冬用のタイヤを必ず着用する", "夜だけ運転する", "ガソリンを満タンにする"],
+          "answer": 1
+        },
+        {
+          "q": "屋根の雪下ろしについて、何と言っているか。",
+          "choices": ["一人で静かに行う", "雪がやんでから行ってはいけない", "必ず二人以上で行い、命綱を使用する", "業者に頼まなければならない"],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n2-l7",
+      "title": "ラジオ健康コーナー：塩分の取りすぎ",
+      "script": "続いて、健康コーナーの時間です。今日は塩分の取りすぎについてお話しします。日本人は世界の中でも塩分を多く取る国民だと言われています。塩分を取りすぎると血圧が上がり、心臓や脳の病気につながる恐れがあります。健康のためには、一日の塩分の量を男性で七・五グラム、女性で六・五グラム未満に抑えることが勧められています。しかし、ラーメンのスープを全部飲むと、それだけで一日の目安の量を超えてしまいます。塩分を減らすこつは、麺類のスープを残すこと、そして、しょうゆを直接かけるのではなく、小皿に取って少しだけつけることです。また、レモンや香辛料を使うと、塩が少なくても物足りなさを感じにくくなります。今日から少しずつ、できることから始めてみませんか。",
+      "en": "Next, it's time for our health corner. Today I will talk about consuming too much salt. The Japanese are said to be among the peoples of the world who consume the most salt. Taking in too much salt raises blood pressure and may lead to heart and brain diseases. For good health, it is recommended to keep daily salt intake under 7.5 grams for men and 6.5 grams for women. However, if you drink all the soup of a bowl of ramen, that alone exceeds the recommended daily amount. The tricks to reducing salt are to leave the soup of noodle dishes unfinished, and instead of pouring soy sauce directly on food, to pour a little into a small dish and lightly dip your food in it. Also, if you use lemon or spices, you are less likely to feel something is missing even with less salt. Why not start today, little by little, with what you can do?",
+      "questions": [
+        {
+          "q": "塩分を取りすぎると、どうなる恐れがあると言っているか。",
+          "choices": ["骨が弱くなる", "目が悪くなる", "眠れなくなる", "血圧が上がり、心臓や脳の病気につながる"],
+          "answer": 3
+        },
+        {
+          "q": "一日の塩分の量について、女性は何グラム未満に抑えることが勧められているか。",
+          "choices": ["七・五グラム", "六・五グラム", "五グラム", "八グラム"],
+          "answer": 1
+        },
+        {
+          "q": "塩分を減らす方法として、話の内容に合うものはどれか。",
+          "choices": ["麺類のスープを残す", "しょうゆを直接たっぷりかける", "塩を今の倍にする", "ラーメンのスープを全部飲む"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n2-l8",
+      "title": "インタビュー：パン職人の歩み",
+      "script": "私がパン作りの世界に入ったのは、二十五歳の時でした。もともとは銀行で働いていたのですが、旅行先のフランスで食べた一つのパンの味に感動して、人生が変わってしまったんです。帰国してすぐに銀行を辞め、パン屋で働きながら技術を学びました。周りからは、安定した仕事を捨てるなんてもったいないと反対されましたね。最初の五年間は失敗ばかりで、何度もやめようと思いました。それでも続けられたのは、自分のパンを「おいしい」と言ってくれるお客様の笑顔があったからです。十年前に自分の店を開き、今では毎朝行列ができるようになりました。若い人には、失敗を恐れずに、本当にやりたいことに挑戦してほしいと思っています。",
+      "en": "I entered the world of bread making when I was twenty-five. Originally I worked at a bank, but I was so moved by the taste of a single piece of bread I ate in France while traveling that my life changed completely. As soon as I returned to Japan, I quit the bank and learned the craft while working at a bakery. People around me objected, saying it was a waste to throw away a stable job. The first five years were nothing but failures, and I thought about quitting many times. Even so, what kept me going was the smiles of customers who told me my bread was delicious. Ten years ago I opened my own shop, and now a line forms every morning. I want young people to challenge what they truly want to do, without fearing failure.",
+      "questions": [
+        {
+          "q": "この人がパン作りの世界に入ったきっかけは何か。",
+          "choices": ["銀行の仕事をくびになったこと", "フランスで食べたパンの味に感動したこと", "家族がパン屋だったこと", "テレビ番組を見たこと"],
+          "answer": 1
+        },
+        {
+          "q": "つらい時期にも続けられた理由は何だと言っているか。",
+          "choices": ["給料が高かったから", "家族に応援されたから", "お客様の笑顔があったから", "仕事が簡単だったから"],
+          "answer": 2
+        },
+        {
+          "q": "この人は若い人に何を望んでいるか。",
+          "choices": ["安定した仕事を選ぶこと", "銀行で働くこと", "フランスに留学すること", "失敗を恐れずに本当にやりたいことに挑戦すること"],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n2-l9",
+      "title": "大学のお知らせ：図書館の工事",
+      "script": "学生の皆さんにお知らせします。図書館の改修工事のため、来月一日から三週間、中央図書館は利用できなくなります。工事期間中は、二号館の一階に臨時の閲覧室を設けますので、そちらをご利用ください。臨時閲覧室の利用時間は、平日の午前九時から午後六時までで、土曜日と日曜日は閉室となります。貸し出し中の本の返却は、正門横の返却ボックスをご利用いただけます。なお、工事期間中に返却期限が来る本については、期限を工事終了後まで自動的に延長しますので、手続きは必要ありません。詳しくは大学のホームページをご覧ください。ご不便をおかけしますが、ご協力をお願いいたします。",
+      "en": "An announcement for all students. Due to renovation work, the Central Library will be unavailable for three weeks starting on the first of next month. During the construction period, a temporary reading room will be set up on the first floor of Building No. 2, so please use that. The temporary reading room is open on weekdays from 9 a.m. to 6 p.m., and closed on Saturdays and Sundays. To return borrowed books, you may use the return box next to the main gate. Additionally, for books whose due dates fall within the construction period, the deadline will be automatically extended until after the work is finished, so no procedure is necessary. For details, please see the university website. We apologize for the inconvenience and ask for your cooperation.",
+      "questions": [
+        {
+          "q": "中央図書館が利用できなくなるのはなぜか。",
+          "choices": ["祝日だから", "本の整理のため", "改修工事のため", "停電のため"],
+          "answer": 2
+        },
+        {
+          "q": "臨時閲覧室について、正しいものはどれか。",
+          "choices": ["平日の午前九時から午後六時まで利用できる", "二十四時間利用できる", "土曜日と日曜日も開いている", "三号館の二階にある"],
+          "answer": 0
+        },
+        {
+          "q": "工事期間中に返却期限が来る本はどうすればよいか。",
+          "choices": ["すぐに郵送で返す", "窓口で延長の手続きをする", "中央図書館の入口で返す", "期限は自動的に延長されるので手続きは必要ない"],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n2-l10",
+      "title": "製品レビュー：ワイヤレスイヤホン",
+      "script": "今週のレビューは、先月発売されたワイヤレスイヤホン「サウンドエア」です。まず驚いたのは、その軽さです。片方わずか四グラムで、長時間つけていても耳が疲れません。音質については、特に低音がしっかりしていて、この価格帯では最高レベルだと感じました。周りの騒音を消す機能も付いており、電車の中でも音楽に集中できます。バッテリーは一回の充電で八時間使用でき、ケースと合わせれば最大三十時間持ちます。ただし、残念な点もあります。専用アプリが日本語に対応しておらず、細かい設定がしにくいのです。また、風の強い日には通話の声が聞き取りにくいという声もあります。とはいえ、一万五千円という価格を考えれば、十分におすすめできる製品です。音質を重視する方は、ぜひ一度試してみてください。",
+      "en": "This week's review is of the wireless earphones 'Sound Air,' released last month. The first thing that surprised me was how light they are. Each earphone weighs a mere four grams, so your ears don't get tired even after wearing them for a long time. As for sound quality, the bass in particular is solid, and I felt it is top-level for this price range. They also have a function that cancels surrounding noise, so you can concentrate on your music even on the train. The battery lasts eight hours on a single charge, and up to thirty hours in total with the case. However, there are also disappointing points. The dedicated app does not support Japanese, which makes detailed settings difficult. Some people also say that during calls on windy days, your voice is hard to hear. Even so, considering the price of 15,000 yen, this is a product I can fully recommend. If you value sound quality, by all means give them a try.",
+      "questions": [
+        {
+          "q": "レビューで最初に驚いたと言っている点は何か。",
+          "choices": ["音の大きさ", "軽さ", "デザイン", "価格"],
+          "answer": 1
+        },
+        {
+          "q": "バッテリーについて、正しいものはどれか。",
+          "choices": ["一回の充電で三十時間使用できる", "ケースと合わせれば最大八時間持つ", "充電に一日かかる", "一回の充電で八時間使用できる"],
+          "answer": 3
+        },
+        {
+          "q": "残念な点として挙げられているものはどれか。",
+          "choices": ["低音が弱いこと", "値段が高すぎること", "専用アプリが日本語に対応していないこと", "バッテリーがすぐ切れること"],
+          "answer": 2
+        }
+      ]
     }
   ]
 }
