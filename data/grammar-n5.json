@@ -1,0 +1,330 @@
+{
+  "level": "N5",
+  "points": [
+    {
+      "id": "n5-g01",
+      "title": "〜です",
+      "structure": "Noun + です",
+      "explanation": "です is the polite copula, used to state that something is something (like English 'is/am/are'). Attach it directly to a noun. The negative form is ではありません, and the past form is でした.",
+      "examples": [
+        {"jp": "これは本です。", "reading": "これは ほんです。", "en": "This is a book."},
+        {"jp": "私は学生です。", "reading": "わたしは がくせいです。", "en": "I am a student."}
+      ],
+      "quiz": [
+        {"q": "これは 本（　　）。", "choices": ["です", "ます", "ました", "ません"], "answer": 0, "en": "This is a book."}
+      ]
+    },
+    {
+      "id": "n5-g02",
+      "title": "〜ます・〜ません・〜ました",
+      "structure": "Verb stem + ます / ません / ました / ませんでした",
+      "explanation": "The ます form is the polite way to end a verb. Use ます for present and future actions, ません for the negative, ました for the past, and ませんでした for the past negative. This is the standard verb form used in polite conversation.",
+      "examples": [
+        {"jp": "毎日日本語を勉強します。", "reading": "まいにち にほんごを べんきょうします。", "en": "I study Japanese every day."},
+        {"jp": "昨日テレビを見ました。", "reading": "きのう テレビを みました。", "en": "I watched TV yesterday."}
+      ],
+      "quiz": [
+        {"q": "明日 友達に 会い（　　）。", "choices": ["ました", "ます", "ませんでした", "たい"], "answer": 1, "en": "I will meet my friend tomorrow."}
+      ]
+    },
+    {
+      "id": "n5-g03",
+      "title": "Particle は (topic)",
+      "structure": "Topic + は",
+      "explanation": "The particle は (pronounced 'wa') marks the topic of the sentence, the thing you are talking about. The rest of the sentence gives information about that topic. It often corresponds to 'as for ...' in English.",
+      "examples": [
+        {"jp": "私は田中です。", "reading": "わたしは たなかです。", "en": "I am Tanaka."},
+        {"jp": "今日は暑いです。", "reading": "きょうは あついです。", "en": "Today is hot."}
+      ],
+      "quiz": [
+        {"q": "私（　　）学生です。", "choices": ["を", "は", "に", "で"], "answer": 1, "en": "I am a student."}
+      ]
+    },
+    {
+      "id": "n5-g04",
+      "title": "Particle が (subject)",
+      "structure": "Subject + が",
+      "explanation": "The particle が marks the grammatical subject, often introducing new information or the thing that exists or performs an action. It is used with あります and います, and with adjectives describing what something is like. Compared with は, が puts focus on the word before it.",
+      "examples": [
+        {"jp": "部屋に猫がいます。", "reading": "へやに ねこが います。", "en": "There is a cat in the room."},
+        {"jp": "空が青いです。", "reading": "そらが あおいです。", "en": "The sky is blue."}
+      ],
+      "quiz": [
+        {"q": "机の上に 本（　　）あります。", "choices": ["を", "へ", "が", "は"], "answer": 2, "en": "There is a book on the desk."}
+      ]
+    },
+    {
+      "id": "n5-g05",
+      "title": "Particle を (object)",
+      "structure": "Noun + を + verb",
+      "explanation": "The particle を marks the direct object of a verb, that is, the thing the action is done to. It comes right after the noun and before the verb. It is pronounced 'o'.",
+      "examples": [
+        {"jp": "毎朝パンを食べます。", "reading": "まいあさ パンを たべます。", "en": "I eat bread every morning."},
+        {"jp": "音楽を聞きます。", "reading": "おんがくを ききます。", "en": "I listen to music."}
+      ],
+      "quiz": [
+        {"q": "水（　　）飲みます。", "choices": ["が", "は", "に", "を"], "answer": 3, "en": "I drink water."}
+      ]
+    },
+    {
+      "id": "n5-g06",
+      "title": "Particle に (time / destination)",
+      "structure": "Time + に / Place + に + motion verb",
+      "explanation": "The particle に marks a specific point in time (at seven, on Sunday) and also the destination of motion verbs like 行きます and 帰ります. It also marks the place where something exists with あります and います.",
+      "examples": [
+        {"jp": "七時に起きます。", "reading": "しちじに おきます。", "en": "I get up at seven."},
+        {"jp": "日曜日に図書館に行きます。", "reading": "にちようびに としょかんに いきます。", "en": "I go to the library on Sunday."}
+      ],
+      "quiz": [
+        {"q": "毎晩 十時（　　）寝ます。", "choices": ["を", "で", "に", "と"], "answer": 2, "en": "I go to bed at ten every night."}
+      ]
+    },
+    {
+      "id": "n5-g07",
+      "title": "Particle で (place of action / means)",
+      "structure": "Place + で + action verb / Tool + で",
+      "explanation": "The particle で marks the place where an action happens. It also marks the means or tool used to do something, such as a vehicle or an instrument. Unlike に, で is used with action verbs, not with existence verbs.",
+      "examples": [
+        {"jp": "図書館で勉強します。", "reading": "としょかんで べんきょうします。", "en": "I study at the library."},
+        {"jp": "バスで会社へ行きます。", "reading": "バスで かいしゃへ いきます。", "en": "I go to the office by bus."}
+      ],
+      "quiz": [
+        {"q": "レストラン（　　）晩ご飯を 食べます。", "choices": ["に", "で", "を", "へ"], "answer": 1, "en": "I eat dinner at a restaurant."}
+      ]
+    },
+    {
+      "id": "n5-g08",
+      "title": "Particle へ (direction)",
+      "structure": "Place + へ + motion verb",
+      "explanation": "The particle へ (pronounced 'e') marks the direction of movement, similar to 'to' or 'toward' in English. It is used with motion verbs such as 行きます, 来ます, and 帰ります. In many sentences, に can be used instead with almost the same meaning.",
+      "examples": [
+        {"jp": "来週日本へ行きます。", "reading": "らいしゅう にほんへ いきます。", "en": "I will go to Japan next week."},
+        {"jp": "友達は家へ帰りました。", "reading": "ともだちは いえへ かえりました。", "en": "My friend went home."}
+      ],
+      "quiz": [
+        {"q": "夏休みに 海（　　）行きます。", "choices": ["を", "が", "で", "へ"], "answer": 3, "en": "I will go to the sea during summer vacation."}
+      ]
+    },
+    {
+      "id": "n5-g09",
+      "title": "Particle と (and / with)",
+      "structure": "Noun + と + Noun / Person + と + verb",
+      "explanation": "The particle と connects nouns in a complete list, meaning 'and'. It also marks the person you do something together with, meaning 'with'. It can only join nouns, not sentences.",
+      "examples": [
+        {"jp": "りんごとバナナを買いました。", "reading": "りんごと バナナを かいました。", "en": "I bought apples and bananas."},
+        {"jp": "友達と映画を見ます。", "reading": "ともだちと えいがを みます。", "en": "I watch a movie with my friend."}
+      ],
+      "quiz": [
+        {"q": "母（　　）買い物に 行きます。", "choices": ["を", "は", "の", "と"], "answer": 3, "en": "I go shopping with my mother."}
+      ]
+    },
+    {
+      "id": "n5-g10",
+      "title": "Particle も (also)",
+      "structure": "Noun + も",
+      "explanation": "The particle も means 'also' or 'too'. It replaces は or が when the same statement is true for another thing or person. In negative sentences it means 'not ... either'.",
+      "examples": [
+        {"jp": "私も学生です。", "reading": "わたしも がくせいです。", "en": "I am a student, too."},
+        {"jp": "猫がいます。犬もいます。", "reading": "ねこが います。いぬも います。", "en": "There is a cat. There is also a dog."}
+      ],
+      "quiz": [
+        {"q": "山田さんは 先生です。佐藤さん（　　）先生です。", "choices": ["は", "が", "も", "を"], "answer": 2, "en": "Ms. Yamada is a teacher. Mr. Sato is also a teacher."}
+      ]
+    },
+    {
+      "id": "n5-g11",
+      "title": "Particle の (possession)",
+      "structure": "Noun A + の + Noun B",
+      "explanation": "The particle の connects two nouns, showing possession or description. Noun A describes or owns Noun B, like 'A's B' or 'B of A' in English. For example, 私の本 means 'my book'.",
+      "examples": [
+        {"jp": "これは私の本です。", "reading": "これは わたしの ほんです。", "en": "This is my book."},
+        {"jp": "それは日本語の辞書です。", "reading": "それは にほんごの じしょです。", "en": "That is a Japanese dictionary."}
+      ],
+      "quiz": [
+        {"q": "それは 私（　　）かばんです。", "choices": ["の", "は", "が", "も"], "answer": 0, "en": "That is my bag."}
+      ]
+    },
+    {
+      "id": "n5-g12",
+      "title": "〜ませんか",
+      "structure": "Verb stem + ませんか",
+      "explanation": "〜ませんか is used to invite someone to do something, like 'Won't you ...?' or 'Would you like to ...?' in English. Although it looks negative, it is a polite and friendly invitation. It is softer than asking directly with 〜ますか.",
+      "examples": [
+        {"jp": "一緒に昼ご飯を食べませんか。", "reading": "いっしょに ひるごはんを たべませんか。", "en": "Won't you have lunch with me?"},
+        {"jp": "明日映画を見ませんか。", "reading": "あした えいがを みませんか。", "en": "Won't you watch a movie tomorrow?"}
+      ],
+      "quiz": [
+        {"q": "一緒に コーヒーを 飲み（　　）。", "choices": ["ます", "ました", "たいです", "ませんか"], "answer": 3, "en": "Won't you drink coffee with me?"}
+      ]
+    },
+    {
+      "id": "n5-g13",
+      "title": "〜ましょう",
+      "structure": "Verb stem + ましょう",
+      "explanation": "〜ましょう means 'let's do ...' and is used to suggest doing something together. It often follows an invitation or a reason. Adding か (〜ましょうか) turns it into a suggestion or an offer to help.",
+      "examples": [
+        {"jp": "一緒に帰りましょう。", "reading": "いっしょに かえりましょう。", "en": "Let's go home together."},
+        {"jp": "駅の前で会いましょう。", "reading": "えきの まえで あいましょう。", "en": "Let's meet in front of the station."}
+      ],
+      "quiz": [
+        {"q": "もう 遅いですから、帰り（　　）。", "choices": ["ます", "ません", "ましょう", "ました"], "answer": 2, "en": "It's already late, so let's go home."}
+      ]
+    },
+    {
+      "id": "n5-g14",
+      "title": "〜てください",
+      "structure": "Verb て-form + ください",
+      "explanation": "〜てください is used to politely ask or tell someone to do something, like 'please do ...' in English. Change the verb to its て-form and add ください. It is polite but still a direct request, so it is common with teachers, staff, and instructions.",
+      "examples": [
+        {"jp": "ここに名前を書いてください。", "reading": "ここに なまえを かいてください。", "en": "Please write your name here."},
+        {"jp": "ゆっくり話してください。", "reading": "ゆっくり はなしてください。", "en": "Please speak slowly."}
+      ],
+      "quiz": [
+        {"q": "すみません、もう一度 言（　　）ください。", "choices": ["い", "わないで", "います", "って"], "answer": 3, "en": "Excuse me, please say it one more time."}
+      ]
+    },
+    {
+      "id": "n5-g15",
+      "title": "〜てもいいです",
+      "structure": "Verb て-form + もいいです",
+      "explanation": "〜てもいいです expresses permission, meaning 'it is okay to ...' or 'you may ...'. In question form, 〜てもいいですか asks for permission: 'May I ...?'. It is one of the most useful patterns for polite everyday requests.",
+      "examples": [
+        {"jp": "窓を開けてもいいですか。", "reading": "まどを あけてもいいですか。", "en": "May I open the window?"},
+        {"jp": "このペンを使ってもいいですよ。", "reading": "このペンを つかってもいいですよ。", "en": "You may use this pen."}
+      ],
+      "quiz": [
+        {"q": "トイレに 行っ（　　）いいですか。", "choices": ["ては", "ても", "たら", "たり"], "answer": 1, "en": "May I go to the bathroom?"}
+      ]
+    },
+    {
+      "id": "n5-g16",
+      "title": "〜てはいけません",
+      "structure": "Verb て-form + はいけません",
+      "explanation": "〜てはいけません expresses prohibition: 'you must not ...' or 'it is not allowed to ...'. Change the verb to the て-form and add はいけません. It is often used for rules, signs, and warnings.",
+      "examples": [
+        {"jp": "ここでたばこを吸ってはいけません。", "reading": "ここで たばこを すってはいけません。", "en": "You must not smoke here."},
+        {"jp": "図書館で大きい声で話してはいけません。", "reading": "としょかんで おおきい こえで はなしてはいけません。", "en": "You must not talk loudly in the library."}
+      ],
+      "quiz": [
+        {"q": "この川で 泳い（　　）いけません。", "choices": ["では", "でも", "でから", "でに"], "answer": 0, "en": "You must not swim in this river."}
+      ]
+    },
+    {
+      "id": "n5-g17",
+      "title": "い-adjective conjugation",
+      "structure": "〜い / 〜くないです / 〜かったです / 〜くなかったです",
+      "explanation": "い-adjectives end in い, such as 高い and 寒い. The adjective itself changes form: negative 〜くないです, past 〜かったです, and past negative 〜くなかったです. Note that いい (good) is irregular and changes to よくない and よかった.",
+      "examples": [
+        {"jp": "この本は面白いです。", "reading": "このほんは おもしろいです。", "en": "This book is interesting."},
+        {"jp": "昨日は寒かったです。", "reading": "きのうは さむかったです。", "en": "It was cold yesterday."}
+      ],
+      "quiz": [
+        {"q": "このカレーは あまり 辛（　　）です。", "choices": ["い", "かった", "くない", "くて"], "answer": 2, "en": "This curry is not very spicy."}
+      ]
+    },
+    {
+      "id": "n5-g18",
+      "title": "な-adjective conjugation",
+      "structure": "な-adjective + な + noun / 〜です / 〜ではありません",
+      "explanation": "な-adjectives, such as 静か and 有名, take な when they come before a noun (静かな町). At the end of a sentence, they work like nouns: 静かです, 静かではありません, 静かでした. They do not change their own form like い-adjectives do.",
+      "examples": [
+        {"jp": "この町は静かです。", "reading": "このまちは しずかです。", "en": "This town is quiet."},
+        {"jp": "田中さんは親切な人です。", "reading": "たなかさんは しんせつな ひとです。", "en": "Mr. Tanaka is a kind person."}
+      ],
+      "quiz": [
+        {"q": "ここは 有名（　　）公園です。", "choices": ["い", "な", "の", "に"], "answer": 1, "en": "This is a famous park."}
+      ]
+    },
+    {
+      "id": "n5-g19",
+      "title": "〜たいです",
+      "structure": "Verb stem + たいです",
+      "explanation": "〜たいです expresses the speaker's desire to do something: 'I want to ...'. Attach たい to the verb stem (the ます form without ます). The object can be marked with either が or を, and たい itself conjugates like an い-adjective (たくないです, たかったです).",
+      "examples": [
+        {"jp": "冷たい水が飲みたいです。", "reading": "つめたい みずが のみたいです。", "en": "I want to drink cold water."},
+        {"jp": "日本へ行きたいです。", "reading": "にほんへ いきたいです。", "en": "I want to go to Japan."}
+      ],
+      "quiz": [
+        {"q": "新しい 靴が 買い（　　）です。", "choices": ["ほしい", "たい", "たく", "たかった"], "answer": 1, "en": "I want to buy new shoes."}
+      ]
+    },
+    {
+      "id": "n5-g20",
+      "title": "〜が好きです",
+      "structure": "Noun + が + 好きです",
+      "explanation": "Use 〜が好きです to say that you like something. The thing you like is marked with が, not を, because 好き is a な-adjective, not a verb. The opposite is 〜が嫌いです (dislike), and 'like very much' is 〜が大好きです.",
+      "examples": [
+        {"jp": "私は音楽が好きです。", "reading": "わたしは おんがくが すきです。", "en": "I like music."},
+        {"jp": "父はスポーツが好きです。", "reading": "ちちは スポーツが すきです。", "en": "My father likes sports."}
+      ],
+      "quiz": [
+        {"q": "私は 犬（　　）好きです。", "choices": ["を", "に", "が", "で"], "answer": 2, "en": "I like dogs."}
+      ]
+    },
+    {
+      "id": "n5-g21",
+      "title": "〜があります／います",
+      "structure": "Place + に + Noun + が + あります / います",
+      "explanation": "あります and います mean 'there is / there are' or 'to have'. Use あります for things that do not move by themselves (books, buildings), and います for people and animals. The place is marked with に and the thing that exists with が.",
+      "examples": [
+        {"jp": "机の上に本があります。", "reading": "つくえの うえに ほんが あります。", "en": "There is a book on the desk."},
+        {"jp": "公園に子供がいます。", "reading": "こうえんに こどもが います。", "en": "There are children in the park."}
+      ],
+      "quiz": [
+        {"q": "部屋に 猫が（　　）。", "choices": ["あります", "います", "です", "します"], "answer": 1, "en": "There is a cat in the room."}
+      ]
+    },
+    {
+      "id": "n5-g22",
+      "title": "Counters 〜つ",
+      "structure": "Noun + を + number + つ",
+      "explanation": "〜つ is the general counter for small objects, used from one to nine: ひとつ, ふたつ, みっつ, よっつ, いつつ, むっつ, ななつ, やっつ, ここのつ. The number phrase usually comes after the noun and its particle. Other things need special counters, such as 〜本 for long objects, 〜枚 for flat objects, and 〜台 for machines.",
+      "examples": [
+        {"jp": "りんごを三つ買いました。", "reading": "りんごを みっつ かいました。", "en": "I bought three apples."},
+        {"jp": "机の上にみかんが二つあります。", "reading": "つくえの うえに みかんが ふたつ あります。", "en": "There are two mandarin oranges on the desk."}
+      ],
+      "quiz": [
+        {"q": "すみません、りんごを（　　）ください。", "choices": ["にほん", "にまい", "ふたつ", "にだい"], "answer": 2, "en": "Excuse me, please give me two apples."}
+      ]
+    },
+    {
+      "id": "n5-g23",
+      "title": "〜から (reason)",
+      "structure": "Sentence 1 + から、Sentence 2",
+      "explanation": "から attaches to the end of a sentence to give a reason: 'because Sentence 1, Sentence 2'. The reason comes first, followed by から, and then the result. In polite speech, use the です/ます form before から.",
+      "examples": [
+        {"jp": "暑いですから、窓を開けます。", "reading": "あついですから、まどを あけます。", "en": "Because it is hot, I will open the window."},
+        {"jp": "時間がありませんから、タクシーで行きます。", "reading": "じかんが ありませんから、タクシーで いきます。", "en": "Because there is no time, I will go by taxi."}
+      ],
+      "quiz": [
+        {"q": "今日は 日曜日です（　　）、学校は 休みです。", "choices": ["でも", "より", "まで", "から"], "answer": 3, "en": "Because today is Sunday, school is closed."}
+      ]
+    },
+    {
+      "id": "n5-g24",
+      "title": "〜ないでください",
+      "structure": "Verb ない-form + でください",
+      "explanation": "〜ないでください is used to politely ask someone not to do something: 'please don't ...'. Change the verb to its plain negative ない-form and add でください. It is softer than 〜てはいけません, which states a rule.",
+      "examples": [
+        {"jp": "ここで写真を撮らないでください。", "reading": "ここで しゃしんを とらないでください。", "en": "Please don't take pictures here."},
+        {"jp": "教室で食べないでください。", "reading": "きょうしつで たべないでください。", "en": "Please don't eat in the classroom."}
+      ],
+      "quiz": [
+        {"q": "危ないですから、ここで 泳が（　　）ください。", "choices": ["なくて", "ないで", "ません", "なかった"], "answer": 1, "en": "It is dangerous, so please don't swim here."}
+      ]
+    },
+    {
+      "id": "n5-g25",
+      "title": "〜の方が〜より",
+      "structure": "A + の方が + B + より + adjective",
+      "explanation": "This pattern compares two things: 'A is more ... than B'. The thing that is 'more' takes の方が, and the other takes より. The order can change (BよりAの方が) without changing the meaning.",
+      "examples": [
+        {"jp": "電車の方がバスより速いです。", "reading": "でんしゃの ほうが バスより はやいです。", "en": "The train is faster than the bus."},
+        {"jp": "夏より冬の方が好きです。", "reading": "なつより ふゆの ほうが すきです。", "en": "I like winter more than summer."}
+      ],
+      "quiz": [
+        {"q": "犬の（　　）が 猫より 好きです。", "choices": ["ほう", "こと", "もの", "とき"], "answer": 0, "en": "I like dogs more than cats."}
+      ]
+    }
+  ]
+}

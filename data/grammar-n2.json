@@ -1,0 +1,1045 @@
+{
+  "level": "N2",
+  "points": [
+    {
+      "id": "n2-g01",
+      "title": "〜ものの",
+      "structure": "V(plain) / い-adj / な-adj + な・である + ものの",
+      "explanation": "Expresses a contrast: 'although X is true, the expected result did not follow.' It is more formal than けど and often introduces a situation that has not turned out as hoped.",
+      "examples": [
+        {
+          "jp": "新しいパソコンを買ったものの、使い方がよく分からない。",
+          "reading": "あたらしい パソコン を かった ものの、つかいかた が よく わからない。",
+          "en": "Although I bought a new computer, I don't really know how to use it."
+        },
+        {
+          "jp": "彼に謝ったものの、まだ許してもらえない。",
+          "reading": "かれ に あやまった ものの、まだ ゆるして もらえない。",
+          "en": "Although I apologized to him, he still hasn't forgiven me."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "大学を卒業した（　　）、仕事がなかなか見つからない。",
+          "choices": ["ものの", "ものだから", "ものか", "どころか"],
+          "answer": 0,
+          "en": "Although I graduated from university, I just can't find a job."
+        }
+      ]
+    },
+    {
+      "id": "n2-g02",
+      "title": "〜ものだから",
+      "structure": "V / い-adj (plain) + ものだから; な-adj + な + ものだから",
+      "explanation": "Gives a reason or excuse, often for something the speaker feels apologetic about. It emphasizes that the situation was beyond the speaker's control. Common in spoken excuses.",
+      "examples": [
+        {
+          "jp": "電車が遅れたものだから、会議に間に合わなかった。",
+          "reading": "でんしゃ が おくれた ものだから、かいぎ に まにあわなかった。",
+          "en": "Because the train was delayed, I couldn't make it to the meeting in time."
+        },
+        {
+          "jp": "あまりに疲れていたものだから、途中で寝てしまった。",
+          "reading": "あまりに つかれて いた ものだから、とちゅう で ねて しまった。",
+          "en": "I was so tired that I ended up falling asleep partway through."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "道が混んでいた（　　）、遅刻してしまいました。",
+          "choices": ["ものか", "ものだから", "どころか", "ことなく"],
+          "answer": 1,
+          "en": "The roads were crowded, so I ended up being late."
+        }
+      ]
+    },
+    {
+      "id": "n2-g03",
+      "title": "〜ものか",
+      "structure": "V / い-adj (plain) + ものか; な-adj + な + ものか",
+      "explanation": "A strong emphatic denial: 'as if I would ever...!' or 'there's no way...!' It expresses the speaker's determination or strong emotion. In casual speech it often becomes もんか.",
+      "examples": [
+        {
+          "jp": "あんな店、二度と行くものか。",
+          "reading": "あんな みせ、にどと いく ものか。",
+          "en": "As if I would ever go to that store again!"
+        },
+        {
+          "jp": "彼の言うことなんか信じるものか。",
+          "reading": "かれ の いう こと なんか しんじる ものか。",
+          "en": "There's no way I'd believe anything he says!"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "こんなにまずい料理、誰が食べる（　　）。",
+          "choices": ["ものの", "ものだから", "ものか", "ことか"],
+          "answer": 2,
+          "en": "Who would ever eat food this bad!"
+        }
+      ]
+    },
+    {
+      "id": "n2-g04",
+      "title": "〜どころか",
+      "structure": "N / V / い-adj (plain) + どころか; な-adj + (な) + どころか",
+      "explanation": "Means 'far from' or 'not to mention.' The reality is completely different from, or goes much further than, what was stated first. It often introduces a surprising contrast.",
+      "examples": [
+        {
+          "jp": "彼は漢字どころか、ひらがなも書けない。",
+          "reading": "かれ は かんじ どころか、ひらがな も かけない。",
+          "en": "Far from kanji, he can't even write hiragana."
+        },
+        {
+          "jp": "雨はやむどころか、ますます強くなった。",
+          "reading": "あめ は やむ どころか、ますます つよく なった。",
+          "en": "Far from stopping, the rain got even heavier."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "貯金する（　　）、毎月の生活費も足りない。",
+          "choices": ["ばかりに", "うえに", "ものの", "どころか"],
+          "answer": 3,
+          "en": "Far from saving money, I don't even have enough for monthly living expenses."
+        }
+      ]
+    },
+    {
+      "id": "n2-g05",
+      "title": "〜どころではない",
+      "structure": "N / V(dictionary form) + どころではない",
+      "explanation": "Indicates that the situation makes something completely impossible or out of the question: 'this is no time for...' It stresses that circumstances are too serious or busy for the activity mentioned.",
+      "examples": [
+        {
+          "jp": "仕事が忙しくて、旅行どころではない。",
+          "reading": "しごと が いそがしくて、りょこう どころ では ない。",
+          "en": "I'm so busy with work that a trip is out of the question."
+        },
+        {
+          "jp": "熱が出て、勉強どころではなかった。",
+          "reading": "ねつ が でて、べんきょう どころ では なかった。",
+          "en": "I had a fever, so studying was the last thing I could do."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "来週試験があるので、遊んでいる（　　）。",
+          "choices": ["にすぎない", "ことはない", "おそれがある", "どころではない"],
+          "answer": 3,
+          "en": "I have an exam next week, so this is no time to be playing around."
+        }
+      ]
+    },
+    {
+      "id": "n2-g06",
+      "title": "〜ないことはない",
+      "structure": "V-ない / い-adj-くない + ことはない",
+      "explanation": "A double negative meaning 'it's not that... not' — in other words, something is possible or true, but with hesitation or conditions attached. It gives a reserved, partial affirmation.",
+      "examples": [
+        {
+          "jp": "頑張れば、明日までに終わらないことはない。",
+          "reading": "がんばれば、あした まで に おわらない こと は ない。",
+          "en": "If I work hard, it's not impossible to finish by tomorrow."
+        },
+        {
+          "jp": "辛いものは食べないことはないが、あまり好きではない。",
+          "reading": "からい もの は たべない こと は ない が、あまり すき では ない。",
+          "en": "It's not that I don't eat spicy food, but I don't like it much."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "急げば間に合わ（　　）が、かなり大変だ。",
+          "choices": ["ざるを得ない", "ないことはない", "ないではいられない", "かねない"],
+          "answer": 1,
+          "en": "If we hurry, it's not impossible to make it, but it will be quite tough."
+        }
+      ]
+    },
+    {
+      "id": "n2-g07",
+      "title": "〜かねる / 〜かねない",
+      "structure": "V-ます stem + かねる（cannot）/ かねない（might, could）",
+      "explanation": "かねる is a formal way to say one cannot or finds it difficult to do something, often used in business to decline politely. The negative form かねない means the opposite: 'might well do' something undesirable.",
+      "examples": [
+        {
+          "jp": "個人情報については、お答えしかねます。",
+          "reading": "こじん じょうほう に ついて は、おこたえ しかねます。",
+          "en": "I am unable to answer questions regarding personal information."
+        },
+        {
+          "jp": "あの人なら、そんなひどいことも言いかねない。",
+          "reading": "あの ひと なら、そんな ひどい こと も いいかねない。",
+          "en": "Knowing him, he might well say something that awful."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "申し訳ございませんが、その件はこちらでは分かり（　　）。",
+          "choices": ["がたいです", "得ます", "かねます", "ざるを得ません"],
+          "answer": 2,
+          "en": "I'm very sorry, but we are unable to tell you about that matter."
+        }
+      ]
+    },
+    {
+      "id": "n2-g08",
+      "title": "〜がたい",
+      "structure": "V-ます stem + がたい",
+      "explanation": "Means 'hard to do' in an emotional or psychological sense — the action is almost impossible to bring oneself to do. Common with verbs like 信じる, 理解する, 忘れる, 許す.",
+      "examples": [
+        {
+          "jp": "彼が嘘をついたなんて信じがたい。",
+          "reading": "かれ が うそ を ついた なんて しんじがたい。",
+          "en": "It's hard to believe that he told a lie."
+        },
+        {
+          "jp": "あの試合は忘れがたい思い出になった。",
+          "reading": "あの しあい は わすれがたい おもいで に なった。",
+          "en": "That match became an unforgettable memory."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "彼の行動は理解し（　　）ものがある。",
+          "choices": ["かねる", "すぎない", "やすい", "がたい"],
+          "answer": 3,
+          "en": "There is something hard to understand about his behavior."
+        }
+      ]
+    },
+    {
+      "id": "n2-g09",
+      "title": "〜得る / 〜得ない",
+      "structure": "V-ます stem + 得る（うる／える）/ 得ない（えない）",
+      "explanation": "得る attached to a verb stem means 'can happen' or 'is possible,' while 得ない means 'cannot possibly happen.' It describes logical possibility rather than personal ability, and is common in written or formal Japanese.",
+      "examples": [
+        {
+          "jp": "この計画は十分成功し得ると思う。",
+          "reading": "この けいかく は じゅうぶん せいこう しうる と おもう。",
+          "en": "I think this plan can very well succeed."
+        },
+        {
+          "jp": "彼が犯人だなんて、そんなことはあり得ない。",
+          "reading": "かれ が はんにん だ なんて、そんな こと は ありえない。",
+          "en": "Him being the culprit? That's impossible."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "地震はいつでも起こり（　　）ので、日頃の準備が必要だ。",
+          "choices": ["得る", "かねる", "がたい", "次第だ"],
+          "answer": 0,
+          "en": "Earthquakes can happen at any time, so everyday preparation is necessary."
+        }
+      ]
+    },
+    {
+      "id": "n2-g10",
+      "title": "〜ざるを得ない",
+      "structure": "V-ない stem + ざるを得ない（する → せざるを得ない）",
+      "explanation": "Means 'have no choice but to do' something, usually reluctantly, because of circumstances or pressure. Note the irregular form せざるを得ない for する.",
+      "examples": [
+        {
+          "jp": "台風のため、試合は中止せざるを得なかった。",
+          "reading": "たいふう の ため、しあい は ちゅうし せざる を えなかった。",
+          "en": "Because of the typhoon, we had no choice but to cancel the match."
+        },
+        {
+          "jp": "上司の命令なので、従わざるを得ない。",
+          "reading": "じょうし の めいれい な ので、したがわざる を えない。",
+          "en": "Since it's my boss's order, I have no choice but to obey."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "材料費が上がったので、値段を上げ（　　）。",
+          "choices": ["るものか", "ざるを得ない", "ないことはない", "どころではない"],
+          "answer": 1,
+          "en": "Since the cost of materials went up, we have no choice but to raise prices."
+        }
+      ]
+    },
+    {
+      "id": "n2-g11",
+      "title": "〜ずにはいられない",
+      "structure": "V-ない stem + ずにはいられない（する → せずにはいられない）",
+      "explanation": "Means 'cannot help doing' — the feeling or urge is so strong that the speaker cannot suppress the action. It expresses spontaneous, uncontrollable emotion or behavior.",
+      "examples": [
+        {
+          "jp": "あの映画を見ると、泣かずにはいられない。",
+          "reading": "あの えいが を みる と、なかずに は いられない。",
+          "en": "Whenever I watch that movie, I can't help crying."
+        },
+        {
+          "jp": "彼の話がおかしくて、笑わずにはいられなかった。",
+          "reading": "かれ の はなし が おかしくて、わらわずに は いられなかった。",
+          "en": "His story was so funny that I couldn't help laughing."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "彼女のことが心配で、電話せ（　　）。",
+          "choices": ["ざるを得る", "かねない", "ずにはいられない", "がたい"],
+          "answer": 2,
+          "en": "I was so worried about her that I couldn't help calling."
+        }
+      ]
+    },
+    {
+      "id": "n2-g12",
+      "title": "〜に限って / 〜に限らず",
+      "structure": "N + に限って / N + に限らず",
+      "explanation": "に限って means 'precisely when/for...' and is used for unlucky timing or for insisting someone would never do wrong. に限らず means 'not limited to' and broadens the scope to include other cases.",
+      "examples": [
+        {
+          "jp": "急いでいる時に限って、バスが来ない。",
+          "reading": "いそいで いる とき に かぎって、バス が こない。",
+          "en": "It's precisely when I'm in a hurry that the bus doesn't come."
+        },
+        {
+          "jp": "この店は週末に限らず、平日も混んでいる。",
+          "reading": "この みせ は しゅうまつ に かぎらず、へいじつ も こんで いる。",
+          "en": "This shop is crowded not only on weekends but on weekdays too."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "うちの子（　　）、そんな悪いことをするはずがない。",
+          "choices": ["に応じて", "にすぎず", "に沿って", "に限って"],
+          "answer": 3,
+          "en": "My child, of all people, would never do such a bad thing."
+        }
+      ]
+    },
+    {
+      "id": "n2-g13",
+      "title": "〜にすぎない",
+      "structure": "N / V(plain) + にすぎない",
+      "explanation": "Means 'nothing more than' or 'merely.' It downplays the importance of something, stating that it does not go beyond the stated level or amount.",
+      "examples": [
+        {
+          "jp": "それは単なる噂にすぎない。",
+          "reading": "それ は たんなる うわさ に すぎない。",
+          "en": "That is nothing more than a mere rumor."
+        },
+        {
+          "jp": "私は自分の意見を言ったにすぎません。",
+          "reading": "わたし は じぶん の いけん を いった に すぎません。",
+          "en": "I merely stated my own opinion, nothing more."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "彼はまだ新人（　　）から、失敗しても仕方がない。",
+          "choices": ["にほかならない", "に相違ない", "にすぎない", "に限らない"],
+          "answer": 2,
+          "en": "He is still just a newcomer, so it can't be helped if he makes mistakes."
+        }
+      ]
+    },
+    {
+      "id": "n2-g14",
+      "title": "〜にほかならない",
+      "structure": "N / V(plain) + の・から + にほかならない",
+      "explanation": "A strong assertion meaning 'is nothing other than' — the speaker declares that something is precisely X and nothing else. It is formal and often used to state the true cause or essence of something.",
+      "examples": [
+        {
+          "jp": "彼の成功は努力の結果にほかならない。",
+          "reading": "かれ の せいこう は どりょく の けっか に ほかならない。",
+          "en": "His success is nothing other than the result of hard work."
+        },
+        {
+          "jp": "厳しく注意するのは、あなたのためを思うからにほかならない。",
+          "reading": "きびしく ちゅうい する の は、あなた の ため を おもう から に ほかならない。",
+          "en": "The only reason I scold you strictly is that I care about you."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "この作品が完成したのは、皆の協力があったから（　　）。",
+          "choices": ["にすぎない", "にほかならない", "どころではない", "ものか"],
+          "answer": 1,
+          "en": "This work was completed precisely because of everyone's cooperation."
+        }
+      ]
+    },
+    {
+      "id": "n2-g15",
+      "title": "〜に相違ない",
+      "structure": "N / V / い-adj (plain) + に相違ない",
+      "explanation": "A formal expression of strong conviction: 'must be' or 'without a doubt.' It is similar to に違いない but sounds stiffer and is more common in writing.",
+      "examples": [
+        {
+          "jp": "あの筆跡は彼のものに相違ない。",
+          "reading": "あの ひっせき は かれ の もの に そうい ない。",
+          "en": "That handwriting is undoubtedly his."
+        },
+        {
+          "jp": "犯人はこの窓から入ったに相違ない。",
+          "reading": "はんにん は この まど から はいった に そうい ない。",
+          "en": "The culprit must have entered through this window."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "この絵は本物（　　）と専門家は判断した。",
+          "choices": ["にすぎない", "どころか", "に相違ない", "に限って"],
+          "answer": 2,
+          "en": "The experts judged that this painting is without doubt genuine."
+        }
+      ]
+    },
+    {
+      "id": "n2-g16",
+      "title": "〜のみならず",
+      "structure": "N / V / い-adj (plain) + のみならず",
+      "explanation": "A formal equivalent of だけでなく, meaning 'not only... but also.' The second clause usually adds something of wider scope, often marked with も or まで.",
+      "examples": [
+        {
+          "jp": "彼は英語のみならず、中国語も話せる。",
+          "reading": "かれ は えいご のみ ならず、ちゅうごくご も はなせる。",
+          "en": "He can speak not only English but also Chinese."
+        },
+        {
+          "jp": "この薬は大人のみならず、子供にも効果がある。",
+          "reading": "この くすり は おとな のみ ならず、こども に も こうか が ある。",
+          "en": "This medicine is effective not only for adults but also for children."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "この問題は日本（　　）、世界全体に関わることだ。",
+          "choices": ["ばかりに", "に限って", "にすぎず", "のみならず"],
+          "answer": 3,
+          "en": "This problem concerns not only Japan but the entire world."
+        }
+      ]
+    },
+    {
+      "id": "n2-g17",
+      "title": "〜はもとより",
+      "structure": "N + はもとより",
+      "explanation": "Means 'not to mention' or 'of course... and also.' The first item is presented as obvious, and the sentence adds a further, often less expected item. It is somewhat formal.",
+      "examples": [
+        {
+          "jp": "彼は平日はもとより、週末も働いている。",
+          "reading": "かれ は へいじつ は もとより、しゅうまつ も はたらいて いる。",
+          "en": "He works on weekends, not to mention weekdays."
+        },
+        {
+          "jp": "この町は交通の便はもとより、自然環境もすばらしい。",
+          "reading": "この まち は こうつう の べん は もとより、しぜん かんきょう も すばらしい。",
+          "en": "This town has a wonderful natural environment, not to mention convenient transportation."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "健康のためには、食事（　　）、睡眠にも気をつけるべきだ。",
+          "choices": ["はもとより", "ばかりに", "どころではなく", "に相違なく"],
+          "answer": 0,
+          "en": "For your health, you should pay attention to sleep as well as, of course, diet."
+        }
+      ]
+    },
+    {
+      "id": "n2-g18",
+      "title": "〜ばかりに",
+      "structure": "V / い-adj (plain) + ばかりに; な-adj + な / である + ばかりに",
+      "explanation": "Means 'just because' or 'simply because,' and the result is almost always negative. The speaker regrets that a single cause led to an unfortunate outcome.",
+      "examples": [
+        {
+          "jp": "私が油断したばかりに、チームが負けてしまった。",
+          "reading": "わたし が ゆだん した ばかりに、チーム が まけて しまった。",
+          "en": "Just because I let my guard down, the team ended up losing."
+        },
+        {
+          "jp": "パスポートを忘れたばかりに、飛行機に乗れなかった。",
+          "reading": "パスポート を わすれた ばかりに、ひこうき に のれなかった。",
+          "en": "Simply because I forgot my passport, I couldn't board the plane."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "つまらない嘘をついた（　　）、彼女に嫌われてしまった。",
+          "choices": ["おかげで", "ばかりに", "どころか", "ものか"],
+          "answer": 1,
+          "en": "Just because I told a silly lie, she ended up disliking me."
+        }
+      ]
+    },
+    {
+      "id": "n2-g19",
+      "title": "〜あまり",
+      "structure": "N + の + あまり / V(plain) + あまり",
+      "explanation": "Means 'so much... that' — an emotion or state was so extreme that it produced an unusual, often negative result. Common with emotion nouns like 心配, 驚き, 緊張.",
+      "examples": [
+        {
+          "jp": "心配のあまり、夜も眠れなかった。",
+          "reading": "しんぱい の あまり、よる も ねむれなかった。",
+          "en": "I was so worried that I couldn't even sleep at night."
+        },
+        {
+          "jp": "驚きのあまり、言葉が出なかった。",
+          "reading": "おどろき の あまり、ことば が でなかった。",
+          "en": "I was so surprised that words failed me."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "緊張した（　　）、自分の名前を言い間違えてしまった。",
+          "choices": ["ものの", "上で", "あまり", "末に"],
+          "answer": 2,
+          "en": "I was so nervous that I said my own name wrong."
+        }
+      ]
+    },
+    {
+      "id": "n2-g20",
+      "title": "〜あげく",
+      "structure": "V-た + あげく / N + の + あげく",
+      "explanation": "Means 'after (a long process), in the end...' and usually leads to a negative or disappointing result. It emphasizes that much time or effort was spent before that outcome.",
+      "examples": [
+        {
+          "jp": "さんざん悩んだあげく、留学をあきらめた。",
+          "reading": "さんざん なやんだ あげく、りゅうがく を あきらめた。",
+          "en": "After agonizing over it, I ended up giving up on studying abroad."
+        },
+        {
+          "jp": "長時間待たされたあげく、面接は中止になった。",
+          "reading": "ちょうじかん またされた あげく、めんせつ は ちゅうし に なった。",
+          "en": "After being kept waiting for hours, the interview ended up being canceled."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "何時間も話し合った（　　）、結論は出なかった。",
+          "choices": ["上で", "つつ", "ばかりに", "あげく"],
+          "answer": 3,
+          "en": "After discussing for hours, in the end no conclusion was reached."
+        }
+      ]
+    },
+    {
+      "id": "n2-g21",
+      "title": "〜末に",
+      "structure": "V-た + 末に / N + の + 末に",
+      "explanation": "Means 'after (a long process), finally...' Similar to あげく, but the result can be positive or neutral, often a decision reached after careful thought or effort.",
+      "examples": [
+        {
+          "jp": "悩んだ末に、会社を辞めることにした。",
+          "reading": "なやんだ すえ に、かいしゃ を やめる こと に した。",
+          "en": "After much deliberation, I decided to quit the company."
+        },
+        {
+          "jp": "長い議論の末に、計画が承認された。",
+          "reading": "ながい ぎろん の すえ に、けいかく が しょうにん された。",
+          "en": "After long discussion, the plan was finally approved."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "長年の苦労の（　　）、彼はついに夢を実現させた。",
+          "choices": ["あまり", "末に", "くせに", "通りに"],
+          "answer": 1,
+          "en": "After years of hardship, he finally made his dream come true."
+        }
+      ]
+    },
+    {
+      "id": "n2-g22",
+      "title": "〜以上（は）",
+      "structure": "V(plain) + 以上（は）",
+      "explanation": "Means 'now that' or 'since' — because a situation holds, a natural duty, determination, or conclusion follows. The second clause often contains べきだ, なければならない, or つもりだ.",
+      "examples": [
+        {
+          "jp": "約束した以上は、必ず守らなければならない。",
+          "reading": "やくそく した いじょう は、かならず まもらなければ ならない。",
+          "en": "Now that I've made a promise, I absolutely have to keep it."
+        },
+        {
+          "jp": "日本に住む以上、日本の法律に従うべきだ。",
+          "reading": "にほん に すむ いじょう、にほん の ほうりつ に したがう べきだ。",
+          "en": "As long as you live in Japan, you should follow Japanese law."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "試合に出る（　　）、優勝を目指したい。",
+          "choices": ["くせに", "以上は", "一方で", "あまり"],
+          "answer": 1,
+          "en": "Now that I'm competing in the tournament, I want to aim for the championship."
+        }
+      ]
+    },
+    {
+      "id": "n2-g23",
+      "title": "〜上で",
+      "structure": "V-た + 上で / N + の + 上で",
+      "explanation": "Means 'after doing X (and on that basis)' — an action is taken only after a necessary preliminary step such as checking or consulting. It implies a careful, deliberate order of actions.",
+      "examples": [
+        {
+          "jp": "よく考えた上で、お返事します。",
+          "reading": "よく かんがえた うえ で、おへんじ します。",
+          "en": "I will reply after thinking it over carefully."
+        },
+        {
+          "jp": "契約書の内容を確認した上で、サインしてください。",
+          "reading": "けいやくしょ の ないよう を かくにん した うえ で、サイン して ください。",
+          "en": "Please sign the contract after checking its contents."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "両親と相談した（　　）、進路を決めるつもりだ。",
+          "choices": ["あげく", "ばかりに", "上で", "次第で"],
+          "answer": 2,
+          "en": "I intend to decide my future path after consulting with my parents."
+        }
+      ]
+    },
+    {
+      "id": "n2-g24",
+      "title": "〜上に",
+      "structure": "V / い-adj (plain) + 上に; な-adj + な + 上に; N + の + 上に",
+      "explanation": "Means 'in addition to' or 'on top of that.' It stacks a second fact of the same kind (good on good, bad on bad) onto the first, strengthening the overall impression.",
+      "examples": [
+        {
+          "jp": "このレストランは安い上に、味もいい。",
+          "reading": "この レストラン は やすい うえ に、あじ も いい。",
+          "en": "This restaurant is cheap, and on top of that, the food is good."
+        },
+        {
+          "jp": "道に迷った上に、雨まで降ってきた。",
+          "reading": "みち に まよった うえ に、あめ まで ふって きた。",
+          "en": "On top of getting lost, it even started to rain."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "彼は仕事が速い（　　）、ミスも少ない。",
+          "choices": ["一方で", "どころか", "くせに", "上に"],
+          "answer": 3,
+          "en": "He works fast, and in addition, he makes few mistakes."
+        }
+      ]
+    },
+    {
+      "id": "n2-g25",
+      "title": "〜一方（で）",
+      "structure": "V / い-adj (plain) + 一方（で）; な-adj + な / である + 一方（で）",
+      "explanation": "Presents two contrasting sides of a situation: 'while X, on the other hand Y.' It can contrast two facts or show that one thing happens in parallel with another.",
+      "examples": [
+        {
+          "jp": "都市の人口が増える一方で、農村の人口は減っている。",
+          "reading": "とし の じんこう が ふえる いっぽう で、のうそん の じんこう は へって いる。",
+          "en": "While the urban population is growing, the rural population is shrinking."
+        },
+        {
+          "jp": "彼は仕事に厳しい一方、優しいところもある。",
+          "reading": "かれ は しごと に きびしい いっぽう、やさしい ところ も ある。",
+          "en": "While he is strict about work, he also has a kind side."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "経済が発展する（　　）、環境問題も深刻になっている。",
+          "choices": ["一方で", "上で", "末に", "ものの"],
+          "answer": 0,
+          "en": "While the economy is developing, environmental problems are also becoming serious."
+        }
+      ]
+    },
+    {
+      "id": "n2-g26",
+      "title": "〜つつ / 〜つつある",
+      "structure": "V-ます stem + つつ（while / although）; V-ます stem + つつある（in the process of）",
+      "explanation": "つつ means 'while doing' or, like つつも, 'even though.' つつある indicates that a change is currently in progress: 'is in the process of ...ing.' Both are formal, written-style expressions.",
+      "examples": [
+        {
+          "jp": "悪いと知りつつ、嘘をついてしまった。",
+          "reading": "わるい と しりつつ、うそ を ついて しまった。",
+          "en": "Even though I knew it was wrong, I ended up telling a lie."
+        },
+        {
+          "jp": "日本の人口は減少しつつある。",
+          "reading": "にほん の じんこう は げんしょう しつつ ある。",
+          "en": "Japan's population is in the process of declining."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "景気は少しずつ回復し（　　）。",
+          "choices": ["がたい", "つつある", "かねる", "得ない"],
+          "answer": 1,
+          "en": "The economy is gradually recovering."
+        }
+      ]
+    },
+    {
+      "id": "n2-g27",
+      "title": "〜からといって",
+      "structure": "V / い-adj (plain) + からといって; N / な-adj + だ + からといって",
+      "explanation": "Means 'just because X, it doesn't follow that Y.' It rejects a conclusion that seems natural from the reason given, and is usually followed by a negative form such as とは限らない or わけではない.",
+      "examples": [
+        {
+          "jp": "日本人だからといって、敬語が正しく使えるとは限らない。",
+          "reading": "にほんじん だ から と いって、けいご が ただしく つかえる と は かぎらない。",
+          "en": "Just because someone is Japanese doesn't mean they can use keigo correctly."
+        },
+        {
+          "jp": "安いからといって、たくさん買うのはよくない。",
+          "reading": "やすい から と いって、たくさん かう の は よくない。",
+          "en": "It's not good to buy a lot of something just because it's cheap."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "有名だ（　　）、その店の料理がおいしいとは限らない。",
+          "choices": ["からには", "ばかりに", "からといって", "というより"],
+          "answer": 2,
+          "en": "Just because the restaurant is famous doesn't mean its food is delicious."
+        }
+      ]
+    },
+    {
+      "id": "n2-g28",
+      "title": "〜からには",
+      "structure": "V(plain) + からには",
+      "explanation": "Means 'now that' or 'since,' with a strong sense of obligation or determination in the second clause. Once the condition holds, the speaker feels the conclusion naturally must follow.",
+      "examples": [
+        {
+          "jp": "大会に参加するからには、全力を尽くします。",
+          "reading": "たいかい に さんか する からには、ぜんりょく を つくします。",
+          "en": "Now that I'm participating in the tournament, I will do my very best."
+        },
+        {
+          "jp": "仕事を引き受けたからには、最後まで責任を持つべきだ。",
+          "reading": "しごと を ひきうけた からには、さいご まで せきにん を もつ べきだ。",
+          "en": "Since you accepted the job, you should take responsibility for it to the end."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "留学する（　　）、しっかり勉強して帰りたい。",
+          "choices": ["くせに", "どころか", "ものの", "からには"],
+          "answer": 3,
+          "en": "Since I'm going to study abroad, I want to study hard before coming home."
+        }
+      ]
+    },
+    {
+      "id": "n2-g29",
+      "title": "〜くせに",
+      "structure": "V / い-adj (plain) + くせに; な-adj + な + くせに; N + の + くせに",
+      "explanation": "Means 'even though,' with a strong tone of criticism, blame, or contempt toward the subject. The subject of both clauses is the same person, and it sounds much harsher than のに.",
+      "examples": [
+        {
+          "jp": "彼は答えを知っているくせに、教えてくれない。",
+          "reading": "かれ は こたえ を しって いる くせに、おしえて くれない。",
+          "en": "Even though he knows the answer, he won't tell me."
+        },
+        {
+          "jp": "自分では何もしないくせに、文句ばかり言う。",
+          "reading": "じぶん で は なにも しない くせに、もんく ばかり いう。",
+          "en": "He does nothing himself, yet he does nothing but complain."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "弟は自分で約束した（　　）、すぐ忘れてしまう。",
+          "choices": ["くせに", "上で", "からには", "次第で"],
+          "answer": 0,
+          "en": "Even though my little brother makes promises himself, he forgets them right away."
+        }
+      ]
+    },
+    {
+      "id": "n2-g30",
+      "title": "〜さえ〜ば",
+      "structure": "N + さえ + V-ば / V-ます stem + さえすれば",
+      "explanation": "Means 'if only... then everything is fine.' It singles out one minimal condition as sufficient for the result. さえ replaces particles like が and を.",
+      "examples": [
+        {
+          "jp": "時間さえあれば、もっと旅行したい。",
+          "reading": "じかん さえ あれば、もっと りょこう したい。",
+          "en": "If only I had time, I would like to travel more."
+        },
+        {
+          "jp": "この薬を飲みさえすれば、すぐによくなりますよ。",
+          "reading": "この くすり を のみ さえ すれば、すぐ に よく なります よ。",
+          "en": "As long as you take this medicine, you'll get better soon."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "君（　　）そばにいてくれれば、他には何もいらない。",
+          "choices": ["だけ", "さえ", "ばかり", "のみ"],
+          "answer": 1,
+          "en": "As long as you stay by my side, I don't need anything else."
+        }
+      ]
+    },
+    {
+      "id": "n2-g31",
+      "title": "〜次第 / 〜次第で",
+      "structure": "V-ます stem + 次第（as soon as）; N + 次第で（depending on）",
+      "explanation": "After a verb stem, 次第 means 'as soon as X happens, Y will be done' and is common in formal or business speech. After a noun, 次第で means 'depending on,' i.e., the outcome is determined by that noun.",
+      "examples": [
+        {
+          "jp": "詳細が分かり次第、ご連絡いたします。",
+          "reading": "しょうさい が わかり しだい、ごれんらく いたします。",
+          "en": "I will contact you as soon as the details are known."
+        },
+        {
+          "jp": "結果次第で、今後の計画を変更するかもしれない。",
+          "reading": "けっか しだい で、こんご の けいかく を へんこう する かも しれない。",
+          "en": "Depending on the results, we may change our future plans."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "会議が終わり（　　）、すぐに出発しましょう。",
+          "choices": ["上で", "どころか", "次第", "末に"],
+          "answer": 2,
+          "en": "Let's leave as soon as the meeting is over."
+        }
+      ]
+    },
+    {
+      "id": "n2-g32",
+      "title": "〜だけあって",
+      "structure": "N / V / い-adj (plain) + だけあって; な-adj + な + だけあって",
+      "explanation": "Means 'as you would expect from...' — a quality or result is impressive and matches someone's status, effort, or price. It carries a tone of admiration.",
+      "examples": [
+        {
+          "jp": "彼はプロだけあって、技術がすばらしい。",
+          "reading": "かれ は プロ だけ あって、ぎじゅつ が すばらしい。",
+          "en": "As you'd expect from a professional, his technique is superb."
+        },
+        {
+          "jp": "このホテルは高いだけあって、サービスが行き届いている。",
+          "reading": "この ホテル は たかい だけ あって、サービス が いきとどいて いる。",
+          "en": "This hotel is expensive, and true to its price, the service is impeccable."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "彼女は留学していた（　　）、英語の発音がとてもきれいだ。",
+          "choices": ["くせに", "ばかりに", "ものだから", "だけあって"],
+          "answer": 3,
+          "en": "As you'd expect from someone who studied abroad, her English pronunciation is beautiful."
+        }
+      ]
+    },
+    {
+      "id": "n2-g33",
+      "title": "つい〜てしまう",
+      "structure": "つい + V-て + しまう",
+      "explanation": "つい with 〜てしまう expresses doing something unintentionally or against one's better judgment, often out of habit or momentary impulse. The speaker usually feels slight regret.",
+      "examples": [
+        {
+          "jp": "ダイエット中なのに、ついケーキを食べてしまった。",
+          "reading": "ダイエットちゅう な のに、つい ケーキ を たべて しまった。",
+          "en": "Even though I'm on a diet, I couldn't help eating some cake."
+        },
+        {
+          "jp": "面白くて、つい夜遅くまでゲームをしてしまう。",
+          "reading": "おもしろくて、つい よる おそく まで ゲーム を して しまう。",
+          "en": "It's so fun that I end up playing games until late at night without meaning to."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "疲れていると、（　　）甘いものに手が伸びてしまう。",
+          "choices": ["つい", "まさか", "ぜひ", "たとえ"],
+          "answer": 0,
+          "en": "When I'm tired, I find myself reaching for sweets without thinking."
+        }
+      ]
+    },
+    {
+      "id": "n2-g34",
+      "title": "〜てならない",
+      "structure": "V-て / い-adj-くて / な-adj-で + ならない",
+      "explanation": "Expresses that a feeling or sensation is so strong it cannot be controlled: 'unbearably' or 'can't help feeling.' It is used with words of emotion and spontaneous feeling such as 心配だ, 残念だ, 気になる.",
+      "examples": [
+        {
+          "jp": "一人暮らしの母のことが心配でならない。",
+          "reading": "ひとりぐらし の はは の こと が しんぱい で ならない。",
+          "en": "I can't help worrying about my mother, who lives alone."
+        },
+        {
+          "jp": "あの試合に負けたのが悔しくてならない。",
+          "reading": "あの しあい に まけた の が くやしくて ならない。",
+          "en": "Losing that match is unbearably frustrating."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "遠くに住む孫に会いたくて（　　）。",
+          "choices": ["すぎない", "ならない", "かねない", "いられる"],
+          "answer": 1,
+          "en": "I long unbearably to see my grandchild who lives far away."
+        }
+      ]
+    },
+    {
+      "id": "n2-g35",
+      "title": "〜というものだ",
+      "structure": "N / V / い-adj (plain) + というものだ",
+      "explanation": "Used to assert what something truly is or what is naturally expected: 'that is (exactly) what X is.' The speaker states a general judgment or common-sense conclusion with conviction.",
+      "examples": [
+        {
+          "jp": "困った時に助け合うのが友情というものだ。",
+          "reading": "こまった とき に たすけあう の が ゆうじょう と いう ものだ。",
+          "en": "Helping each other in times of trouble — that is what friendship is."
+        },
+        {
+          "jp": "人の失敗を笑うのは失礼というものだ。",
+          "reading": "ひと の しっぱい を わらう の は しつれい と いう ものだ。",
+          "en": "Laughing at other people's failures is simply rude."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "働かずに給料が倍になるなんて、それは虫がいい話（　　）。",
+          "choices": ["に相違ある", "にすぎる", "というものだ", "どころだ"],
+          "answer": 2,
+          "en": "Doubling your salary without working — that is simply asking too much."
+        }
+      ]
+    },
+    {
+      "id": "n2-g36",
+      "title": "〜というより",
+      "structure": "N / V / い-adj / な-adj (plain) + というより",
+      "explanation": "Means 'rather than' — the speaker corrects or refines a description, saying that a different expression fits better. It is often followed by むしろ for emphasis.",
+      "examples": [
+        {
+          "jp": "彼は歌手というより、俳優として有名だ。",
+          "reading": "かれ は かしゅ と いう より、はいゆう として ゆうめい だ。",
+          "en": "He is famous as an actor rather than as a singer."
+        },
+        {
+          "jp": "今日は涼しいというより、寒いくらいだ。",
+          "reading": "きょう は すずしい と いう より、さむい くらい だ。",
+          "en": "Today is cold, rather than just cool."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "あの人は親切（　　）、おせっかいだと思う。",
+          "choices": ["に限らず", "のみならず", "はもとより", "というより"],
+          "answer": 3,
+          "en": "I think that person is nosy rather than kind."
+        }
+      ]
+    },
+    {
+      "id": "n2-g37",
+      "title": "〜通り（に）",
+      "structure": "V(plain) + 通り（に）/ N + の通り（に）/ N + 通り（どおり）",
+      "explanation": "Means 'exactly as' or 'in accordance with.' Attached directly to a noun it is read どおり (予想通り), and after の or a verb it is read とおり. It shows that something matches instructions, expectations, or a model.",
+      "examples": [
+        {
+          "jp": "説明書の通りに組み立ててください。",
+          "reading": "せつめいしょ の とおり に くみたてて ください。",
+          "en": "Please assemble it exactly as the manual says."
+        },
+        {
+          "jp": "彼の予想通り、試験は難しかった。",
+          "reading": "かれ の よそう どおり、しけん は むずかしかった。",
+          "en": "Just as he predicted, the exam was difficult."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "私が言う（　　）に書いてください。",
+          "choices": ["次第", "通り", "沿い", "上"],
+          "answer": 1,
+          "en": "Please write it down exactly as I say."
+        }
+      ]
+    },
+    {
+      "id": "n2-g38",
+      "title": "〜に応じて",
+      "structure": "N + に応じて",
+      "explanation": "Means 'according to' or 'in response to' — something changes or is adjusted to match circumstances, requests, or levels. It highlights flexible correspondence between two things.",
+      "examples": [
+        {
+          "jp": "経験に応じて、給料が決められる。",
+          "reading": "けいけん に おうじて、きゅうりょう が きめられる。",
+          "en": "Salaries are decided according to experience."
+        },
+        {
+          "jp": "お客様の要望に応じて、メニューを変えている。",
+          "reading": "おきゃくさま の ようぼう に おうじて、メニュー を かえて いる。",
+          "en": "We change the menu in response to customers' requests."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "学生のレベル（　　）、クラスを分けています。",
+          "choices": ["に沿って", "に応じて", "に限って", "にすぎて"],
+          "answer": 1,
+          "en": "We divide the classes according to the students' levels."
+        }
+      ]
+    },
+    {
+      "id": "n2-g39",
+      "title": "〜に沿って",
+      "structure": "N + に沿って",
+      "explanation": "Means 'along' in the physical sense (along a river or road) or 'in line with' plans, policies, and expectations. The action follows the line or guideline without deviating.",
+      "examples": [
+        {
+          "jp": "川に沿って、桜の木が植えられている。",
+          "reading": "かわ に そって、さくら の き が うえられて いる。",
+          "en": "Cherry trees are planted along the river."
+        },
+        {
+          "jp": "マニュアルに沿って、作業を進めてください。",
+          "reading": "マニュアル に そって、さぎょう を すすめて ください。",
+          "en": "Please proceed with the work in line with the manual."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "当初の計画（　　）、工事が順調に進んでいる。",
+          "choices": ["に応じず", "ばかりに", "に沿って", "というより"],
+          "answer": 2,
+          "en": "The construction is progressing smoothly in line with the original plan."
+        }
+      ]
+    },
+    {
+      "id": "n2-g40",
+      "title": "〜を通じて",
+      "structure": "N + を通じて",
+      "explanation": "Means 'through / via' a medium or intermediary, or 'throughout' a period of time. It marks the channel by which something happens or the whole span over which a state continues.",
+      "examples": [
+        {
+          "jp": "友人を通じて、彼女と知り合った。",
+          "reading": "ゆうじん を つうじて、かのじょ と しりあった。",
+          "en": "I got to know her through a friend."
+        },
+        {
+          "jp": "この地方は一年を通じて、雨が多い。",
+          "reading": "この ちほう は いちねん を つうじて、あめ が おおい。",
+          "en": "In this region, it rains a lot throughout the year."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "インターネット（　　）、世界中の情報が手に入る。",
+          "choices": ["に限って", "に応じて", "はもとより", "を通じて"],
+          "answer": 3,
+          "en": "Through the internet, you can obtain information from all over the world."
+        }
+      ]
+    }
+  ]
+}

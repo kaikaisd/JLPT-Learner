@@ -1,0 +1,205 @@
+{
+  "level": "N3",
+  "passages": [
+    {
+      "id": "n3-r1",
+      "title": "日本の職場文化",
+      "body": [
+        ["日本", "にほん"], "の", ["会社", "かいしゃ"], "では、", ["仕事", "しごと"], "が", ["終", "お"], "わっても、すぐに", ["帰", "かえ"], "らない", ["人", "ひと"], "が", ["多", "おお"], "いと", ["言", "い"], "われています。", ["周", "まわ"], "りの", ["人", "ひと"], "がまだ", ["働", "はたら"], "いているのに、", ["自分", "じぶん"], "だけ", ["先", "さき"], "に", ["帰", "かえ"], "るのは", ["失礼", "しつれい"], "だと", ["感", "かん"], "じるからです。\nしかし、", ["最近", "さいきん"], "は", ["考", "かんが"], "え", ["方", "かた"], "が", ["変", "か"], "わってきました。", ["働", "はたら"], "き", ["方", "かた"], ["改革", "かいかく"], "という", ["言葉", "ことば"], "が", ["広", "ひろ"], "がり、", ["残業", "ざんぎょう"], "を", ["減", "へ"], "らそうとする", ["会社", "かいしゃ"], "が", ["増", "ふ"], "えています。", ["仕事", "しごと"], "の", ["後", "あと"], "に", ["同僚", "どうりょう"], "と", ["食事", "しょくじ"], "に", ["行", "い"], "く", ["習慣", "しゅうかん"], "も、", ["若", "わか"], "い", ["社員", "しゃいん"], "の", ["間", "あいだ"], "では", ["少", "すく"], "なくなっているそうです。", ["自分", "じぶん"], "の", ["時間", "じかん"], "を", ["大切", "たいせつ"], "にしたいと", ["考", "かんが"], "える", ["人", "ひと"], "が", ["増", "ふ"], "えたからでしょう。\n", ["会社", "かいしゃ"], "での", ["人間関係", "にんげんかんけい"], "は", ["大切", "たいせつ"], "ですが、", ["無理", "むり"], "をして", ["付", "つ"], "き", ["合", "あ"], "う", ["必要", "ひつよう"], "はないという", ["意見", "いけん"], "も", ["多", "おお"], "くなっています。これからの", ["職場", "しょくば"], "は、", ["一人一人", "ひとりひとり"], "の", ["生活", "せいかつ"], "を", ["尊重", "そんちょう"], "する", ["場所", "ばしょ"], "になっていくのかもしれません。"
+      ],
+      "en": "In Japanese companies, it is said that many people do not go home right away even after their work is finished. This is because they feel it is rude to leave before others while their coworkers are still working. However, attitudes have been changing recently. The phrase 'work-style reform' has spread, and more and more companies are trying to reduce overtime. The custom of going out to eat with colleagues after work is also said to be declining among young employees. This is probably because more people want to value their own time. Relationships at work are important, but many now say there is no need to force yourself to socialize. Workplaces of the future may become places that respect each individual's life.",
+      "questions": [
+        {
+          "q": "日本の会社で、仕事が終わってもすぐに帰らない人が多いのはなぜですか。",
+          "choices": [
+            "残業するとお金がたくさんもらえるから",
+            "先に帰るのは失礼だと感じるから",
+            "家に帰りたくないから",
+            "同僚と食事に行きたいから"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "最近の会社について、本文と合っているものはどれですか。",
+          "choices": [
+            "残業を増やそうとしている",
+            "食事会がますます増えている",
+            "残業を減らそうとする会社が増えている",
+            "若い社員が減っている"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "筆者はこれからの職場についてどう考えていますか。",
+          "choices": [
+            "一人一人の生活を尊重する場所になっていくかもしれない",
+            "人間関係がもっと厳しくなるだろう",
+            "残業がもっと増えていくだろう",
+            "昔の習慣に戻っていくだろう"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n3-r2",
+      "title": "スマートフォンとの付き合い方",
+      "body": [
+        "スマートフォンは、", ["私", "わたし"], "たちの", ["生活", "せいかつ"], "に", ["欠", "か"], "かせない", ["道具", "どうぐ"], "になりました。", ["地図", "ちず"], "を", ["調", "しら"], "べたり、", ["友達", "ともだち"], "と", ["連絡", "れんらく"], "を", ["取", "と"], "ったり、", ["買", "か"], "い", ["物", "もの"], "までできます。しかし、", ["便利", "べんり"], "すぎることが", ["問題", "もんだい"], "になることもあると", ["私", "わたし"], "は", ["思", "おも"], "います。\n", ["電車", "でんしゃ"], "の", ["中", "なか"], "を", ["見", "み"], "ると、ほとんどの", ["人", "ひと"], "が", ["画面", "がめん"], "を", ["見", "み"], "つめています。", ["家族", "かぞく"], "で", ["食事", "しょくじ"], "をしながら、それぞれがスマートフォンを", ["触", "さわ"], "っている", ["光景", "こうけい"], "も", ["珍", "めずら"], "しくありません。", ["人", "ひと"], "と", ["直接", "ちょくせつ"], ["話", "はな"], "す", ["時間", "じかん"], "が", ["減", "へ"], "ってしまうのは、", ["残念", "ざんねん"], "なことではないでしょうか。\nもちろん、スマートフォンをやめるべきだと", ["言", "い"], "いたいわけではありません。", ["大切", "たいせつ"], "なのは、", ["使", "つか"], "う", ["時間", "じかん"], "を", ["自分", "じぶん"], "で", ["決", "き"], "めることだと", ["思", "おも"], "います。", ["例", "たと"], "えば、", ["食事", "しょくじ"], "の", ["間", "あいだ"], "は", ["使", "つか"], "わない、", ["寝", "ね"], "る", ["前", "まえ"], "の", ["一時間", "いちじかん"], "は", ["画面", "がめん"], "を", ["見", "み"], "ないなど、", ["小", "ちい"], "さなルールを", ["作", "つく"], "ることから", ["始", "はじ"], "めてみてはどうでしょうか。"
+      ],
+      "en": "Smartphones have become indispensable tools in our lives. We can look up maps, contact friends, and even do our shopping with them. However, I think that being too convenient can sometimes become a problem. When you look around inside a train, almost everyone is staring at a screen. It is not unusual to see family members each using their smartphones while eating together. Isn't it a shame that the time we spend talking directly with people is decreasing? Of course, I am not saying that we should give up smartphones. What is important, I believe, is deciding for yourself how much time to use them. For example, why not start by making small rules, such as not using your phone during meals, or not looking at the screen for one hour before going to bed?",
+      "questions": [
+        {
+          "q": "筆者はスマートフォンについてどう考えていますか。",
+          "choices": [
+            "すぐにやめるべきだ",
+            "便利すぎることが問題になることもある",
+            "全く問題がない",
+            "子供だけが使うべきだ"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "筆者が残念だと思っていることは何ですか。",
+          "choices": [
+            "スマートフォンの値段が高いこと",
+            "電車がいつも込んでいること",
+            "人と直接話す時間が減ってしまうこと",
+            "地図が調べにくいこと"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "筆者が勧めていることは何ですか。",
+          "choices": [
+            "新しいスマートフォンを買うこと",
+            "スマートフォンを捨てること",
+            "家族と食事をしないこと",
+            "使う時間の小さなルールを自分で作ること"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n3-r3",
+      "title": "春の楽しみ、花見",
+      "body": [
+        ["日本", "にほん"], "には、", ["春", "はる"], "になると", ["桜", "さくら"], "の", ["花", "はな"], "を", ["楽", "たの"], "しむ「", ["花見", "はなみ"], "」という", ["習慣", "しゅうかん"], "があります。", ["桜", "さくら"], "が", ["咲", "さ"], "く", ["時期", "じき"], "は", ["短", "みじか"], "く、", ["一週間", "いっしゅうかん"], "ほどで", ["散", "ち"], "ってしまいます。だからこそ、", ["人々", "ひとびと"], "は", ["毎年", "まいとし"], "その", ["美", "うつく"], "しさを", ["待", "ま"], "ち、", ["大切", "たいせつ"], "にするのです。\n", ["花見", "はなみ"], "の", ["歴史", "れきし"], "は", ["古", "ふる"], "く、", ["昔", "むかし"], "は", ["貴族", "きぞく"], "が", ["桜", "さくら"], "を", ["見", "み"], "ながら", ["歌", "うた"], "を", ["作", "つく"], "っていたそうです。", ["江戸時代", "えどじだい"], "になると、", ["一般", "いっぱん"], "の", ["人々", "ひとびと"], "も", ["花見", "はなみ"], "を", ["楽", "たの"], "しむようになりました。", ["現在", "げんざい"], "では、", ["公園", "こうえん"], "に", ["集", "あつ"], "まって、", ["桜", "さくら"], "の", ["木", "き"], "の", ["下", "した"], "でお", ["弁当", "べんとう"], "を", ["食", "た"], "べたり、お", ["酒", "さけ"], "を", ["飲", "の"], "んだりします。", ["会社", "かいしゃ"], "の", ["仲間", "なかま"], "や", ["家族", "かぞく"], "と", ["一緒", "いっしょ"], "に", ["過", "す"], "ごす、", ["大切", "たいせつ"], "な", ["行事", "ぎょうじ"], "になっています。\nただ、", ["人気", "にんき"], "のある", ["場所", "ばしょ"], "はとても", ["込", "こ"], "むので、", ["場所", "ばしょ"], "を", ["取", "と"], "るために", ["朝早", "あさはや"], "くから", ["並", "なら"], "ぶ", ["人", "ひと"], "もいるほどです。", ["桜", "さくら"], "と", ["一緒", "いっしょ"], "に", ["春", "はる"], "の", ["訪", "おとず"], "れを", ["祝", "いわ"], "う", ["気持", "きも"], "ちは、", ["昔", "むかし"], "から", ["変", "か"], "わっていないのでしょう。"
+      ],
+      "en": "In Japan, there is a custom called 'hanami,' enjoying the cherry blossoms when spring comes. The period when the cherry trees bloom is short, and the blossoms fall in about a week. That is exactly why people wait for their beauty every year and treasure it. The history of hanami is long; in ancient times, nobles are said to have composed poems while viewing the blossoms. In the Edo period, ordinary people also came to enjoy hanami. Nowadays, people gather in parks and eat boxed lunches or drink sake under the cherry trees. It has become an important event spent together with coworkers and family. However, popular spots get very crowded, so much so that some people line up from early in the morning to secure a place. The feeling of celebrating the arrival of spring together with the cherry blossoms has probably not changed since ancient times.",
+      "questions": [
+        {
+          "q": "桜について、本文と合っているものはどれですか。",
+          "choices": [
+            "一か月ぐらい咲いている",
+            "一週間ほどで散ってしまう",
+            "冬に咲く花である",
+            "毎年違う色になる"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "昔の花見について、本文と合っているものはどれですか。",
+          "choices": [
+            "貴族が桜を見ながら歌を作っていた",
+            "誰も花見をしていなかった",
+            "江戸時代に禁止された",
+            "外国から伝わった習慣だった"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "人気のある花見の場所では、どんなことをする人がいますか。",
+          "choices": [
+            "桜の木を新しく植える",
+            "歌の大会を開く",
+            "場所を取るために朝早くから並ぶ",
+            "夜だけ集まって帰る"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n3-r4",
+      "title": "パン職人へのインタビュー",
+      "body": [
+        ["先週", "せんしゅう"], "、", ["町", "まち"], "のパン", ["屋", "や"], "で", ["働", "はたら"], "く", ["田中", "たなか"], "さんに", ["話", "はなし"], "を", ["聞", "き"], "きました。", ["田中", "たなか"], "さんは、", ["二十年前", "にじゅうねんまえ"], "にこの", ["店", "みせ"], "を", ["開", "ひら"], "き、", ["毎朝", "まいあさ"], ["三時", "さんじ"], "に", ["起", "お"], "きてパンを", ["作", "つく"], "り", ["続", "つづ"], "けています。「", ["大変", "たいへん"], "ではないですか」と", ["聞", "き"], "くと、", ["田中", "たなか"], "さんは", ["笑", "わら"], "いながら「お", ["客", "きゃく"], "さんの", ["喜", "よろこ"], "ぶ", ["顔", "かお"], "を", ["見", "み"], "ると、", ["疲", "つか"], "れを", ["忘", "わす"], "れます」と", ["答", "こた"], "えてくれました。\n", ["田中", "たなか"], "さんが", ["一番", "いちばん"], ["大切", "たいせつ"], "にしているのは、", ["材料選", "ざいりょうえら"], "びだそうです。", ["小麦粉", "こむぎこ"], "は", ["国産", "こくさん"], "のものを", ["使", "つか"], "い、", ["季節", "きせつ"], "によって", ["水", "みず"], "の", ["量", "りょう"], "を", ["変", "か"], "えるなど、", ["細", "こま"], "かい", ["工夫", "くふう"], "をしています。\n", ["最近", "さいきん"], "は、", ["若", "わか"], "い", ["人", "ひと"], "にパン", ["作", "づく"], "りを", ["教", "おし"], "える", ["教室", "きょうしつ"], "も", ["始", "はじ"], "めました。「", ["技術", "ぎじゅつ"], "を", ["次", "つぎ"], "の", ["世代", "せだい"], "に", ["伝", "つた"], "えたい」というのが、その", ["理由", "りゆう"], "だそうです。", ["田中", "たなか"], "さんの", ["店", "みせ"], "のパンが", ["人気", "にんき"], "なのは、", ["味", "あじ"], "だけでなく、こうした", ["思", "おも"], "いがあるからかもしれません。"
+      ],
+      "en": "Last week, I spoke with Mr. Tanaka, who works at a bakery in town. Mr. Tanaka opened this shop twenty years ago, and he has continued to get up at three o'clock every morning to bake bread. When I asked, 'Isn't it hard?', Mr. Tanaka answered with a smile, 'When I see my customers' happy faces, I forget my tiredness.' What Mr. Tanaka values most, he says, is the selection of ingredients. He uses domestically produced wheat flour and makes fine adjustments, such as changing the amount of water depending on the season. Recently, he has also started a class to teach bread-making to young people. The reason, he says, is that he 'wants to pass the techniques on to the next generation.' The bread at Mr. Tanaka's shop may be popular not only because of its taste, but also because of feelings like these.",
+      "questions": [
+        {
+          "q": "田中さんは毎朝何時に起きますか。",
+          "choices": [
+            "二時",
+            "三時",
+            "四時",
+            "五時"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "田中さんが一番大切にしていることは何ですか。",
+          "choices": [
+            "材料選び",
+            "店の場所",
+            "パンの値段",
+            "店の宣伝"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "田中さんがパン教室を始めた理由は何ですか。",
+          "choices": [
+            "お金をもっとかせぎたいから",
+            "店を大きくしたいから",
+            "時間があまっているから",
+            "技術を次の世代に伝えたいから"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n3-r5",
+      "title": "お悩み相談：後輩の教え方",
+      "body": [
+        "【", ["今週", "こんしゅう"], "の", ["相談", "そうだん"], "】", ["入社二年目", "にゅうしゃにねんめ"], "の", ["会社員", "かいしゃいん"], "です。", ["最近", "さいきん"], "、", ["後輩", "こうはい"], "が", ["入", "はい"], "ってきて、", ["仕事", "しごと"], "を", ["教", "おし"], "える", ["役", "やく"], "になりました。しかし、", ["自分", "じぶん"], "の", ["仕事", "しごと"], "も", ["忙", "いそが"], "しく、", ["丁寧", "ていねい"], "に", ["教", "おし"], "える", ["時間", "じかん"], "がありません。", ["後輩", "こうはい"], "に", ["悪", "わる"], "いと", ["思", "おも"], "いながら、", ["毎日", "まいにち"], "が", ["過", "す"], "ぎていきます。どうしたらいいでしょうか。\n【", ["回答", "かいとう"], "】まじめなお", ["人柄", "ひとがら"], "が", ["伝", "つた"], "わってくる", ["相談", "そうだん"], "ですね。まず、", ["全部", "ぜんぶ"], "を", ["一度", "いちど"], "に", ["教", "おし"], "えようとしないことが", ["大切", "たいせつ"], "です。", ["仕事", "しごと"], "に", ["優先順位", "ゆうせんじゅんい"], "をつけて、", ["今週", "こんしゅう"], "はこれ、", ["来週", "らいしゅう"], "はこれ、と", ["分", "わ"], "けて", ["教", "おし"], "えてみてください。\nまた、", ["後輩", "こうはい"], "に", ["悪", "わる"], "いと", ["思", "おも"], "う", ["気持", "きも"], "ちを、", ["言葉", "ことば"], "にして", ["伝", "つた"], "えるのもいいでしょう。「", ["忙", "いそが"], "しくてごめんね。", ["分", "わ"], "からないことがあったら、メモしておいて」と", ["言", "い"], "うだけで、", ["後輩", "こうはい"], "は", ["安心", "あんしん"], "するはずです。", ["一人", "ひとり"], "で", ["抱", "かか"], "え", ["込", "こ"], "まず、", ["上司", "じょうし"], "に", ["相談", "そうだん"], "することも", ["忘", "わす"], "れないでください。"
+      ],
+      "en": "[This week's question] I am a company employee in my second year. Recently, a junior colleague joined, and I was put in charge of teaching them the job. However, I am busy with my own work and have no time to teach them carefully. I feel bad for my junior colleague as the days go by. What should I do? [Answer] Your sincere character comes through in this question. First, it is important not to try to teach everything at once. Try prioritizing the tasks and teaching them in stages: this one this week, that one next week. Also, it is a good idea to put your feeling of guilt into words. Just saying, 'Sorry I'm so busy. If there's anything you don't understand, make a note of it,' should reassure your junior colleague. And please don't carry the burden alone — don't forget to consult your supervisor as well.",
+      "questions": [
+        {
+          "q": "相談者の悩みは何ですか。",
+          "choices": [
+            "後輩に丁寧に教える時間がないこと",
+            "給料が安いこと",
+            "上司が厳しいこと",
+            "仕事がつまらないこと"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "回答者のアドバイスと合っているものはどれですか。",
+          "choices": [
+            "全部を一度に教えたほうがいい",
+            "仕事に優先順位をつけて分けて教えるといい",
+            "後輩には何も言わないほうがいい",
+            "会社を辞めたほうがいい"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "回答者が「忘れないでください」と言っていることは何ですか。",
+          "choices": [
+            "後輩の名前を覚えること",
+            "毎日メモを取ること",
+            "上司に相談すること",
+            "早く家に帰ること"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

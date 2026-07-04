@@ -1,0 +1,60 @@
+{
+  "level": "N5",
+  "exercises": [
+    {
+      "id": "n5-l1",
+      "title": "自己紹介",
+      "script": "はじめまして。田中ゆきです。二十歳です。大学生です。東京に住んでいます。趣味は料理です。週末はよくケーキを作ります。どうぞよろしくお願いします。",
+      "en": "Nice to meet you. I am Yuki Tanaka. I am twenty years old. I am a university student. I live in Tokyo. My hobby is cooking. On weekends I often make cakes. Pleased to meet you.",
+      "questions": [
+        {"q": "What is the speaker's hobby?", "choices": ["Sports", "Cooking", "Music", "Reading"], "answer": 1},
+        {"q": "What does she often make on weekends?", "choices": ["Bread", "Cookies", "Cake", "Curry"], "answer": 2},
+        {"q": "Where does she live?", "choices": ["Tokyo", "Osaka", "Kyoto", "Nagoya"], "answer": 0}
+      ]
+    },
+    {
+      "id": "n5-l2",
+      "title": "駅のアナウンス",
+      "script": "まもなく、二番線に大阪行きの電車が来ます。危ないですから、白い線の後ろに下がってください。この電車は十時三十分に出ます。次は京都に止まります。ご注意ください。",
+      "en": "The train bound for Osaka will soon arrive at platform two. It is dangerous, so please step back behind the white line. This train departs at ten thirty. The next stop is Kyoto. Please be careful.",
+      "questions": [
+        {"q": "Which platform will the train arrive at?", "choices": ["Platform 1", "Platform 2", "Platform 3", "Platform 4"], "answer": 1},
+        {"q": "Where is the train going?", "choices": ["Tokyo", "Kyoto", "Osaka", "Nagoya"], "answer": 2},
+        {"q": "What time does the train leave?", "choices": ["10:30", "10:13", "3:10", "13:30"], "answer": 0}
+      ]
+    },
+    {
+      "id": "n5-l3",
+      "title": "天気予報",
+      "script": "今日の天気です。午前中は晴れますが、午後から雲が多くなります。夜は雨が降るでしょう。今日の気温は二十五度です。出かける人は、傘を忘れないでください。明日は一日中いい天気になるでしょう。",
+      "en": "Here is today's weather. It will be sunny in the morning, but from the afternoon it will become cloudy. It will probably rain at night. Today's temperature is twenty-five degrees. If you go out, please don't forget your umbrella. Tomorrow will probably be nice weather all day.",
+      "questions": [
+        {"q": "What will the weather be like tonight?", "choices": ["Sunny", "Snowy", "Windy", "Rainy"], "answer": 3},
+        {"q": "What is today's temperature?", "choices": ["Twenty degrees", "Twenty-five degrees", "Thirty-five degrees", "Fifteen degrees"], "answer": 1},
+        {"q": "What should people take when they go out?", "choices": ["A coat", "A hat", "An umbrella", "Sunglasses"], "answer": 2}
+      ]
+    },
+    {
+      "id": "n5-l4",
+      "title": "電話のメッセージ",
+      "script": "もしもし、山田です。明日の約束のことですが、三時ではなくて、四時に変えてもいいですか。三時まで仕事があります。場所は同じで、駅前の喫茶店でお願いします。後で電話をください。",
+      "en": "Hello, this is Yamada. About tomorrow's appointment, may I change it from three o'clock to four o'clock? I have work until three. The place is the same, the coffee shop in front of the station, please. Please call me later.",
+      "questions": [
+        {"q": "Who is calling?", "choices": ["Tanaka", "Sato", "Yamada", "Suzuki"], "answer": 2},
+        {"q": "What time does the caller want to meet?", "choices": ["Three o'clock", "Four o'clock", "Five o'clock", "Two o'clock"], "answer": 1},
+        {"q": "Where will they meet?", "choices": ["The coffee shop in front of the station", "The caller's office", "The school", "The caller's house"], "answer": 0}
+      ]
+    },
+    {
+      "id": "n5-l5",
+      "title": "店のアナウンス",
+      "script": "ご来店ありがとうございます。ただいま、二階で果物が安くなっています。りんごは三つで二百円です。バナナは一つ百円です。この安売りは五時までです。ぜひ二階へどうぞ。",
+      "en": "Thank you for visiting our store. Right now, fruit is on sale on the second floor. Apples are three for two hundred yen. Bananas are one hundred yen each. This sale lasts until five o'clock. Please come to the second floor.",
+      "questions": [
+        {"q": "What is on sale?", "choices": ["Vegetables", "Fish", "Fruit", "Bread"], "answer": 2},
+        {"q": "How much are three apples?", "choices": ["100 yen", "200 yen", "300 yen", "500 yen"], "answer": 1},
+        {"q": "Until what time is the sale?", "choices": ["Three o'clock", "Four o'clock", "Five o'clock", "Six o'clock"], "answer": 2}
+      ]
+    }
+  ]
+}

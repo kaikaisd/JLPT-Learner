@@ -1,0 +1,164 @@
+{
+  "level": "N4",
+  "passages": [
+    {
+      "id": "n4-r1",
+      "title": "京都旅行",
+      "body": [
+        ["私", "わたし"], "は", ["先週", "せんしゅう"], "、", ["友", "とも"], "だちと", ["京都", "きょうと"], "へ", ["旅行", "りょこう"], "に", ["行", "い"], "きました。",
+        ["朝早", "あさはや"], "く", ["東京駅", "とうきょうえき"], "から", ["新幹線", "しんかんせん"], "に", ["乗", "の"], "りました。",
+        ["京都", "きょうと"], "では", ["有名", "ゆうめい"], "なお", ["寺", "てら"], "を", ["三", "みっ"], "つ", ["見", "み"], "ました。",
+        ["天気", "てんき"], "がよかったので、たくさん", ["写真", "しゃしん"], "を", ["撮", "と"], "りました。",
+        ["昼", "ひる"], "ご", ["飯", "はん"], "に", ["京都", "きょうと"], "のおいしいそばを", ["食", "た"], "べました。", "\n",
+        ["夜", "よる"], "は", ["旅館", "りょかん"], "に", ["泊", "と"], "まりました。",
+        ["旅館", "りょかん"], "の", ["人", "ひと"], "はとても", ["親切", "しんせつ"], "でした。",
+        ["次", "つぎ"], "の", ["日", "ひ"], "は", ["雨", "あめ"], "でしたから、お", ["土産", "みやげ"], "を", ["買", "か"], "って、", ["早", "はや"], "めに", ["帰", "かえ"], "りました。",
+        "また", ["春", "はる"], "に", ["行", "い"], "きたいです。"
+      ],
+      "en": "Last week I went on a trip to Kyoto with my friend. Early in the morning we took the Shinkansen from Tokyo Station. In Kyoto we saw three famous temples. The weather was good, so I took a lot of photos. For lunch we ate delicious Kyoto soba. At night we stayed at a Japanese inn. The people at the inn were very kind. The next day it was rainy, so we bought souvenirs and went home a little early. I want to go again in spring.",
+      "questions": [
+        {
+          "q": "How did the writer travel to Kyoto?",
+          "choices": ["By bus", "By plane", "By Shinkansen", "By car"],
+          "answer": 2
+        },
+        {
+          "q": "Why did the writer take a lot of photos?",
+          "choices": ["Because the temples were free", "Because the weather was good", "Because the friend asked for photos", "Because the writer had a new camera"],
+          "answer": 1
+        },
+        {
+          "q": "Why did they go home early on the second day?",
+          "choices": ["Because it was rainy", "Because they were tired", "Because the inn was full", "Because the shops were closed"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-r2",
+      "title": "コンビニのアルバイト",
+      "body": [
+        ["私", "わたし"], "は", ["大学", "だいがく"], "の", ["近", "ちか"], "くのコンビニでアルバイトをしています。",
+        ["仕事", "しごと"], "は", ["週", "しゅう"], "に", ["三回", "さんかい"], "で、", ["夕方", "ゆうがた"], ["五時", "ごじ"], "から", ["夜", "よる"], ["十時", "じゅうじ"], "までです。",
+        "レジでお", ["金", "かね"], "を", ["受", "う"], "け", ["取", "と"], "ったり、", ["品物", "しなもの"], "を", ["並", "なら"], "べたりします。", "\n",
+        ["初", "はじ"], "めは", ["敬語", "けいご"], "が", ["難", "むずか"], "しくて、よく", ["間違", "まちが"], "えました。",
+        "でも、", ["店長", "てんちょう"], "が", ["親切", "しんせつ"], "に", ["教", "おし"], "えてくれたので、", ["今", "いま"], "は", ["少", "すこ"], "し", ["上手", "じょうず"], "になりました。",
+        ["時々", "ときどき"], "、", ["外国", "がいこく"], "のお", ["客", "きゃく"], "さんが", ["来", "く"], "ると、", ["英語", "えいご"], "で", ["話", "はな"], "します。",
+        "アルバイトのお", ["金", "かね"], "で、", ["新", "あたら"], "しいパソコンを", ["買", "か"], "うつもりです。"
+      ],
+      "en": "I work part-time at a convenience store near my university. I work three times a week, from 5 p.m. to 10 p.m. At the register I do things like receiving money and lining up goods on the shelves. At first, polite language (keigo) was difficult and I often made mistakes. But the store manager kindly taught me, so now I have gotten a little better. Sometimes, when customers from other countries come, I speak in English. With the money from my part-time job, I plan to buy a new computer.",
+      "questions": [
+        {
+          "q": "How many times a week does the writer work?",
+          "choices": ["Two times", "Three times", "Four times", "Five times"],
+          "answer": 1
+        },
+        {
+          "q": "Who helped the writer get better at polite language?",
+          "choices": ["A classmate", "A customer", "The store manager", "An English teacher"],
+          "answer": 2
+        },
+        {
+          "q": "What does the writer plan to buy with the money?",
+          "choices": ["A bicycle", "A camera", "A phone", "A new computer"],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n4-r3",
+      "title": "先生へのメール",
+      "body": [
+        ["山田先生", "やまだせんせい"], "\n",
+        "おはようございます。", ["三年二組", "さんねんにくみ"], "のリンです。", "\n",
+        ["実", "じつ"], "は、", ["昨日", "きのう"], "の", ["夜", "よる"], "から", ["熱", "ねつ"], "があって、", ["頭", "あたま"], "も", ["痛", "いた"], "いです。",
+        ["熱", "ねつ"], "は", ["三十八度", "さんじゅうはちど"], "あります。",
+        ["今朝", "けさ"], "、", ["病院", "びょういん"], "へ", ["行", "い"], "きますから、", ["今日", "きょう"], "は", ["学校", "がっこう"], "を", ["休", "やす"], "ませてください。", "\n",
+        ["明日", "あした"], "の", ["漢字", "かんじ"], "の", ["試験", "しけん"], "は", ["受", "う"], "けたいので、", ["今日", "きょう"], "の", ["宿題", "しゅくだい"], "と", ["試験", "しけん"], "の", ["範囲", "はんい"], "をメールで", ["送", "おく"], "っていただけませんか。", "\n",
+        "お", ["忙", "いそが"], "しいところすみませんが、よろしくお", ["願", "ねが"], "いします。", "\n",
+        "リン"
+      ],
+      "en": "Dear Mr. Yamada, Good morning. This is Lin from class 3-2. Actually, I have had a fever since last night, and my head hurts too. My temperature is 38 degrees. I am going to the hospital this morning, so please let me be absent from school today. I want to take tomorrow's kanji test, so could you please send me today's homework and the test range by email? I am sorry to bother you when you are busy, but thank you very much. Lin",
+      "questions": [
+        {
+          "q": "Why is Lin going to be absent from school today?",
+          "choices": ["She has a family trip", "She has a fever and a headache", "She has a job interview", "She missed the train"],
+          "answer": 1
+        },
+        {
+          "q": "What does Lin ask the teacher to send by email?",
+          "choices": ["The test results", "A letter for the hospital", "Today's homework and the test range", "A new textbook"],
+          "answer": 2
+        },
+        {
+          "q": "What does Lin want to do tomorrow?",
+          "choices": ["Take the kanji test", "Stay home and rest", "Go to the hospital again", "Meet the teacher after school"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n4-r4",
+      "title": "私の趣味",
+      "body": [
+        ["私", "わたし"], "の", ["趣味", "しゅみ"], "は", ["写真", "しゃしん"], "を", ["撮", "と"], "ることです。",
+        ["二年前", "にねんまえ"], "に", ["父", "ちち"], "に", ["古", "ふる"], "いカメラをもらってから、", ["写真", "しゃしん"], "が", ["好", "す"], "きになりました。",
+        ["休", "やす"], "みの", ["日", "ひ"], "には、カメラを", ["持", "も"], "って", ["公園", "こうえん"], "や", ["川", "かわ"], "へ", ["出", "で"], "かけます。",
+        ["特", "とく"], "に", ["花", "はな"], "や", ["鳥", "とり"], "の", ["写真", "しゃしん"], "を", ["撮", "と"], "るのが", ["好", "す"], "きです。",
+        "いい", ["写真", "しゃしん"], "が", ["撮", "と"], "れたら、インターネットにのせます。", "\n",
+        ["先月", "せんげつ"], "、", ["私", "わたし"], "の", ["写真", "しゃしん"], "がコンテストで", ["三位", "さんい"], "になりました。",
+        "とてもうれしかったです。",
+        ["将来", "しょうらい"], "は", ["世界", "せかい"], "の", ["美", "うつく"], "しい", ["景色", "けしき"], "を", ["撮", "と"], "りに", ["行", "い"], "きたいです。"
+      ],
+      "en": "My hobby is taking photos. Two years ago I received an old camera from my father, and after that I came to like photography. On my days off, I take my camera and go out to parks and rivers. I especially like taking photos of flowers and birds. When I take a good photo, I post it on the internet. Last month, one of my photos took third place in a contest. I was very happy. In the future, I want to travel and take photos of beautiful scenery around the world.",
+      "questions": [
+        {
+          "q": "How did the writer become interested in photography?",
+          "choices": ["By buying a new camera", "By receiving an old camera from their father", "By joining a school photo club", "By seeing photos on the internet"],
+          "answer": 1
+        },
+        {
+          "q": "What does the writer especially like to photograph?",
+          "choices": ["Trains and cars", "Food and drinks", "Flowers and birds", "Old buildings"],
+          "answer": 2
+        },
+        {
+          "q": "What happened last month?",
+          "choices": ["The writer bought a new camera", "The writer traveled abroad", "The writer started an internet site", "The writer's photo took third place in a contest"],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n4-r5",
+      "title": "夏祭りのお知らせ",
+      "body": [
+        ["みどり町", "みどりちょう"], ["夏祭", "なつまつ"], "りのお", ["知", "し"], "らせ", "\n",
+        ["八月五日", "はちがついつか"], ["土曜日", "どようび"], "の", ["午後四時", "ごごよじ"], "から", ["九時", "くじ"], "まで、みどり", ["公園", "こうえん"], "で", ["夏祭", "なつまつ"], "りを", ["行", "おこな"], "います。",
+        ["歌", "うた"], "やダンスのステージのほかに、", ["食", "た"], "べ", ["物", "もの"], "の", ["店", "みせ"], "もたくさん", ["出", "で"], "ます。",
+        ["七時半", "しちじはん"], "からは", ["花火大会", "はなびたいかい"], "があります。", "\n",
+        ["公園", "こうえん"], "には", ["車", "くるま"], "で", ["来", "く"], "ることができませんから、バスか", ["電車", "でんしゃ"], "をご", ["利用", "りよう"], "ください。",
+        ["雨", "あめ"], "の", ["場合", "ばあい"], "は、", ["祭", "まつ"], "りは", ["次", "つぎ"], "の", ["日", "ひ"], "の", ["日曜日", "にちようび"], "に", ["行", "おこな"], "います。",
+        ["皆", "みな"], "さん、ぜひ", ["来", "き"], "てください。"
+      ],
+      "en": "Notice about the Midori Town Summer Festival. On Saturday, August 5, from 4 p.m. to 9 p.m., a summer festival will be held at Midori Park. Besides a stage with songs and dance, there will also be many food stalls. From 7:30 p.m. there will be a fireworks show. You cannot come to the park by car, so please use the bus or the train. In case of rain, the festival will be held the next day, on Sunday. Everyone, please come!",
+      "questions": [
+        {
+          "q": "What time does the festival start?",
+          "choices": ["4 p.m.", "5 p.m.", "7:30 p.m.", "9 p.m."],
+          "answer": 0
+        },
+        {
+          "q": "How should visitors come to the park?",
+          "choices": ["By car", "By bus or train", "By taxi only", "By bicycle only"],
+          "answer": 1
+        },
+        {
+          "q": "What happens if it rains on August 5?",
+          "choices": ["The festival is canceled", "The festival moves inside a building", "The festival is held the next day, Sunday", "Only the fireworks are canceled"],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

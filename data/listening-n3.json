@@ -1,0 +1,185 @@
+{
+  "level": "N3",
+  "exercises": [
+    {
+      "id": "n3-l1",
+      "title": "社内アナウンス：エレベーター工事",
+      "script": "社員の皆さんにお知らせします。来週の月曜日から、本社ビルのエレベーターの工事が始まります。工事の期間は二週間の予定です。この間、一号機は使えませんので、二号機か階段をご利用ください。朝の時間はエレベーターが込むことが予想されます。時間に余裕を持って出勤してください。ご協力をお願いします。",
+      "en": "Attention all employees. Starting next Monday, construction work on the elevators in the head office building will begin. The construction is scheduled to last two weeks. During this period, Elevator No. 1 will be out of service, so please use Elevator No. 2 or the stairs. The elevators are expected to be crowded in the morning. Please come to work with plenty of time to spare. Thank you for your cooperation.",
+      "questions": [
+        {
+          "q": "エレベーターの工事はいつから始まりますか。",
+          "choices": [
+            "今週の月曜日",
+            "来週の月曜日",
+            "来週の金曜日",
+            "来月の月曜日"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "工事の間、社員はどうすればいいですか。",
+          "choices": [
+            "一号機を利用する",
+            "会社を休む",
+            "二号機か階段を利用する",
+            "別のビルへ行く"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n3-l2",
+      "title": "ラジオの健康コーナー：朝の散歩",
+      "script": "皆さん、おはようございます。今日の健康コーナーは、朝の散歩についてお話しします。朝、太陽の光を浴びると、体の中の時計が整い、夜よく眠れるようになると言われています。散歩の時間は、二十分から三十分ぐらいがちょうどいいでしょう。速く歩く必要はありません。無理をすると続かないので、まずは週に三回から始めてみてください。続けることが何より大切です。",
+      "en": "Good morning, everyone. In today's health corner, we will talk about morning walks. It is said that when you get sunlight in the morning, your body clock is regulated and you become able to sleep well at night. About twenty to thirty minutes is just right for a walk. There is no need to walk fast. If you push yourself too hard you won't be able to keep it up, so first try starting with three times a week. Continuing is the most important thing of all.",
+      "questions": [
+        {
+          "q": "朝、太陽の光を浴びるとどうなると言っていますか。",
+          "choices": [
+            "目が悪くなる",
+            "夜よく眠れるようになる",
+            "おなかがすくようになる",
+            "体が重くなる"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "散歩の時間はどのぐらいがいいと言っていますか。",
+          "choices": [
+            "五分ぐらい",
+            "十分ぐらい",
+            "二十分から三十分ぐらい",
+            "一時間以上"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "話している人が何より大切だと言っていることは何ですか。",
+          "choices": [
+            "速く歩くこと",
+            "毎日必ず歩くこと",
+            "いい靴を買うこと",
+            "続けること"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n3-l3",
+      "title": "博物館の案内",
+      "script": "本日は、歴史博物館にお越しいただき、ありがとうございます。ご見学の前に、いくつかお願いがございます。館内では写真を撮ることができますが、フラッシュはご遠慮ください。二階の特別展だけは、撮影が禁止されています。お飲み物は、一階の休憩室でお願いします。展示室の中ではご遠慮ください。また、午後二時からは、係の者が展示を説明するツアーを行います。参加は無料ですので、ご希望の方は一階の受付にお集まりください。",
+      "en": "Thank you for visiting the History Museum today. Before you begin your tour, we have a few requests. You may take photographs inside the museum, but please refrain from using flash. Photography is prohibited only in the special exhibition on the second floor. Please have drinks in the rest area on the first floor, and refrain from drinking inside the exhibition rooms. Also, from two o'clock in the afternoon, a staff member will conduct a tour explaining the exhibits. Participation is free, so if you would like to join, please gather at the reception desk on the first floor.",
+      "questions": [
+        {
+          "q": "館内で写真を撮るとき、してはいけないことは何ですか。",
+          "choices": [
+            "フラッシュを使うこと",
+            "一階で撮ること",
+            "静かに撮ること",
+            "入口で撮ること"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "撮影が禁止されているのはどこですか。",
+          "choices": [
+            "一階の休憩室",
+            "二階の特別展",
+            "博物館の入口",
+            "一階の受付"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "ツアーに参加したい人はどうすればいいですか。",
+          "choices": [
+            "お金を払う",
+            "電話で予約する",
+            "一階の受付に集まる",
+            "二階の特別展に行く"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n3-l4",
+      "title": "講義の始まり：日本の食文化",
+      "script": "皆さん、こんにちは。今日の講義のテーマは、日本の食文化の変化です。まず前半では、百年前の日本人が何を食べていたかを紹介します。後半では、外国の料理が日本の家庭にどのように広がったかを考えます。講義は九十分で、途中で十分の休憩を取ります。質問は最後にまとめて受けますので、講義の間は、聞きたいことをメモしておいてください。それでは、始めましょう。",
+      "en": "Hello, everyone. The theme of today's lecture is changes in Japanese food culture. First, in the first half, I will introduce what Japanese people ate one hundred years ago. In the second half, we will consider how foreign dishes spread into Japanese homes. The lecture is ninety minutes long, and we will take a ten-minute break in the middle. I will take questions all together at the end, so during the lecture, please make a note of anything you want to ask. Now then, let's begin.",
+      "questions": [
+        {
+          "q": "今日の講義のテーマは何ですか。",
+          "choices": [
+            "日本の食文化の変化",
+            "日本の歴史の始まり",
+            "外国の言葉の広がり",
+            "健康な食事の作り方"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "質問はいつすればいいですか。",
+          "choices": [
+            "講義の前",
+            "いつでもいい",
+            "休憩の間",
+            "講義の最後"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "講義の長さはどのぐらいですか。",
+          "choices": [
+            "六十分",
+            "九十分",
+            "百二十分",
+            "三十分"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n3-l5",
+      "title": "町内会のお知らせ：公園の掃除",
+      "script": "町内会からのお知らせです。今度の日曜日、朝九時から、みどり公園の掃除を行います。参加できる方は、九時までに公園の入口にお集まりください。ごみ袋と軍手は町内会で用意しますので、持ってくる必要はありません。動きやすい服装でお願いします。雨の場合は、次の日曜日に延期します。掃除の後には、飲み物とお菓子を用意しています。皆さんの参加をお待ちしています。",
+      "en": "This is an announcement from the neighborhood association. This coming Sunday, from nine in the morning, we will clean Midori Park. If you can participate, please gather at the park entrance by nine o'clock. The neighborhood association will provide garbage bags and work gloves, so there is no need to bring them. Please wear clothes that are easy to move in. In case of rain, the event will be postponed to the following Sunday. After the cleaning, drinks and snacks will be provided. We look forward to your participation.",
+      "questions": [
+        {
+          "q": "公園の掃除は何時から始まりますか。",
+          "choices": [
+            "朝八時",
+            "朝九時",
+            "朝十時",
+            "午後一時"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "参加する人が持ってこなくてもいいものは何ですか。",
+          "choices": [
+            "飲み物とお弁当",
+            "参加費のお金",
+            "ごみ袋と軍手",
+            "動きやすい服"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "雨が降ったらどうなりますか。",
+          "choices": [
+            "中止になる",
+            "場所が変わる",
+            "時間が短くなる",
+            "次の日曜日に延期される"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

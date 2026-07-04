@@ -1,0 +1,101 @@
+{
+  "level": "N5",
+  "passages": [
+    {
+      "id": "n5-r1",
+      "title": "わたしの一日",
+      "body": [
+        ["私", "わたし"], "は", ["毎朝", "まいあさ"], ["七時", "しちじ"], "に", ["起", "お"], "きます。",
+        ["朝ご飯", "あさごはん"], "を", ["食", "た"], "べて、", ["八時", "はちじ"], "に", ["家", "いえ"], "を", ["出", "で"], "ます。",
+        ["電車", "でんしゃ"], "で", ["学校", "がっこう"], "へ", ["行", "い"], "きます。",
+        ["九時", "くじ"], "から", ["三時", "さんじ"], "まで", ["日本語", "にほんご"], "を", ["勉強", "べんきょう"], "します。\n",
+        ["昼ご飯", "ひるごはん"], "は", ["友達", "ともだち"], "と", ["学校", "がっこう"], "で", ["食", "た"], "べます。",
+        ["四時", "よじ"], "に", ["家", "いえ"], "へ", ["帰", "かえ"], "ります。",
+        ["夜", "よる"], "は", "テレビを", ["見", "み"], "て、", ["十一時", "じゅういちじ"], "にねます。"
+      ],
+      "en": "I get up at seven every morning. I eat breakfast and leave home at eight. I go to school by train. I study Japanese from nine to three. I eat lunch with my friends at school. I return home at four. At night I watch TV and go to bed at eleven.",
+      "questions": [
+        {"q": "What time does the writer get up?", "choices": ["At six", "At seven", "At eight", "At nine"], "answer": 1},
+        {"q": "How does the writer go to school?", "choices": ["By bus", "By bike", "By train", "On foot"], "answer": 2},
+        {"q": "What does the writer do at night?", "choices": ["Studies Japanese", "Reads books", "Plays games", "Watches TV"], "answer": 3}
+      ]
+    },
+    {
+      "id": "n5-r2",
+      "title": "わたしの家族",
+      "body": [
+        ["私", "わたし"], "の", ["家族", "かぞく"], "は", ["四人", "よにん"], "です。",
+        ["父", "ちち"], "と", ["母", "はは"], "とあねと", ["私", "わたし"], "です。",
+        ["父", "ちち"], "は", ["会社員", "かいしゃいん"], "で、", ["毎日", "まいにち"], ["車", "くるま"], "で", ["会社", "かいしゃ"], "へ", ["行", "い"], "きます。",
+        ["母", "はは"], "は", ["学校", "がっこう"], "の", ["先生", "せんせい"], "です。",
+        ["母", "はは"], "の", ["学校", "がっこう"], "は", ["家", "いえ"], "から", ["近", "ちか"], "いです。\n",
+        "あねは", ["大学生", "だいがくせい"], "で、", ["英語", "えいご"], "を", ["勉強", "べんきょう"], "しています。",
+        "あねの", ["料理", "りょうり"], "はとてもおいしいです。",
+        ["日曜日", "にちようび"], "は", ["家族", "かぞく"], "でよく", ["公園", "こうえん"], "へ", ["行", "い"], "きます。"
+      ],
+      "en": "There are four people in my family: my father, my mother, my older sister, and me. My father is a company employee, and he goes to his company by car every day. My mother is a school teacher. Her school is near our house. My older sister is a university student and is studying English. Her cooking is very delicious. On Sundays, our family often goes to the park.",
+      "questions": [
+        {"q": "How many people are in the writer's family?", "choices": ["Three", "Four", "Five", "Six"], "answer": 1},
+        {"q": "How does the father go to work?", "choices": ["By train", "By bus", "By car", "By bike"], "answer": 2},
+        {"q": "What does the family often do on Sundays?", "choices": ["Go to the park", "Go shopping", "Cook together", "Watch movies"], "answer": 0}
+      ]
+    },
+    {
+      "id": "n5-r3",
+      "title": "買い物",
+      "body": [
+        ["昨日", "きのう"], "、", ["母", "はは"], "とデパートへ", ["買い物", "かいもの"], "に", ["行", "い"], "きました。",
+        ["母", "はは"], "は", ["新", "あたら"], "しいかばんを", ["買", "か"], "いました。",
+        ["三千円", "さんぜんえん"], "でした。",
+        ["私", "わたし"], "は", ["白", "しろ"], "いシャツを", ["買", "か"], "いたかったですが、", ["高", "たか"], "かったですから、", ["買", "か"], "いませんでした。\n",
+        "その", ["後", "あと"], "、", ["二人", "ふたり"], "で", ["店", "みせ"], "でコーヒーを", ["飲", "の"], "みました。",
+        "とても", ["楽", "たの"], "しい", ["一日", "いちにち"], "でした。"
+      ],
+      "en": "Yesterday, I went shopping at a department store with my mother. My mother bought a new bag. It was 3,000 yen. I wanted to buy a white shirt, but it was expensive, so I didn't buy it. After that, the two of us drank coffee at a shop. It was a very fun day.",
+      "questions": [
+        {"q": "Who did the writer go shopping with?", "choices": ["Their father", "A friend", "Their mother", "Their sister"], "answer": 2},
+        {"q": "How much was the bag?", "choices": ["3,000 yen", "1,000 yen", "2,000 yen", "5,000 yen"], "answer": 0},
+        {"q": "Why didn't the writer buy the shirt?", "choices": ["It was too small", "It was expensive", "The store was closed", "They didn't like the color"], "answer": 1}
+      ]
+    },
+    {
+      "id": "n5-r4",
+      "title": "今日の天気",
+      "body": [
+        ["今日", "きょう"], "は", ["朝", "あさ"], "からいい", ["天気", "てんき"], "です。",
+        ["空", "そら"], "が", ["青", "あお"], "くて、", ["風", "かぜ"], "もありません。",
+        ["私", "わたし"], "は", ["午前中", "ごぜんちゅう"], "に", ["公園", "こうえん"], "をさんぽしました。",
+        ["公園", "こうえん"], "には", ["人", "ひと"], "がたくさんいました。",
+        ["子供", "こども"], "たちがあそんでいました。\n",
+        "でも、", ["天気予報", "てんきよほう"], "では、", ["明日", "あした"], "は", ["雨", "あめ"], "が", ["降", "ふ"], "ります。",
+        "だから、", ["明日", "あした"], "は", ["家", "いえ"], "で", ["本", "ほん"], "を", ["読", "よ"], "みます。"
+      ],
+      "en": "The weather has been nice since this morning. The sky is blue, and there is no wind. I took a walk in the park in the morning. There were many people in the park. Children were playing. But according to the weather forecast, it will rain tomorrow. So tomorrow I will read books at home.",
+      "questions": [
+        {"q": "What is the weather like today?", "choices": ["Rainy", "Snowy", "Sunny and nice", "Cloudy"], "answer": 2},
+        {"q": "Where did the writer take a walk?", "choices": ["Along the river", "In the park", "At school", "Around the station"], "answer": 1},
+        {"q": "What will the writer do tomorrow?", "choices": ["Go to the park", "Play with children", "Go shopping", "Read books at home"], "answer": 3}
+      ]
+    },
+    {
+      "id": "n5-r5",
+      "title": "友達への手紙",
+      "body": [
+        "ゆきさん、お", ["元気", "げんき"], "ですか。", ["私", "わたし"], "は", ["元気", "げんき"], "です。",
+        ["先月", "せんげつ"], "、", ["日本", "にほん"], "へ", ["来", "き"], "ました。",
+        ["今", "いま"], "は", ["東京", "とうきょう"], "にすんでいます。",
+        ["日本語", "にほんご"], "の", ["学校", "がっこう"], "で", ["毎日", "まいにち"], ["勉強", "べんきょう"], "しています。",
+        ["日本語", "にほんご"], "はむずかしいですが、とてもおもしろいです。\n",
+        ["来月", "らいげつ"], "、", ["友達", "ともだち"], "と", ["京都", "きょうと"], "へ", ["行", "い"], "きます。",
+        "ゆきさんも", ["一緒", "いっしょ"], "に", ["行", "い"], "きませんか。",
+        "おへんじをまっています。"
+      ],
+      "en": "Dear Yuki, how are you? I am fine. Last month, I came to Japan. Now I live in Tokyo. I study every day at a Japanese language school. Japanese is difficult, but it is very interesting. Next month, I will go to Kyoto with my friends. Won't you come with us? I am waiting for your reply.",
+      "questions": [
+        {"q": "Where does the writer live now?", "choices": ["Kyoto", "Osaka", "Tokyo", "Yokohama"], "answer": 2},
+        {"q": "What does the writer say about Japanese?", "choices": ["It is easy and fun", "It is difficult but interesting", "It is boring", "It is too fast"], "answer": 1},
+        {"q": "What does the writer invite Yuki to do?", "choices": ["Visit the language school", "Write a letter", "Come to Tokyo", "Go to Kyoto together"], "answer": 3}
+      ]
+    }
+  ]
+}
