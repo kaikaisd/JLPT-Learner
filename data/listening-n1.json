@@ -1,0 +1,195 @@
+{
+  "level": "N1",
+  "exercises": [
+    {
+      "id": "n1-l1",
+      "title": "専門家の解説：リモートワークの功罪",
+      "script": "リモートワークの普及から数年が経ち、その功罪が冷静に議論できる段階に入ってきました。通勤時間の削減や柔軟な働き方といった利点は、もはや説明するまでもないでしょう。一方で、見過ごせない課題も明らかになっています。最も深刻なのは、偶然の雑談から生まれる発想や、若手社員の学びの機会が減少している点です。対面であれば自然に伝わっていた仕事の進め方が、画面越しでは伝わりにくいのです。こうした事情から、多くの企業が週に数日だけ出社するハイブリッド型へ移行しつつあります。ただし、単に出社日を決めるだけでは効果は期待できません。重要なのは、出社する日には対話や共同作業など、対面でしかできない活動を意識的に集中させることです。制度の形ではなく、何のために集まるのかという目的こそが問われているのです。",
+      "en": "Several years have passed since remote work became widespread, and we have entered a stage where its merits and drawbacks can be discussed calmly. Advantages such as eliminating commutes and flexible working styles hardly need explaining anymore. On the other hand, problems we cannot overlook have also become clear. The most serious is the decline in ideas born of chance conversations and in learning opportunities for junior employees. Ways of working that were naturally passed on face to face are hard to convey through a screen. For these reasons, many companies are shifting to a hybrid model with only a few office days per week. However, merely fixing which days people come in will not produce results. What matters is deliberately concentrating activities that can only be done in person — dialogue, collaborative work — on the days people do come in. It is not the form of the system but the purpose of gathering that is now being called into question.",
+      "questions": [
+        {
+          "q": "話者によると、リモートワークの最も深刻な課題は何か。",
+          "choices": [
+            "通勤時間が減ったこと",
+            "雑談から生まれる発想や若手の学びの機会の減少",
+            "光熱費の増加",
+            "会議の回数が増えたこと"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "多くの企業はどのような働き方へ移行しつつあると述べているか。",
+          "choices": [
+            "完全な在宅勤務",
+            "全員が毎日出社する体制",
+            "海外拠点への移転",
+            "週に数日だけ出社するハイブリッド型"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "話者が最も重要だと考えていることは何か。",
+          "choices": [
+            "何のために集まるのかという目的を明確にすること",
+            "出社日数を厳密に管理すること",
+            "オフィスを縮小して経費を削減すること",
+            "全社員に同じ制度を適用すること"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-l2",
+      "title": "大学講義：行動経済学入門",
+      "script": "本日は、行動経済学の基本的な考え方についてお話しします。伝統的な経済学は、人間が常に合理的に判断するという前提の上に成り立ってきました。しかし、現実の私たちの行動は、この前提から大きく外れることが少なくありません。例えば、人は同じ額であっても、利益を得る喜びより損失を被る痛みをはるかに強く感じます。これは損失回避と呼ばれる傾向で、行動経済学の中心的な概念の一つです。この傾向のために、人は明らかに不利な状況でも、損を確定させることを嫌って決断を先送りにしがちです。株価が下がり続けているのに売れない投資家の心理は、その典型と言えるでしょう。また、選択肢の提示の仕方を少し変えるだけで、人々の判断が大きく変わることも分かっています。こうした知見は、年金制度の設計や健康促進政策など、幅広い分野で応用され始めています。人間の不合理さを前提とした制度設計こそ、これからの社会に求められているのです。",
+      "en": "Today I will talk about the basic ideas of behavioral economics. Traditional economics has been built on the premise that human beings always judge rationally. In reality, however, our behavior frequently departs from this premise. For example, even for the same amount of money, people feel the pain of a loss far more strongly than the pleasure of a gain. This tendency is called loss aversion, one of the central concepts of behavioral economics. Because of it, even in clearly unfavorable situations, people tend to postpone decisions out of reluctance to lock in a loss. The psychology of an investor who cannot sell even as share prices keep falling is a typical example. We also know that merely changing how choices are presented can greatly alter people's judgments. Such insights are beginning to be applied in a wide range of fields, from pension system design to health promotion policy. It is precisely institutional design premised on human irrationality that the society of the future demands.",
+      "questions": [
+        {
+          "q": "伝統的な経済学はどのような前提に立っていたか。",
+          "choices": [
+            "人間は常に損失を恐れる",
+            "人間は感情で判断する",
+            "人間は常に合理的に判断する",
+            "人間は他人の行動をまねる"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "損失回避とはどのような傾向か。",
+          "choices": [
+            "利益を得る喜びより損失を被る痛みをはるかに強く感じる傾向",
+            "損失を全く気にしない傾向",
+            "利益のために大きな危険を冒す傾向",
+            "他人の損失を喜ぶ傾向"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "話者によると、行動経済学の知見はどのような分野で応用され始めているか。",
+          "choices": [
+            "株価の正確な予測",
+            "損失を完全になくす金融商品の開発",
+            "合理的な人間を育てる教育",
+            "年金制度の設計や健康促進政策"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-l3",
+      "title": "ニュース解説：食品ロス問題",
+      "script": "続いて、食品ロス問題について解説します。日本では年間およそ五百万トンの食品が、まだ食べられる状態のまま廃棄されています。これは国民一人当たりに換算すると、毎日茶碗一杯分のご飯を捨てている計算になります。注目すべきは、その半分近くが飲食店や小売店ではなく、家庭から出ているという事実です。買いすぎによる食材の傷み、作りすぎによる食べ残し、そして賞味期限の誤解が主な原因とされています。特に賞味期限は、おいしく食べられる目安に過ぎず、期限を過ぎた食品がただちに食べられなくなるわけではありません。しかし多くの消費者が、賞味期限と消費期限を混同し、まだ安全な食品を捨てているのが現状です。企業の側でも、値引き販売や食品バンクへの寄付など、廃棄を減らす取り組みが広がり始めています。食品ロスの削減は、環境負荷の軽減だけでなく、家計の節約にも直結する、身近な課題なのです。",
+      "en": "Next, an analysis of the food waste problem. In Japan, roughly five million tons of food are discarded every year while still fit to eat. Converted per citizen, that works out to throwing away a bowl of rice every day. What deserves attention is the fact that nearly half of this waste comes not from restaurants or retailers but from households. The main causes are said to be food spoiling after over-buying, leftovers from cooking too much, and misunderstanding of best-before dates. The best-before date, in particular, is merely a guideline for tasting good; food does not immediately become inedible once the date has passed. Yet the reality is that many consumers confuse best-before dates with use-by dates and throw away food that is still safe. On the corporate side, efforts to cut waste, such as discount sales and donations to food banks, are beginning to spread. Reducing food waste is a familiar, everyday issue that leads directly not only to a lighter burden on the environment but also to savings in household budgets.",
+      "questions": [
+        {
+          "q": "日本の食品ロスについて、注目すべき事実として述べられているのはどれか。",
+          "choices": [
+            "半分近くが家庭から出ていること",
+            "ほとんどが飲食店から出ていること",
+            "年々急速に減少していること",
+            "輸入食品が大半を占めること"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "賞味期限について、話者はどのように説明しているか。",
+          "choices": [
+            "過ぎたら直ちに捨てるべき期限である",
+            "消費期限と全く同じ意味である",
+            "おいしく食べられる目安に過ぎない",
+            "法律で廃棄が義務付けられている"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "食品ロスの削減は何につながると述べられているか。",
+          "choices": [
+            "食品価格の上昇",
+            "環境負荷の軽減と家計の節約",
+            "賞味期限の延長",
+            "輸入量の増加"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n1-l4",
+      "title": "式辞：入社式での社長挨拶",
+      "script": "新入社員の皆さん、入社おめでとうございます。皆さんを新たな仲間として迎えられることを、心から嬉しく思います。さて、本日はただ一つ、失敗を恐れるなということをお伝えしたいと思います。当社は創業以来、挑戦を何よりも重んじてきました。今日の主力事業も、もとをたどれば、若い社員の無謀とも思える提案から生まれたものです。もちろん、挑戦には失敗がつきものです。しかし、失敗から学ぶ者だけが、本当の成長を手にすることができます。私が皆さんに求めるのは、完璧であることではなく、失敗を糧に立ち上がる姿勢です。分からないことは遠慮なく先輩に尋ね、時には臆せず異を唱えてください。皆さんの新しい視点こそが、この会社の未来を作るのです。共に学び、共に成長していきましょう。",
+      "en": "New employees, congratulations on joining the company. It is a genuine pleasure to welcome you as new colleagues. Today I wish to convey just one thing: do not fear failure. Since its founding, this company has valued the spirit of challenge above all else. Even our core business today, if you trace it back, was born from a young employee's proposal that seemed almost reckless. Of course, failure is an inseparable part of taking on challenges. But only those who learn from failure attain true growth. What I ask of you is not perfection, but the attitude of turning failure into nourishment and standing back up. Ask your seniors freely about anything you do not understand, and at times, do not hesitate to voice dissent. It is precisely your fresh perspectives that will build this company's future. Let us learn together and grow together.",
+      "questions": [
+        {
+          "q": "話者が新入社員に最も伝えたいことは何か。",
+          "choices": [
+            "完璧な仕事を目指すこと",
+            "先輩の指示に必ず従うこと",
+            "早く昇進すること",
+            "失敗を恐れずに挑戦すること"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "会社の主力事業はどのように生まれたと述べているか。",
+          "choices": [
+            "海外企業との提携から",
+            "若い社員の無謀とも思える提案から",
+            "創業者の綿密な計画から",
+            "他社の事業の模倣から"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "話者は新入社員にどのような姿勢を求めているか。",
+          "choices": [
+            "失敗を隠して評価を守る姿勢",
+            "一人で問題を解決する姿勢",
+            "失敗を糧に立ち上がる姿勢",
+            "上司の意見に決して反対しない姿勢"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-l5",
+      "title": "ドキュメンタリー：深海の世界",
+      "script": "ここは太陽の光が全く届かない、水深千メートルの深海です。かつて生命は存在しないと考えられていたこの暗黒の世界には、実は驚くほど多様な生き物が暮らしています。深海魚の多くは、自ら光を放つ発光器を持っています。この光は、獲物をおびき寄せたり、仲間に合図を送ったりするために使われます。海底の割れ目には、熱水が噴き出す場所があります。そこでは、太陽の光に頼らず、化学物質からエネルギーを得る微生物が独自の生態系を支えています。この発見は、生命は太陽なしには存在できないという常識を覆しました。地球最後の秘境とも呼ばれる深海ですが、その調査はまだ始まったばかりです。人類がこれまでに詳しく調べた深海は、全体のわずか数パーセントに過ぎないと言われています。深海の探査は、地球の生命の起源、さらには地球外生命の可能性を探る手がかりにもなると期待されているのです。",
+      "en": "This is the deep sea, one thousand meters down, where sunlight never reaches. In this world of darkness, once believed to harbor no life, a surprisingly diverse array of creatures actually lives. Many deep-sea fish possess light organs that emit their own glow. This light is used to lure prey and to send signals to companions. In fissures on the seafloor, there are places where hot water gushes out. There, microorganisms that draw energy from chemicals rather than sunlight sustain ecosystems of their own. This discovery overturned the accepted wisdom that life cannot exist without the sun. The deep sea is sometimes called Earth's last frontier, yet its exploration has only just begun. The deep sea that humanity has examined in detail so far is said to amount to no more than a few percent of the whole. Deep-sea exploration is expected to offer clues to the origin of life on Earth, and even to the possibility of life beyond it.",
+      "questions": [
+        {
+          "q": "深海魚の発光器は何のために使われると述べられているか。",
+          "choices": [
+            "体温を保つため",
+            "獲物をおびき寄せたり仲間に合図を送ったりするため",
+            "天敵から高速で逃げるため",
+            "海流を感知するため"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "熱水が噴き出す場所の生態系を支えているのは何か。",
+          "choices": [
+            "化学物質からエネルギーを得る微生物",
+            "海面から沈んでくる植物",
+            "太陽の光を利用する海藻",
+            "深海魚の発する光"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "人類がこれまでに詳しく調べた深海はどのくらいだと言われているか。",
+          "choices": [
+            "ほぼ全域",
+            "およそ半分",
+            "三分の一程度",
+            "全体のわずか数パーセント"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}
