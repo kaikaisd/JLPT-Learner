@@ -53,3 +53,8 @@ All content lives in `data/*.json` and is hand-editable:
   for furigana rendering.
 - `listening-*.json` — TTS scripts with comprehension questions.
 - `index.json` — per-level item counts for the dashboards.
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
+Vocabulary data is derived from JMdict/EDICT-based open JLPT lists (CC-BY-SA).
