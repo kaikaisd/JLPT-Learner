@@ -1,0 +1,142 @@
+{
+  "level": "N2",
+  "passages": [
+    {
+      "id": "n2-r1",
+      "title": "テレワークという働き方",
+      "body": [
+        ["近年", "きんねん"], "、テレワークという", ["働き方", "はたらきかた"], "が", ["急速", "きゅうそく"], "に", ["広", "ひろ"], "まっている。", ["会社", "かいしゃ"], "に", ["通勤", "つうきん"], "する", ["必要", "ひつよう"], "がなく、", ["自宅", "じたく"], "で", ["仕事", "しごと"], "ができるため、", ["通勤時間", "つうきんじかん"], "の", ["削減", "さくげん"], "や", ["育児", "いくじ"], "との", ["両立", "りょうりつ"], "など、", ["多", "おお"], "くの", ["利点", "りてん"], "があると", ["言", "い"], "われている。\n",
+        ["一方", "いっぽう"], "で、", ["課題", "かだい"], "も", ["少", "すく"], "なくない。", ["同僚", "どうりょう"], "と", ["直接", "ちょくせつ"], ["顔", "かお"], "を", ["合", "あ"], "わせる", ["機会", "きかい"], "が", ["減", "へ"], "るため、コミュニケーションが", ["不足", "ふそく"], "しがちになる。", ["特", "とく"], "に", ["入社", "にゅうしゃ"], "したばかりの", ["社員", "しゃいん"], "は、", ["仕事", "しごと"], "の", ["進", "すす"], "め", ["方", "かた"], "を", ["先輩", "せんぱい"], "に", ["気軽", "きがる"], "に", ["質問", "しつもん"], "できず、", ["不安", "ふあん"], "を", ["感", "かん"], "じやすいと", ["言", "い"], "われる。また、", ["仕事", "しごと"], "と", ["生活", "せいかつ"], "の", ["区別", "くべつ"], "があいまいになり、かえって", ["長時間", "ちょうじかん"], ["働", "はたら"], "いてしまう", ["人", "ひと"], "もいるという。\n",
+        ["筆者", "ひっしゃ"], ["自身", "じしん"], "も", ["週", "しゅう"], "の", ["半分", "はんぶん"], "を", ["在宅勤務", "ざいたくきんむ"], "にしているが、", ["集中", "しゅうちゅう"], "できる", ["時間", "じかん"], "が", ["増", "ふ"], "えた", ["一方", "いっぽう"], "、", ["雑談", "ざつだん"], "から", ["生", "う"], "まれるアイデアが", ["減", "へ"], "ったと", ["感", "かん"], "じている。テレワークか", ["出社", "しゅっしゃ"], "かという", ["二者択一", "にしゃたくいつ"], "ではなく、", ["仕事", "しごと"], "の", ["内容", "ないよう"], "に", ["応", "おう"], "じて", ["両方", "りょうほう"], "をうまく", ["組", "く"], "み", ["合", "あ"], "わせることこそが、これからの", ["働き方", "はたらきかた"], "に", ["求", "もと"], "められているのではないだろうか。"
+      ],
+      "en": "In recent years, a style of working called telework has spread rapidly. Because there is no need to commute to the office and work can be done at home, it is said to have many advantages, such as reducing commuting time and making it easier to balance work with child-rearing.\nOn the other hand, there are also quite a few problems. Since there are fewer opportunities to meet colleagues face to face, communication tends to become insufficient. In particular, employees who have just joined a company are said to feel anxious easily because they cannot casually ask senior colleagues how to proceed with their work. Also, the line between work and private life becomes blurred, and some people reportedly end up working longer hours instead.\nThe author also works from home half the week. While the time I can concentrate has increased, I feel that the ideas born from casual chatting have decreased. Rather than an either-or choice between telework and going to the office, isn't skillfully combining both according to the nature of the work exactly what is required of the way we work from now on?",
+      "questions": [
+        {
+          "q": "テレワークの利点として本文で挙げられているものはどれか。",
+          "choices": ["給料が上がること", "通勤時間が減ること", "同僚と直接話す機会が増えること", "早く昇進できること"],
+          "answer": 1
+        },
+        {
+          "q": "テレワークの課題として本文の内容に合うものはどれか。",
+          "choices": ["仕事の量が減ってしまうこと", "会社のオフィスが狭くなること", "仕事と生活の区別があいまいになること", "通勤時間が長くなること"],
+          "answer": 2
+        },
+        {
+          "q": "筆者の考えに合うものはどれか。",
+          "choices": ["テレワークをやめて全員が出社すべきだ", "すべての仕事をテレワークにするべきだ", "雑談は仕事に必要ないものだ", "仕事の内容に応じて出社とテレワークを組み合わせるべきだ"],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n2-r2",
+      "title": "プラスチックごみと海",
+      "body": [
+        ["私", "わたし"], "たちの", ["生活", "せいかつ"], "は、プラスチック", ["製品", "せいひん"], "なしには", ["成", "な"], "り", ["立", "た"], "たないと", ["言", "い"], "ってもいいだろう。", ["軽", "かる"], "くて", ["丈夫", "じょうぶ"], "で", ["安", "やす"], "いプラスチックは、", ["包装", "ほうそう"], "や", ["容器", "ようき"], "など、あらゆる", ["場面", "ばめん"], "で", ["使", "つか"], "われている。しかし、その", ["便利", "べんり"], "さの", ["裏", "うら"], "で、", ["深刻", "しんこく"], "な", ["環境問題", "かんきょうもんだい"], "が", ["起", "お"], "きている。\n",
+        ["使", "つか"], "い", ["捨", "す"], "てられたプラスチックごみの", ["一部", "いちぶ"], "は、", ["川", "かわ"], "を", ["通", "つう"], "じて", ["海", "うみ"], "に", ["流", "なが"], "れ", ["込", "こ"], "む。", ["海", "うみ"], "に", ["流", "なが"], "れ", ["込", "こ"], "んだごみは、", ["波", "なみ"], "や", ["紫外線", "しがいせん"], "によって", ["細", "こま"], "かく", ["砕", "くだ"], "かれ、マイクロプラスチックと", ["呼", "よ"], "ばれる", ["小", "ちい"], "さな", ["粒", "つぶ"], "になる。これを", ["魚", "さかな"], "が", ["飲", "の"], "み", ["込", "こ"], "み、その", ["魚", "さかな"], "を", ["人間", "にんげん"], "が", ["食", "た"], "べることで、", ["人体", "じんたい"], "への", ["影響", "えいきょう"], "も", ["心配", "しんぱい"], "されている。\n",
+        "この", ["問題", "もんだい"], "の", ["解決", "かいけつ"], "には、", ["国", "くに"], "や", ["企業", "きぎょう"], "の", ["取", "と"], "り", ["組", "く"], "みはもとより、", ["一人一人", "ひとりひとり"], "の", ["行動", "こうどう"], "の", ["変化", "へんか"], "が", ["欠", "か"], "かせない。", ["買", "か"], "い", ["物袋", "ものぶくろ"], "を", ["持参", "じさん"], "する、", ["使", "つか"], "い", ["捨", "す"], "て", ["容器", "ようき"], "を", ["避", "さ"], "けるといった", ["小", "ちい"], "さな", ["行動", "こうどう"], "は、それだけでは", ["海", "うみ"], "を", ["守", "まも"], "れないかもしれない。しかし、", ["多", "おお"], "くの", ["人", "ひと"], "の", ["小", "ちい"], "さな", ["行動", "こうどう"], "が", ["集", "あつ"], "まってはじめて、", ["社会", "しゃかい"], "は", ["変", "か"], "わるのだと", ["筆者", "ひっしゃ"], "は", ["考", "かんが"], "えている。"
+      ],
+      "en": "It would be fair to say that our lives could not function without plastic products. Light, durable and cheap, plastic is used in every situation, such as packaging and containers. Behind this convenience, however, a serious environmental problem is occurring.\nPart of the discarded plastic waste flows into the sea through rivers. Waste that reaches the sea is broken into tiny pieces by waves and ultraviolet light, becoming small particles called microplastics. Fish swallow them, and since humans eat those fish, effects on the human body are also feared.\nTo solve this problem, changes in each individual's behavior are indispensable, not to mention efforts by governments and companies. Small actions such as bringing your own shopping bag or avoiding disposable containers may not save the ocean by themselves. However, the author believes that society changes only when the small actions of many people come together.",
+      "questions": [
+        {
+          "q": "マイクロプラスチックはどのようにしてできるか。",
+          "choices": ["工場で意図的に作られる", "海に流れ込んだごみが波や紫外線によって細かく砕かれてできる", "魚の体の中で作られる", "買い物袋が溶けてできる"],
+          "answer": 1
+        },
+        {
+          "q": "プラスチックが広く使われている理由として本文に合うものはどれか。",
+          "choices": ["環境に優しいから", "高級な印象を与えるから", "軽くて丈夫で安いから", "再利用が簡単だから"],
+          "answer": 2
+        },
+        {
+          "q": "筆者の考えに合うものはどれか。",
+          "choices": ["多くの人の小さな行動が集まることで社会は変わる", "個人の行動には全く意味がない", "国と企業だけが取り組めば問題は解決する", "プラスチックの使用をただちに全面的に禁止すべきだ"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n2-r3",
+      "title": "高齢化社会をどうとらえるか",
+      "body": [
+        ["日本", "にほん"], "では、", ["総人口", "そうじんこう"], "に", ["占", "し"], "める", ["高齢者", "こうれいしゃ"], "の", ["割合", "わりあい"], "が", ["年々", "ねんねん"], ["高", "たか"], "くなっている。", ["同時", "どうじ"], "に", ["生", "う"], "まれる", ["子供", "こども"], "の", ["数", "かず"], "は", ["減", "へ"], "り", ["続", "つづ"], "けており、", ["少子高齢化", "しょうしこうれいか"], "は", ["日本社会", "にほんしゃかい"], "が", ["抱", "かか"], "える", ["最", "もっと"], "も", ["大", "おお"], "きな", ["課題", "かだい"], "の", ["一", "ひと"], "つとなっている。\n",
+        ["高齢化", "こうれいか"], "が", ["進", "すす"], "むと、", ["働", "はたら"], "く", ["世代", "せだい"], "が", ["減", "へ"], "り、", ["年金", "ねんきん"], "や", ["医療", "いりょう"], "といった", ["社会保障", "しゃかいほしょう"], "の", ["負担", "ふたん"], "が", ["重", "おも"], "くなる。", ["地方", "ちほう"], "では、", ["若者", "わかもの"], "が", ["都市", "とし"], "に", ["出", "で"], "ていくため、", ["店", "みせ"], "や", ["病院", "びょういん"], "が", ["閉", "し"], "まり、", ["生活", "せいかつ"], "が", ["不便", "ふべん"], "になる", ["地域", "ちいき"], "も", ["増", "ふ"], "えている。\n",
+        ["一方", "いっぽう"], "で、", ["高齢者", "こうれいしゃ"], "を", ["支", "ささ"], "えられるだけの", ["存在", "そんざい"], "としてとらえるのは", ["正", "ただ"], "しくないだろう。", ["長年", "ながねん"], "の", ["経験", "けいけん"], "や", ["知識", "ちしき"], "を", ["持", "も"], "つ", ["高齢者", "こうれいしゃ"], "は、", ["地域社会", "ちいきしゃかい"], "にとって", ["貴重", "きちょう"], "な", ["人材", "じんざい"], "でもある。", ["実際", "じっさい"], "、", ["定年後", "ていねんご"], "に", ["地域", "ちいき"], "の", ["活動", "かつどう"], "やボランティアで", ["活躍", "かつやく"], "する", ["人", "ひと"], "は", ["少", "すく"], "なくない。\n",
+        ["筆者", "ひっしゃ"], "は、", ["高齢化", "こうれいか"], "を", ["単", "たん"], "なる", ["問題", "もんだい"], "としてではなく、", ["社会", "しゃかい"], "の", ["仕組", "しく"], "みを", ["見直", "みなお"], "すきっかけとしてとらえるべきだと", ["考", "かんが"], "える。", ["年齢", "ねんれい"], "に", ["関係", "かんけい"], "なく、", ["誰", "だれ"], "もが", ["能力", "のうりょく"], "を", ["生", "い"], "かして", ["参加", "さんか"], "できる", ["社会", "しゃかい"], "こそ、これからの", ["日本", "にほん"], "が", ["目指", "めざ"], "すべき", ["姿", "すがた"], "ではないだろうか。"
+      ],
+      "en": "In Japan, the proportion of elderly people in the total population is rising year by year. At the same time, the number of children being born keeps declining, and the aging society with a falling birthrate has become one of the biggest challenges facing Japanese society.\nAs aging advances, the working generation shrinks and the burden of social security, such as pensions and medical care, grows heavier. In rural areas, because young people move to the cities, shops and hospitals close, and the number of regions where daily life becomes inconvenient is increasing.\nOn the other hand, it would not be right to regard the elderly merely as people to be supported. Elderly people, with their years of experience and knowledge, are also valuable human resources for local communities. In fact, quite a few people play active roles in community activities and volunteer work after retirement.\nThe author believes that aging should be seen not simply as a problem but as an opportunity to rethink the structure of society. A society in which everyone, regardless of age, can participate by making use of their abilities — is that not exactly what Japan should aim for from now on?",
+      "questions": [
+        {
+          "q": "高齢化が進むと起こることとして、本文に合うものはどれか。",
+          "choices": ["子供の数が増える", "働く世代が増える", "年金の負担が軽くなる", "社会保障の負担が重くなる"],
+          "answer": 3
+        },
+        {
+          "q": "地方で起きていることとして、本文に合うものはどれか。",
+          "choices": ["若者が都市に出ていき、店や病院が閉まっている", "高齢者が都市に移住している", "病院の数が増え続けている", "若者の人口が増えている"],
+          "answer": 0
+        },
+        {
+          "q": "筆者の考えに合うものはどれか。",
+          "choices": ["高齢者は支えられるだけの存在である", "高齢化は社会の仕組みを見直すきっかけとしてとらえるべきだ", "高齢化の問題は地方だけの問題である", "定年後はボランティアを義務にすべきだ"],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n2-r4",
+      "title": "書評：『時間と生き方』",
+      "body": [
+        ["先日", "せんじつ"], "、『", ["時間", "じかん"], "と", ["生", "い"], "き", ["方", "かた"], "』という", ["本", "ほん"], "を", ["読", "よ"], "んだ。", ["著者", "ちょしゃ"], "は", ["心理学者", "しんりがくしゃ"], "で、", ["現代人", "げんだいじん"], "の", ["時間", "じかん"], "の", ["使", "つか"], "い", ["方", "かた"], "について", ["長年研究", "ながねんけんきゅう"], "してきた", ["人物", "じんぶつ"], "である。\n",
+        ["本書", "ほんしょ"], "の", ["中心", "ちゅうしん"], "にあるのは、「", ["忙", "いそが"], "しさは", ["必", "かなら"], "ずしも", ["充実", "じゅうじつ"], "を", ["意味", "いみ"], "しない」という", ["主張", "しゅちょう"], "だ。", ["著者", "ちょしゃ"], "によれば、", ["私", "わたし"], "たちは", ["予定", "よてい"], "を", ["詰", "つ"], "め", ["込", "こ"], "むことで", ["安心感", "あんしんかん"], "を", ["得", "え"], "ようとするが、その", ["結果", "けっか"], "、", ["一", "ひと"], "つ", ["一", "ひと"], "つの", ["経験", "けいけん"], "を", ["味", "あじ"], "わう", ["余裕", "よゆう"], "を", ["失", "うしな"], "っているという。", ["特", "とく"], "に", ["印象的", "いんしょうてき"], "だったのは、", ["一日", "いちにち"], "の", ["終", "お"], "わりに", ["十分", "じゅっぷん"], "だけ", ["何", "なに"], "もしない", ["時間", "じかん"], "を", ["作", "つく"], "るという", ["提案", "ていあん"], "である。", ["単純", "たんじゅん"], "に", ["聞", "き"], "こえるが、", ["実際", "じっさい"], "にやってみると", ["意外", "いがい"], "に", ["難", "むずか"], "しく、", ["自分", "じぶん"], "がいかに「", ["何", "なに"], "かをしていないと", ["不安", "ふあん"], "になる」", ["状態", "じょうたい"], "にあるかに", ["気", "き"], "づかされた。\n",
+        ["説明", "せつめい"], "はやや", ["理屈", "りくつ"], "っぽく、", ["後半", "こうはん"], "には", ["同", "おな"], "じ", ["内容", "ないよう"], "の", ["繰", "く"], "り", ["返", "かえ"], "しも", ["見", "み"], "られる。", ["価格", "かかく"], "も", ["決", "けっ"], "して", ["安", "やす"], "くはない。それでも、", ["時間", "じかん"], "に", ["追", "お"], "われていると", ["感", "かん"], "じている", ["人", "ひと"], "には、", ["一度立", "いちどた"], "ち", ["止", "ど"], "まって", ["自分", "じぶん"], "の", ["生活", "せいかつ"], "を", ["見直", "みなお"], "すきっかけとして、", ["本書", "ほんしょ"], "を", ["勧", "すす"], "めたい。"
+      ],
+      "en": "The other day I read a book called 'Time and How to Live.' The author is a psychologist who has spent many years studying how modern people use their time.\nAt the heart of the book is the claim that 'being busy does not necessarily mean being fulfilled.' According to the author, we try to gain a sense of security by packing our schedules, but as a result we lose the room to savor each individual experience. What impressed me most was the suggestion to set aside just ten minutes at the end of the day to do nothing. It sounds simple, but when I actually tried it, it was surprisingly difficult, and it made me realize how much I am in a state of 'feeling anxious unless I am doing something.'\nThe explanations are somewhat over-theoretical, and in the second half the same points are repeated. The price is not cheap, either. Even so, for people who feel chased by time, I would recommend this book as a chance to stop for a moment and take a fresh look at their own lives.",
+      "questions": [
+        {
+          "q": "『時間と生き方』の著者はどんな人物か。",
+          "choices": ["小説家", "経済学者", "心理学者", "医者"],
+          "answer": 2
+        },
+        {
+          "q": "本書の中心にある主張はどれか。",
+          "choices": ["予定は多ければ多いほどよい", "忙しさは必ずしも充実を意味しない", "時間は誰にとっても平等である", "現代人はもっと働くべきだ"],
+          "answer": 1
+        },
+        {
+          "q": "この文章を書いた筆者の考えに合うものはどれか。",
+          "choices": ["本書には欠点がなく、完璧な本である", "提案は簡単で、誰でもすぐに実行できる", "本書は読む価値がないと思う", "欠点はあるが、時間に追われている人に本書を勧めたい"],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n2-r5",
+      "title": "名刺交換の作法",
+      "body": [
+        ["日本", "にほん"], "のビジネスの", ["場", "ば"], "では、", ["名刺交換", "めいしこうかん"], "は", ["単", "たん"], "なる", ["連絡先", "れんらくさき"], "の", ["交換", "こうかん"], "ではなく、", ["大切", "たいせつ"], "なあいさつの", ["一", "ひと"], "つと", ["考", "かんが"], "えられている。", ["初対面", "しょたいめん"], "の", ["印象", "いんしょう"], "を", ["左右", "さゆう"], "するため、", ["基本的", "きほんてき"], "な", ["作法", "さほう"], "を", ["身", "み"], "につけておきたい。\n",
+        ["名刺", "めいし"], "は", ["目下", "めした"], "の", ["者", "もの"], "、あるいは", ["訪問", "ほうもん"], "した", ["側", "がわ"], "から", ["先", "さき"], "に", ["差", "さ"], "し", ["出", "だ"], "すのが", ["原則", "げんそく"], "である。", ["渡", "わた"], "す", ["時", "とき"], "は", ["名刺入", "めいしい"], "れから", ["取", "と"], "り", ["出", "だ"], "し、", ["相手", "あいて"], "が", ["読", "よ"], "める", ["向", "む"], "きにして、", ["両手", "りょうて"], "で", ["差", "さ"], "し", ["出", "だ"], "す。その", ["際", "さい"], "、", ["会社名", "かいしゃめい"], "と", ["名前", "なまえ"], "をはっきり", ["名乗", "なの"], "ることを", ["忘", "わす"], "れてはならない。", ["受", "う"], "け", ["取", "と"], "る", ["時", "とき"], "も", ["両手", "りょうて"], "で", ["受", "う"], "け", ["取", "と"], "り、「", ["頂戴", "ちょうだい"], "いたします」と", ["一言添", "ひとことそ"], "えるとよい。\n",
+        ["受", "う"], "け", ["取", "と"], "った", ["名刺", "めいし"], "をすぐにしまうのは", ["失礼", "しつれい"], "にあたる。", ["打", "う"], "ち", ["合", "あ"], "わせの", ["間", "あいだ"], "は", ["名刺入", "めいしい"], "れの", ["上", "うえ"], "にのせて", ["机", "つくえ"], "に", ["置", "お"], "き、", ["相手", "あいて"], "の", ["名前", "なまえ"], "を", ["確認", "かくにん"], "しながら", ["話", "はなし"], "を", ["進", "すす"], "めるのが", ["丁寧", "ていねい"], "だとされている。また、", ["相手", "あいて"], "の", ["名刺", "めいし"], "にその", ["場", "ば"], "でメモを", ["書", "か"], "き", ["込", "こ"], "むことも", ["避", "さ"], "けるべきである。\n",
+        ["形式", "けいしき"], "ばかりにとらわれる", ["必要", "ひつよう"], "はないが、こうした", ["作法", "さほう"], "の", ["背景", "はいけい"], "には", ["相手", "あいて"], "への", ["敬意", "けいい"], "があるということを", ["理解", "りかい"], "しておくことが", ["何", "なに"], "より", ["重要", "じゅうよう"], "だろう。"
+      ],
+      "en": "In Japanese business settings, exchanging business cards is considered not merely an exchange of contact information but an important form of greeting. Because it can influence a first impression, you will want to master the basic etiquette.\nAs a rule, the person of lower status, or the visiting side, offers their card first. When handing over a card, take it out of your card case, turn it so the other person can read it, and present it with both hands. At that moment, do not forget to clearly state your company name and your own name. When receiving a card, also take it with both hands, and it is good to add a word such as 'chodai itashimasu' (I humbly accept it).\nPutting away a card you have just received immediately is considered rude. During the meeting, it is regarded as polite to place it on top of your card case on the desk and continue the conversation while confirming the other person's name. You should also avoid writing memos on the other person's card on the spot.\nThere is no need to be bound by formality alone, but understanding that behind these manners lies respect for the other person is probably the most important thing of all.",
+      "questions": [
+        {
+          "q": "名刺は誰から先に差し出すのが原則か。",
+          "choices": ["目下の者、あるいは訪問した側", "目上の者、あるいは訪問を受けた側", "年齢が上の人", "どちらから出してもよい"],
+          "answer": 0
+        },
+        {
+          "q": "受け取った名刺の扱い方として、丁寧だとされているものはどれか。",
+          "choices": ["すぐにかばんにしまう", "その場でメモを書き込む", "名刺入れの上にのせて机に置き、名前を確認しながら話す", "相手に返す"],
+          "answer": 2
+        },
+        {
+          "q": "筆者の考えに合うものはどれか。",
+          "choices": ["名刺交換の形式さえ守れば十分である", "作法の背景にある相手への敬意を理解することが最も重要だ", "名刺交換はもうやめるべき習慣だ", "名刺は片手で渡してもかまわない"],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "level": "N1",
+  "passages": [
+    {
+      "id": "n1-r1",
+      "title": "技術と人間らしさ",
+      "body": [
+        ["人工", "じんこう"], ["知能", "ちのう"], "の", ["急速", "きゅうそく"], "な", ["発展", "はってん"], "は、", ["私", "わたし"], "たちの", ["生活", "せいかつ"], "を", ["根底", "こんてい"], "から", ["変え", "かえ"], "つつある。", ["文章", "ぶんしょう"], "を", ["書き", "かき"], "、", ["絵", "え"], "を", ["描き", "えがき"], "、", ["音楽", "おんがく"], "まで", ["作る", "つくる"], "ようになった", ["機械", "きかい"], "を", ["前", "まえ"], "に、", ["人間", "にんげん"], "にしかできないことは", ["何", "なに"], "かという", ["問い", "とい"], "が、かつてない", ["切実", "せつじつ"], "さを", ["帯びて", "おびて"], ["浮かび上がって", "うかびあがって"], "いる。", "\n",
+        "かつて", ["人間", "にんげん"], "らしさの", ["証", "あかし"], "とされた", ["知的", "ちてき"], ["作業", "さぎょう"], "の", ["多く", "おおく"], "は、すでに", ["機械", "きかい"], "によって", ["代替", "だいたい"], "されつつある。しかし、ここで", ["見落として", "みおとして"], "はならないのは、", ["人間", "にんげん"], "の", ["価値", "かち"], "が", ["効率", "こうりつ"], "や", ["生産性", "せいさんせい"], "のみによって", ["測られる", "はかられる"], "ものではないという", ["点", "てん"], "である。", ["誰", "だれ"], "かの", ["痛み", "いたみ"], "に", ["共感", "きょうかん"], "し、", ["答え", "こたえ"], "のない", ["問い", "とい"], "に", ["悩み続ける", "なやみつづける"], "こと。そうした", ["一見", "いっけん"], ["非効率", "ひこうりつ"], "な", ["営み", "いとなみ"], "にこそ、", ["人間", "にんげん"], "の", ["本質", "ほんしつ"], "が", ["宿って", "やどって"], "いるのではないか。", "\n",
+        ["技術", "ぎじゅつ"], "を", ["拒む", "こばむ"], "ことも、", ["無批判", "むひはん"], "に", ["受け入れる", "うけいれる"], "ことも、いずれも", ["賢明", "けんめい"], "とは", ["言えない", "いえない"], "。", ["求められて", "もとめられて"], "いるのは、", ["機械", "きかい"], "に", ["何", "なに"], "を", ["任せ", "まかせ"], "、", ["何", "なに"], "を", ["人間", "にんげん"], "の", ["手", "て"], "に", ["残す", "のこす"], "のかを、", ["私", "わたし"], "たち", ["自身", "じしん"], "が", ["主体的", "しゅたいてき"], "に", ["選び取る", "えらびとる"], ["姿勢", "しせい"], "である。", ["技術", "ぎじゅつ"], "の", ["進歩", "しんぽ"], "そのものが", ["問題", "もんだい"], "なのではない。それをどう", ["使う", "つかう"], "かを", ["考える", "かんがえる"], "ことを", ["放棄", "ほうき"], "したとき、", ["初めて", "はじめて"], ["技術", "ぎじゅつ"], "は", ["人間", "にんげん"], "にとっての", ["脅威", "きょうい"], "となるのである。"
+      ],
+      "en": "The rapid development of artificial intelligence is transforming our lives from the ground up. Faced with machines that now write, draw, and even compose music, the question of what only humans can do has surfaced with unprecedented urgency.\nMuch of the intellectual work once held up as proof of our humanity is already being taken over by machines. What we must not overlook, however, is that human worth is not something to be measured by efficiency and productivity alone. Empathizing with someone's pain; continuing to wrestle with questions that have no answers — is it not in such seemingly inefficient endeavors that the essence of being human resides?\nNeither rejecting technology nor accepting it uncritically can be called wise. What is needed is an attitude in which we ourselves actively choose what to entrust to machines and what to keep in human hands. Technological progress itself is not the problem. It is only when we abandon thinking about how to use it that technology becomes, for the first time, a threat to humanity.",
+      "questions": [
+        {
+          "q": "筆者は、人間の本質はどのようなものに宿っていると述べているか。",
+          "choices": [
+            "高い生産性を追求する働き方",
+            "機械には真似できない芸術的な才能",
+            "共感や悩みといった一見非効率な営み",
+            "最新技術を使いこなす能力"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "筆者の主張として最も適切なものはどれか。",
+          "choices": [
+            "機械に任せることと人間に残すことを、自ら主体的に選ぶべきだ",
+            "技術の発展を規制し、人間の仕事を守るべきだ",
+            "技術は無条件に受け入れて活用すべきだ",
+            "人間は機械との競争に勝つため効率を高めるべきだ"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "筆者によると、技術が人間にとって脅威となるのはどのようなときか。",
+          "choices": [
+            "機械が人間の知能を超えたとき",
+            "技術の進歩の速度が速すぎるとき",
+            "人間が機械に仕事を奪われたとき",
+            "使い方を考えることを人間が放棄したとき"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n1-r2",
+      "title": "「空気を読む」文化再考",
+      "body": [
+        ["日本", "にほん"], ["社会", "しゃかい"], "では「", ["空気", "くうき"], "を", ["読む", "よむ"], "」ことが", ["半ば", "なかば"], ["美徳", "びとく"], "のように", ["語られて", "かたられて"], "きた。その", ["場", "ば"], "の", ["雰囲気", "ふんいき"], "を", ["察し", "さっし"], "、", ["口", "くち"], "に", ["出されない", "だされない"], ["期待", "きたい"], "に", ["応える", "こたえる"], ["能力", "のうりょく"], "は、", ["確か", "たしか"], "に", ["集団", "しゅうだん"], "の", ["調和", "ちょうわ"], "を", ["保つ", "たもつ"], "うえで", ["有効", "ゆうこう"], "に", ["機能", "きのう"], "してきた。しかし、この", ["暗黙", "あんもく"], "の", ["了解", "りょうかい"], "への", ["過度", "かど"], "の", ["依存", "いぞん"], "は、いま", ["再考", "さいこう"], "を", ["迫られて", "せまられて"], "いるように", ["思われる", "おもわれる"], "。", "\n",
+        ["第一", "だいいち"], "に、", ["空気", "くうき"], "を", ["読む", "よむ"], ["文化", "ぶんか"], "は、", ["異論", "いろん"], "を", ["唱える", "となえる"], "ことへの", ["心理的", "しんりてき"], "な", ["障壁", "しょうへき"], "を", ["高く", "たかく"], "する。", ["会議", "かいぎ"], "で", ["誰", "だれ"], "もが", ["内心", "ないしん"], ["疑問", "ぎもん"], "を", ["抱き", "いだき"], "ながら、", ["誰一人", "だれひとり"], ["声", "こえ"], "を", ["上げない", "あげない"], "まま", ["誤った", "あやまった"], ["決定", "けってい"], "がなされる。こうした", ["事例", "じれい"], "は、", ["企業", "きぎょう"], "の", ["不祥事", "ふしょうじ"], "の", ["背景", "はいけい"], "としてしばしば", ["指摘", "してき"], "されるところである。", ["第二", "だいに"], "に、", ["価値観", "かちかん"], "の", ["異なる", "ことなる"], ["人々", "ひとびと"], "が", ["共", "とも"], "に", ["働く", "はたらく"], ["時代", "じだい"], "において、", ["言葉", "ことば"], "にしない", ["伝達", "でんたつ"], "は", ["誤解", "ごかい"], "の", ["温床", "おんしょう"], "となりかねない。", "\n",
+        "もっとも、", ["察し", "さっし"], "の", ["文化", "ぶんか"], "そのものを", ["全否定", "ぜんひてい"], "すべきだと", ["言いたい", "いいたい"], "のではない。", ["相手", "あいて"], "を", ["思いやる", "おもいやる"], ["繊細", "せんさい"], "さは、", ["日本", "にほん"], ["文化", "ぶんか"], "の", ["豊か", "ゆたか"], "さの", ["一部", "いちぶ"], "である。", ["問題", "もんだい"], "なのは、", ["察する", "さっする"], "ことを", ["他者", "たしゃ"], "に", ["強い", "しい"], "、", ["明示的", "めいじてき"], "な", ["対話", "たいわ"], "を", ["怠る", "おこたる"], ["姿勢", "しせい"], "だ。", ["空気", "くうき"], "を", ["読む", "よむ"], ["力", "ちから"], "と、あえて", ["空気", "くうき"], "を", ["破って", "やぶって"], ["語る", "かたる"], ["勇気", "ゆうき"], "。その", ["両方", "りょうほう"], "を", ["備えて", "そなえて"], "こそ、", ["成熟", "せいじゅく"], "したコミュニケーションと", ["言える", "いえる"], "のではないだろうか。"
+      ],
+      "en": "In Japanese society, 'reading the air' has long been spoken of almost as a virtue. The ability to sense the mood of a situation and respond to unspoken expectations has indeed functioned effectively in maintaining group harmony. Yet this excessive reliance on tacit understanding now seems due for reconsideration.\nFirst, a culture of reading the air raises the psychological barrier against voicing dissent. In meetings, everyone privately harbors doubts, yet a mistaken decision is made without a single person speaking up. Such cases are frequently cited as the background to corporate scandals. Second, in an era when people with differing values work side by side, communication left unspoken can easily become a breeding ground for misunderstanding.\nThis is not to say, however, that the culture of intuiting others' feelings should be rejected outright. The sensitivity to consider others is part of the richness of Japanese culture. The problem is the attitude of forcing others to intuit one's meaning while neglecting explicit dialogue. The ability to read the air, and the courage to deliberately break it and speak — only when equipped with both can communication truly be called mature.",
+      "questions": [
+        {
+          "q": "筆者によると、空気を読む文化の問題点の一つは何か。",
+          "choices": [
+            "集団の調和を乱すこと",
+            "異論を唱えることを心理的に難しくすること",
+            "会議の時間が長くなること",
+            "思いやりの心が失われること"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "筆者は「察しの文化」についてどのように考えているか。",
+          "choices": [
+            "全面的に否定すべきだ",
+            "外国の文化に合わせて捨てるべきだ",
+            "日本企業の不祥事の唯一の原因だ",
+            "それ自体は日本文化の豊かさの一部である"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "筆者の考える成熟したコミュニケーションとはどのようなものか。",
+          "choices": [
+            "空気を読む力と、あえて発言する勇気の両方を備えたもの",
+            "常に自分の意見をはっきり主張するもの",
+            "相手の期待をすべて察して応えるもの",
+            "誤解を避けるため言葉を最小限にするもの"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n1-r3",
+      "title": "人口減少時代の経済",
+      "body": [
+        ["日本", "にほん"], ["経済", "けいざい"], "が", ["直面", "ちょくめん"], "する", ["最大", "さいだい"], "の", ["構造的", "こうぞうてき"], ["課題", "かだい"], "は、", ["人口", "じんこう"], ["減少", "げんしょう"], "と", ["高齢化", "こうれいか"], "である。", ["生産", "せいさん"], ["年齢", "ねんれい"], ["人口", "じんこう"], "は", ["今後", "こんご"], "も", ["減り続け", "へりつづけ"], "、", ["労働力", "ろうどうりょく"], ["不足", "ぶそく"], "は", ["既", "すで"], "に", ["多く", "おおく"], "の", ["産業", "さんぎょう"], "で", ["深刻化", "しんこくか"], "している。", ["従来", "じゅうらい"], "の", ["経済", "けいざい"], ["成長", "せいちょう"], "モデルが", ["人口", "じんこう"], "の", ["増加", "ぞうか"], "を", ["前提", "ぜんてい"], "としていた", ["以上", "いじょう"], "、その", ["前提", "ぜんてい"], "が", ["崩れた", "くずれた"], ["今", "いま"], "、", ["発想", "はっそう"], "の", ["転換", "てんかん"], "が", ["求められる", "もとめられる"], "のは", ["当然", "とうぜん"], "と", ["言えよう", "いえよう"], "。", "\n",
+        ["悲観論", "ひかんろん"], "が", ["支配的", "しはいてき"], "だが、", ["視点", "してん"], "を", ["変えれば", "かえれば"], ["活路", "かつろ"], "がないわけではない。", ["第一", "だいいち"], "に、", ["一人", "ひとり"], ["当たり", "あたり"], "の", ["生産性", "せいさんせい"], "を", ["高める", "たかめる"], ["余地", "よち"], "は", ["依然", "いぜん"], "として", ["大きい", "おおきい"], "。デジタル", ["化", "か"], "の", ["遅れ", "おくれ"], "はしばしば", ["日本", "にほん"], "の", ["弱点", "じゃくてん"], "とされるが、", ["裏", "うら"], "を", ["返せば", "かえせば"], "、それだけ", ["改善", "かいぜん"], "の", ["伸びしろ", "のびしろ"], "があるということでもある。", ["第二", "だいに"], "に、", ["高齢化", "こうれいか"], "は", ["需要", "じゅよう"], "の", ["消滅", "しょうめつ"], "ではなく", ["変化", "へんか"], "を", ["意味", "いみ"], "する。", ["医療", "いりょう"], "、", ["介護", "かいご"], "、", ["生活", "せいかつ"], ["支援", "しえん"], "といった", ["分野", "ぶんや"], "には、", ["新た", "あらた"], "な", ["市場", "しじょう"], "が", ["広がり", "ひろがり"], "つつある。", "\n",
+        "ただし、こうした", ["転換", "てんかん"], "は", ["自然", "しぜん"], "に", ["起こる", "おこる"], "ものではない。", ["硬直的", "こうちょくてき"], "な", ["雇用", "こよう"], ["慣行", "かんこう"], "や", ["規制", "きせい"], "を", ["見直し", "みなおし"], "、", ["人材", "じんざい"], "や", ["資本", "しほん"], "が", ["成長", "せいちょう"], ["分野", "ぶんや"], "へ", ["移動", "いどう"], "しやすい", ["環境", "かんきょう"], "を", ["整える", "ととのえる"], "こと。それを", ["怠れば", "おこたれば"], "、", ["日本", "にほん"], ["経済", "けいざい"], "は", ["縮小", "しゅくしょう"], "の", ["道", "みち"], "をたどるほかあるまい。", ["人口", "じんこう"], ["減少", "げんしょう"], "そのものよりも、", ["変化", "へんか"], "への", ["対応", "たいおう"], "を", ["先送り", "さきおくり"], "にする", ["姿勢", "しせい"], "こそが、", ["真", "しん"], "の", ["危機", "きき"], "なのである。"
+      ],
+      "en": "The greatest structural challenge facing the Japanese economy is population decline and aging. The working-age population will continue to shrink, and labor shortages are already growing severe across many industries. Given that the conventional model of economic growth presupposed a growing population, it is only natural that a shift in thinking is demanded now that this premise has collapsed.\nPessimism is dominant, but a change of perspective reveals that paths forward do exist. First, there remains ample room to raise per-capita productivity. Japan's lag in digitalization is often cited as a weakness, but seen from the other side, it means there is that much room for improvement. Second, aging signifies not the disappearance of demand but its transformation. In fields such as medical care, nursing care, and daily-life support, new markets are steadily opening up.\nSuch a transformation, however, will not happen on its own. Rigid employment practices and regulations must be reexamined, and an environment created in which people and capital can move easily into growth sectors. Should this be neglected, the Japanese economy can only follow the road of contraction. More than population decline itself, it is the attitude of postponing our response to change that constitutes the true crisis.",
+      "questions": [
+        {
+          "q": "筆者は、日本のデジタル化の遅れをどのように捉えているか。",
+          "choices": [
+            "改善の余地が大きいという意味で好機でもある",
+            "克服不可能な致命的欠陥である",
+            "高齢化に比べれば小さな問題である",
+            "既にほぼ解消された問題である"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "筆者によると、高齢化は経済にとって何を意味するか。",
+          "choices": [
+            "需要の完全な消滅",
+            "労働力の質の向上",
+            "需要の変化と新たな市場の広がり",
+            "輸出産業の衰退"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "筆者が「真の危機」と考えているのはどれか。",
+          "choices": [
+            "人口が減少し続けること",
+            "変化への対応を先送りにする姿勢",
+            "高齢者向け市場の縮小",
+            "若者の労働意欲の低下"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n1-r4",
+      "title": "睡眠と記憶の科学",
+      "body": [
+        ["睡眠", "すいみん"], "は", ["単なる", "たんなる"], ["休息", "きゅうそく"], "ではない。", ["近年", "きんねん"], "の", ["脳科学", "のうかがく"], "の", ["研究", "けんきゅう"], "によって、", ["睡眠中", "すいみんちゅう"], "の", ["脳", "のう"], "が", ["記憶", "きおく"], "の", ["整理", "せいり"], "と", ["定着", "ていちゃく"], "という", ["重要", "じゅうよう"], "な", ["作業", "さぎょう"], "を", ["行って", "おこなって"], "いることが", ["明らか", "あきらか"], "になってきた。", "\n",
+        ["私", "わたし"], "たちが", ["日中", "にっちゅう"], "に", ["経験", "けいけん"], "した", ["出来事", "できごと"], "は、まず", ["海馬", "かいば"], "と", ["呼ばれる", "よばれる"], ["脳", "のう"], "の", ["部位", "ぶい"], "に", ["一時的", "いちじてき"], "に", ["保存", "ほぞん"], "される。しかし", ["海馬", "かいば"], "の", ["容量", "ようりょう"], "には", ["限り", "かぎり"], "があるため、", ["情報", "じょうほう"], "を", ["長期的", "ちょうきてき"], "に", ["保つ", "たもつ"], "には、", ["大脳", "だいのう"], ["皮質", "ひしつ"], "へ", ["移し替える", "うつしかえる"], ["必要", "ひつよう"], "がある。この", ["転送", "てんそう"], ["作業", "さぎょう"], "が", ["集中的", "しゅうちゅうてき"], "に", ["行われる", "おこなわれる"], "のが、", ["深い", "ふかい"], ["眠り", "ねむり"], "、いわゆる", ["徐波", "じょは"], ["睡眠", "すいみん"], "の", ["間", "あいだ"], "だと", ["考えられて", "かんがえられて"], "いる。", ["一方", "いっぽう"], "、", ["浅い", "あさい"], ["眠り", "ねむり"], "であるレム", ["睡眠", "すいみん"], "には、", ["記憶", "きおく"], ["同士", "どうし"], "を", ["結びつけ", "むすびつけ"], "、", ["感情", "かんじょう"], "を", ["伴う", "ともなう"], ["記憶", "きおく"], "を", ["処理", "しょり"], "する", ["働き", "はたらき"], "があるとされる。", ["夢", "ゆめ"], "の", ["多く", "おおく"], "がこの", ["段階", "だんかい"], "で", ["見られる", "みられる"], "のは、", ["偶然", "ぐうぜん"], "ではないのかもしれない。", "\n",
+        "この", ["知見", "ちけん"], "は、", ["学習", "がくしゅう"], "のあり", ["方", "かた"], "にも", ["示唆", "しさ"], "を", ["与える", "あたえる"], "。", ["試験前", "しけんまえ"], "に", ["徹夜", "てつや"], "で", ["詰め込む", "つめこむ"], ["勉強法", "べんきょうほう"], "は、", ["覚えた", "おぼえた"], ["内容", "ないよう"], "を", ["定着", "ていちゃく"], "させる", ["過程", "かてい"], "を", ["自ら", "みずから"], ["放棄", "ほうき"], "しているに", ["等しい", "ひとしい"], "。むしろ、", ["学習後", "がくしゅうご"], "に", ["十分", "じゅうぶん"], "な", ["睡眠", "すいみん"], "をとることこそが、", ["記憶", "きおく"], "を", ["確実", "かくじつ"], "なものにする", ["近道", "ちかみち"], "なのである。", ["睡眠", "すいみん"], "を", ["削る", "けずる"], "ことを", ["努力", "どりょく"], "の", ["証", "あかし"], "とみなす", ["風潮", "ふうちょう"], "は、", ["科学的", "かがくてき"], "に", ["見れば", "みれば"], ["逆効果", "ぎゃくこうか"], "と", ["言わざる", "いわざる"], "を", ["得ない", "えない"], "。"
+      ],
+      "en": "Sleep is not mere rest. Recent research in neuroscience has revealed that during sleep, the brain carries out the vital work of organizing and consolidating memories.\nEvents we experience during the day are first stored temporarily in a region of the brain called the hippocampus. But because the hippocampus has limited capacity, information must be transferred to the cerebral cortex if it is to be retained long-term. This transfer is thought to take place intensively during deep sleep, so-called slow-wave sleep. REM sleep, the lighter stage, is believed to link memories together and process emotionally charged ones. That most dreams occur in this stage may be no coincidence.\nThese findings carry implications for how we learn. Cramming all night before an exam amounts to voluntarily abandoning the very process that consolidates what one has memorized. Rather, getting sufficient sleep after studying is the surest shortcut to making memories stick. The tendency to regard cutting back on sleep as proof of effort must, scientifically speaking, be called counterproductive.",
+      "questions": [
+        {
+          "q": "記憶を大脳皮質へ移し替える作業が主に行われるのはいつか。",
+          "choices": [
+            "起床した直後",
+            "レム睡眠の間",
+            "日中の活動中",
+            "徐波睡眠と呼ばれる深い眠りの間"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "レム睡眠の働きとして本文で述べられているものはどれか。",
+          "choices": [
+            "体温を下げること",
+            "記憶同士を結びつけ、感情を伴う記憶を処理すること",
+            "海馬の容量を増やすこと",
+            "筋肉の疲労を回復させること"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "筆者は徹夜の詰め込み勉強についてどのように述べているか。",
+          "choices": [
+            "短期間なら最も効果的な方法だ",
+            "若いうちは問題がない",
+            "記憶を定着させる過程を自ら放棄するに等しい",
+            "睡眠の質を高める効果がある"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "n1-r5",
+      "title": "言語と思考をめぐって",
+      "body": [
+        ["言語", "げんご"], "は", ["思考", "しこう"], "を", ["伝える", "つたえる"], ["道具", "どうぐ"], "にすぎないのだろうか。むしろ", ["言語", "げんご"], "こそが", ["思考", "しこう"], "の", ["形", "かたち"], "を", ["決めて", "きめて"], "いるのではないか。この", ["問い", "とい"], "は、", ["古く", "ふるく"], "から", ["哲学者", "てつがくしゃ"], "や", ["言語学者", "げんごがくしゃ"], "を", ["悩ませて", "なやませて"], "きた。", "\n",
+        ["例えば", "たとえば"], "、", ["日本語", "にほんご"], "には", ["雨", "あめ"], "を", ["表す", "あらわす"], ["言葉", "ことば"], "が", ["驚く", "おどろく"], "ほど", ["多い", "おおい"], "。", ["五月雨", "さみだれ"], "、", ["時雨", "しぐれ"], "、", ["夕立", "ゆうだち"], "。これらを", ["区別", "くべつ"], "する", ["語彙", "ごい"], "を", ["持つ", "もつ"], ["者", "もの"], "は、", ["雨", "あめ"], "をより", ["細やか", "こまやか"], "に", ["経験", "けいけん"], "しているのかもしれない。", ["言葉", "ことば"], "が", ["違えば", "ちがえば"], "、", ["世界", "せかい"], "の", ["切り取り方", "きりとりかた"], "も", ["違う", "ちがう"], "。ある", ["言語", "げんご"], "にしかない", ["概念", "がいねん"], "は、その", ["言語", "げんご"], "の", ["話者", "わしゃ"], "にしか", ["見えない", "みえない"], ["現実", "げんじつ"], "の", ["側面", "そくめん"], "を", ["照らし出して", "てらしだして"], "いると", ["言えよう", "いえよう"], "。", "\n",
+        "とはいえ、", ["言語", "げんご"], "が", ["思考", "しこう"], "を", ["完全", "かんぜん"], "に", ["支配", "しはい"], "すると", ["考える", "かんがえる"], "のは", ["行き過ぎ", "いきすぎ"], "である。", ["私", "わたし"], "たちは、まだ", ["名前", "なまえ"], "のない", ["感情", "かんじょう"], "を", ["抱き", "いだき"], "、", ["言葉", "ことば"], "にならない", ["直感", "ちょっかん"], "に", ["導かれる", "みちびかれる"], "ことがある。", ["翻訳", "ほんやく"], "という", ["営み", "いとなみ"], "が", ["曲がりなり", "まがりなり"], "にも", ["成立", "せいりつ"], "するのは、", ["言語", "げんご"], "の", ["壁", "かべ"], "を", ["越えて", "こえて"], ["共有", "きょうゆう"], "できる", ["何", "なに"], "かが", ["人間", "にんげん"], "に", ["備わって", "そなわって"], "いるからにほかならない。", "\n",
+        ["言語", "げんご"], "は", ["思考", "しこう"], "を", ["縛る", "しばる"], ["檻", "おり"], "であると", ["同時", "どうじ"], "に、", ["思考", "しこう"], "を", ["可能", "かのう"], "にする", ["翼", "つばさ"], "でもある。", ["外国語", "がいこくご"], "を", ["学ぶ", "まなぶ"], "ことの", ["本当", "ほんとう"], "の", ["意味", "いみ"], "は、", ["単に", "たんに"], ["伝達", "でんたつ"], "の", ["手段", "しゅだん"], "を", ["増やす", "ふやす"], "ことではなく、", ["世界", "せかい"], "を", ["見る", "みる"], "もう", ["一つ", "ひとつ"], "の", ["目", "め"], "を", ["手", "て"], "に", ["入れる", "いれる"], "ことにあるのだろう。"
+      ],
+      "en": "Is language merely a tool for conveying thought? Or is it rather language itself that shapes the very form of our thinking? This question has troubled philosophers and linguists since antiquity.\nJapanese, for example, has an astonishing number of words for rain: samidare, shigure, yudachi. Those who possess the vocabulary to distinguish them may experience rain with greater subtlety. When words differ, so does the way the world is carved up. A concept that exists only in one language, one might say, illuminates a facet of reality visible only to that language's speakers.\nThat said, it goes too far to think that language completely governs thought. We sometimes harbor emotions that have no name yet, and are guided by intuitions that resist being put into words. That the enterprise of translation succeeds, however imperfectly, is proof that human beings are endowed with something shareable across the walls of language.\nLanguage is at once a cage that confines thought and the wings that make thought possible. The true meaning of learning a foreign language lies, perhaps, not simply in adding a means of communication, but in acquiring another pair of eyes with which to see the world.",
+      "questions": [
+        {
+          "q": "筆者が日本語の雨の語彙を例に挙げたのは何を示すためか。",
+          "choices": [
+            "日本の気候の特殊性",
+            "日本語の学習の難しさ",
+            "言葉の違いが世界の切り取り方の違いにつながること",
+            "翻訳が不可能であること"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "筆者は「言語が思考を完全に支配する」という考えをどう評価しているか。",
+          "choices": [
+            "行き過ぎだと考えている",
+            "全面的に支持している",
+            "科学的に証明されたとしている",
+            "検討に値しないとしている"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "筆者によると、外国語を学ぶことの本当の意味は何か。",
+          "choices": [
+            "仕事の選択肢を広げること",
+            "世界を見るもう一つの目を手に入れること",
+            "母語の能力を高めること",
+            "正確な翻訳ができるようになること"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

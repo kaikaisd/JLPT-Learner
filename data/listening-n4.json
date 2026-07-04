@@ -1,0 +1,120 @@
+{
+  "level": "N4",
+  "exercises": [
+    {
+      "id": "n4-l1",
+      "title": "会議についての留守番電話",
+      "script": "もしもし、田中です。明日の会議のことでお電話しました。会議の時間が午後二時から三時に変わりました。場所は同じで、五階の会議室です。資料は私が全部用意しておきますから、何も持って来なくてもいいです。質問がある人は、今日の五時までに私に電話をください。よろしくお願いします。",
+      "en": "Hello, this is Tanaka. I am calling about tomorrow's meeting. The meeting time has changed from 2 p.m. to 3 p.m. The place is the same, the meeting room on the fifth floor. I will prepare all the materials in advance, so you do not need to bring anything. If you have questions, please call me by 5 o'clock today. Thank you very much.",
+      "questions": [
+        {
+          "q": "What time will the meeting start now?",
+          "choices": ["2 p.m.", "3 p.m.", "5 p.m.", "It was canceled"],
+          "answer": 1
+        },
+        {
+          "q": "What should listeners bring to the meeting?",
+          "choices": ["Their own materials", "A computer", "Nothing", "Lunch"],
+          "answer": 2
+        },
+        {
+          "q": "What should people who have questions do?",
+          "choices": ["Send an email tomorrow", "Call Tanaka by 5 o'clock today", "Go to the fifth floor now", "Wait until the meeting"],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n4-l2",
+      "title": "学校のお知らせ",
+      "script": "学生の皆さんにお知らせします。明日の午後、地震の避難訓練を行います。午後の授業は十二時半に終わります。皆さんは一時までに体育館の前に集まってください。かばんは教室に置いて、何も持たないで来てください。訓練は一時間ぐらいで終わる予定です。終わったら、教室に戻って、先生の話を聞いてください。",
+      "en": "Attention, all students. Tomorrow afternoon we will hold an earthquake evacuation drill. Afternoon classes will end at 12:30. Please gather in front of the gymnasium by 1 o'clock. Leave your bags in the classroom and come without bringing anything. The drill is expected to finish in about one hour. When it is over, please return to your classroom and listen to your teacher.",
+      "questions": [
+        {
+          "q": "What kind of drill will be held tomorrow?",
+          "choices": ["An earthquake evacuation drill", "A fire drill", "A swimming test", "A sports day practice"],
+          "answer": 0
+        },
+        {
+          "q": "Where should the students gather?",
+          "choices": ["In the classroom", "At the school gate", "In front of the gymnasium", "In the schoolyard"],
+          "answer": 2
+        },
+        {
+          "q": "What should students bring to the drill?",
+          "choices": ["Their bags", "A notebook", "Water", "Nothing"],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n4-l3",
+      "title": "バスガイドの案内",
+      "script": "皆さん、おはようございます。ガイドの佐藤です。今日はこれからバスで富士山へ向かいます。着くまで二時間ぐらいかかります。途中で一度、休憩のためにサービスエリアに止まります。山の上はとても寒いですから、バスを降りる時は上着を忘れないでください。昼ご飯は十二時に、湖の近くのレストランで食べる予定です。それでは、出発します。",
+      "en": "Good morning, everyone. I am Sato, your guide. Today we will now head to Mt. Fuji by bus. It will take about two hours to get there. On the way, we will stop once at a service area for a break. It is very cold at the top of the mountain, so please do not forget your jacket when you get off the bus. We plan to have lunch at 12 o'clock at a restaurant near the lake. Well then, let's depart.",
+      "questions": [
+        {
+          "q": "About how long will it take to get to Mt. Fuji?",
+          "choices": ["About one hour", "About two hours", "About three hours", "About thirty minutes"],
+          "answer": 1
+        },
+        {
+          "q": "Why should passengers remember their jackets?",
+          "choices": ["Because it may rain", "Because the bus is cold", "Because it is very cold on the mountain", "Because they will walk for a long time"],
+          "answer": 2
+        },
+        {
+          "q": "Where will the group have lunch?",
+          "choices": ["On the bus", "At the service area", "At the top of the mountain", "At a restaurant near the lake"],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n4-l4",
+      "title": "天気予報",
+      "script": "天気予報をお伝えします。今日の東京は、朝から昼まではよく晴れるでしょう。しかし、夕方から雲が多くなって、夜は雨が降るでしょう。昼間の気温は二十八度まで上がります。夜、出かける人は、傘を持って行ったほうがいいでしょう。明日は一日中雨で、気温は今日より五度ぐらい低くなるでしょう。",
+      "en": "Here is the weather forecast. In Tokyo today, it will be sunny from morning until noon. However, from the evening it will become cloudy, and at night it will rain. The daytime temperature will rise to 28 degrees. People going out at night should take an umbrella. Tomorrow it will rain all day, and the temperature will be about 5 degrees lower than today.",
+      "questions": [
+        {
+          "q": "What will the weather in Tokyo be like tonight?",
+          "choices": ["Sunny", "Cloudy but dry", "Rainy", "Snowy"],
+          "answer": 2
+        },
+        {
+          "q": "How high will the temperature rise today?",
+          "choices": ["To 28 degrees", "To 25 degrees", "To 23 degrees", "To 30 degrees"],
+          "answer": 0
+        },
+        {
+          "q": "How will tomorrow's weather compare with today's?",
+          "choices": ["It will be warmer and sunny", "It will rain all day and be about 5 degrees colder", "It will be exactly the same", "It will be windy but dry"],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n4-l5",
+      "title": "デパートのアナウンス",
+      "script": "ご来店のお客様にお知らせします。本日午後二時から、三階のおもちゃ売り場で、子どものためのゲーム大会を行います。参加は無料です。参加したいお子様は、一時五十分までに三階へお越しください。勝った人には、すてきなプレゼントがあります。また、本日、五階のレストランは夜九時まで営業しています。ごゆっくりお買い物をお楽しみください。",
+      "en": "Attention, customers. Today from 2 p.m., we will hold a game tournament for children at the toy section on the third floor. Participation is free. Children who want to join, please come to the third floor by 1:50. Winners will receive a nice present. Also, today the restaurant on the fifth floor is open until 9 p.m. Please enjoy your shopping at your leisure.",
+      "questions": [
+        {
+          "q": "Where will the game tournament be held?",
+          "choices": ["On the first floor", "On the second floor", "At the toy section on the third floor", "At the restaurant on the fifth floor"],
+          "answer": 2
+        },
+        {
+          "q": "How much does it cost to join the tournament?",
+          "choices": ["It is free", "100 yen", "500 yen", "1,000 yen"],
+          "answer": 0
+        },
+        {
+          "q": "Until what time is the fifth-floor restaurant open today?",
+          "choices": ["8 p.m.", "9 p.m.", "10 p.m.", "2 p.m."],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

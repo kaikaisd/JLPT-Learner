@@ -1,0 +1,1045 @@
+{
+  "level": "N1",
+  "points": [
+    {
+      "id": "n1-g01",
+      "title": "〜んばかりに",
+      "structure": "動詞ない形（ない→ん）＋ばかりに／ばかりだ／ばかりの　※する→せんばかり",
+      "explanation": "Describes a state so extreme that it looks as if the action is just about to happen, similar to 'as if about to'. It is literary and often paired with visible gestures or expressions. Note the irregular form する→せんばかり.",
+      "examples": [
+        {
+          "jp": "彼女は今にも泣き出さんばかりの顔で私を見た。",
+          "reading": "かのじょ は いまにも なきださん ばかり の かお で わたし を みた。",
+          "en": "She looked at me as if she were about to burst into tears."
+        },
+        {
+          "jp": "店員は帰れと言わんばかりの態度だった。",
+          "reading": "てんいん は かえれ と いわん ばかり の たいど だった。",
+          "en": "The clerk's attitude all but said, 'Go home.'"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "観客は会場が割れ（　　）の大きな拍手を送った。",
+          "choices": ["んばかり", "たばかり", "るばかり", "んがため"],
+          "answer": 0,
+          "en": "The audience gave applause so thunderous it seemed the hall would split."
+        }
+      ]
+    },
+    {
+      "id": "n1-g02",
+      "title": "〜んがために",
+      "structure": "動詞ない形（ない→ん）＋がため（に）　※する→せんがため",
+      "explanation": "A literary way to express a strong, deliberate purpose: 'in order to'. The main clause describes an action taken specifically to achieve that goal. する irregularly becomes せんがため.",
+      "examples": [
+        {
+          "jp": "彼は家族を養わんがために、昼も夜も働いた。",
+          "reading": "かれ は かぞく を やしなわん が ため に、ひる も よる も はたらいた。",
+          "en": "He worked day and night in order to support his family."
+        },
+        {
+          "jp": "真実を明らかにせんがため、彼女は単身で調査を続けた。",
+          "reading": "しんじつ を あきらか に せん が ため、かのじょ は たんしん で ちょうさ を つづけた。",
+          "en": "In order to bring the truth to light, she continued the investigation alone."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "優勝せ（　　）、選手たちは過酷な練習に耐えた。",
+          "choices": ["んばかりに", "んとしては", "んがために", "るがために"],
+          "answer": 2,
+          "en": "The athletes endured brutal training in order to win the championship."
+        }
+      ]
+    },
+    {
+      "id": "n1-g03",
+      "title": "〜べく",
+      "structure": "動詞辞書形＋べく　※する→すべく／するべく",
+      "explanation": "A formal written expression of purpose meaning 'in order to'. The clause before べく states the goal, and the main clause states what was done toward it. It sounds stiff and appears mainly in news reports and formal documents.",
+      "examples": [
+        {
+          "jp": "新製品を開発すべく、研究チームが結成された。",
+          "reading": "しんせいひん を かいはつ すべく、けんきゅう チーム が けっせい された。",
+          "en": "A research team was formed in order to develop a new product."
+        },
+        {
+          "jp": "期待に応えるべく、彼は日々努力を重ねている。",
+          "reading": "きたい に こたえる べく、かれ は ひび どりょく を かさねて いる。",
+          "en": "He keeps making daily efforts so as to live up to expectations."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "事故の原因を究明す（　　）、調査委員会が設置された。",
+          "choices": ["まじく", "べく", "べからず", "るゆえ"],
+          "answer": 1,
+          "en": "An investigative committee was set up in order to determine the cause of the accident."
+        }
+      ]
+    },
+    {
+      "id": "n1-g04",
+      "title": "〜べからず",
+      "structure": "動詞辞書形＋べからず　※する→すべからず",
+      "explanation": "An archaic prohibition meaning 'must not' or 'do not'. It is used mainly on signs and notices, or in set proverbs, and sounds very stern. The attributive form べからざる modifies nouns.",
+      "examples": [
+        {
+          "jp": "ここにゴミを捨てるべからず。",
+          "reading": "ここ に ゴミ を すてる べからず。",
+          "en": "Do not throw garbage away here."
+        },
+        {
+          "jp": "初心忘るべからず。",
+          "reading": "しょしん わする べからず。",
+          "en": "Never forget your original resolve."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "芝生に立ち入る（　　）。",
+          "choices": ["べく", "まじき", "ざるをえない", "べからず"],
+          "answer": 3,
+          "en": "Keep off the grass."
+        }
+      ]
+    },
+    {
+      "id": "n1-g05",
+      "title": "〜まじき",
+      "structure": "動詞辞書形＋まじき＋名詞（多く「〜としてあるまじき」の形）",
+      "explanation": "Means 'unbefitting' or 'unworthy of' a certain role or position, and expresses strong moral condemnation. It most often appears in the set phrase あるまじき行為／発言 preceded by として or に. It is literary and formal.",
+      "examples": [
+        {
+          "jp": "それは医者としてあるまじき発言だ。",
+          "reading": "それ は いしゃ として ある まじき はつげん だ。",
+          "en": "That is a remark unbefitting a doctor."
+        },
+        {
+          "jp": "公務員にあるまじき行為で彼は処分された。",
+          "reading": "こうむいん に ある まじき こうい で かれ は しょぶん された。",
+          "en": "He was disciplined for conduct unbecoming of a civil servant."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "患者を見捨てるとは、医師としてある（　　）行為だ。",
+          "choices": ["まじき", "べからず", "まみれの", "ずくめの"],
+          "answer": 0,
+          "en": "Abandoning a patient is conduct unbefitting a physician."
+        }
+      ]
+    },
+    {
+      "id": "n1-g06",
+      "title": "〜ゆえに",
+      "structure": "名詞（の）／な形容詞な／普通形＋（が）ゆえ（に）／ゆえの＋名詞",
+      "explanation": "A formal, literary way to state a reason, equivalent to 'because of' or 'owing to'. It often appears in academic writing and formal speech. The form ゆえの modifies a following noun.",
+      "examples": [
+        {
+          "jp": "貧しさゆえに、彼は進学を諦めざるを得なかった。",
+          "reading": "まずしさ ゆえに、かれ は しんがく を あきらめ ざる を えなかった。",
+          "en": "Because of poverty, he had no choice but to give up going on to higher education."
+        },
+        {
+          "jp": "若さゆえの過ちだったと、今では思う。",
+          "reading": "わかさ ゆえ の あやまち だった と、いま では おもう。",
+          "en": "Looking back now, I think it was a mistake born of youth."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "有名である（　　）、彼女は自由に外出することもできない。",
+          "choices": ["ながらも", "ゆえに", "なりに", "がてら"],
+          "answer": 1,
+          "en": "Precisely because she is famous, she cannot even go out freely."
+        }
+      ]
+    },
+    {
+      "id": "n1-g07",
+      "title": "〜ながらも",
+      "structure": "動詞ます形／い形容詞／な形容詞語幹／名詞＋ながらも",
+      "explanation": "Expresses concession: 'although' or 'despite'. The situation in the main clause holds true contrary to what the first clause would lead one to expect. Adding も makes the contrast stronger than plain ながら.",
+      "examples": [
+        {
+          "jp": "狭いながらも、ようやく自分の家を持つことができた。",
+          "reading": "せまい ながらも、ようやく じぶん の いえ を もつ こと が できた。",
+          "en": "Small though it is, I was finally able to own my own house."
+        },
+        {
+          "jp": "彼は真実を知りながらも、何も言わなかった。",
+          "reading": "かれ は しんじつ を しり ながらも、なにも いわなかった。",
+          "en": "Even though he knew the truth, he said nothing."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "彼は不満を抱き（　　）、上司の指示に従った。",
+          "choices": ["がてら", "そばから", "んばかりに", "ながらも"],
+          "answer": 3,
+          "en": "Though harboring dissatisfaction, he followed his boss's instructions."
+        }
+      ]
+    },
+    {
+      "id": "n1-g08",
+      "title": "〜なりに／なりの",
+      "structure": "名詞／普通形＋なり（に）／なりの＋名詞",
+      "explanation": "Means 'in one's own way' or 'at one's own level', acknowledging limitations while still giving credit to the effort or result. なりの modifies a following noun. It often carries a modest, sympathetic tone.",
+      "examples": [
+        {
+          "jp": "子供には子供なりの考えがある。",
+          "reading": "こども には こども なり の かんがえ が ある。",
+          "en": "Children have their own way of thinking, in their own childlike terms."
+        },
+        {
+          "jp": "私なりに精一杯努力したつもりです。",
+          "reading": "わたし なり に せいいっぱい どりょく した つもり です。",
+          "en": "I believe I did my utmost, in my own way."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "新人（　　）に、彼はチームに貢献しようとしている。",
+          "choices": ["ゆえ", "まみれ", "なり", "ずくめ"],
+          "answer": 2,
+          "en": "In his own way as a newcomer, he is trying to contribute to the team."
+        }
+      ]
+    },
+    {
+      "id": "n1-g09",
+      "title": "〜っぱなし",
+      "structure": "動詞ます形＋っぱなし（で／に／だ）",
+      "explanation": "Indicates that something is left in a certain state through negligence, or that a state continues without interruption. When used for negligence it carries a critical nuance, as in leaving the lights on. It is colloquial.",
+      "examples": [
+        {
+          "jp": "電気をつけっぱなしにして寝てしまった。",
+          "reading": "でんき を つけっぱなし に して ねて しまった。",
+          "en": "I fell asleep having left the lights on."
+        },
+        {
+          "jp": "新幹線は満席で、東京から大阪まで立ちっぱなしだった。",
+          "reading": "しんかんせん は まんせき で、とうきょう から おおさか まで たちっぱなし だった。",
+          "en": "The bullet train was full, so I was on my feet the whole way from Tokyo to Osaka."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "窓を開け（　　）にしていたら、虫が入ってきた。",
+          "choices": ["っぱなし", "ながら", "つつ", "がてら"],
+          "answer": 0,
+          "en": "I had left the window open, and insects got in."
+        }
+      ]
+    },
+    {
+      "id": "n1-g10",
+      "title": "〜きらいがある",
+      "structure": "動詞辞書形／ない形／名詞の＋きらいがある",
+      "explanation": "Points out an undesirable tendency or inclination, usually of people or society, meaning 'to have a tendency to'. It is a formal, written expression and always implies criticism. It is not used for positive tendencies.",
+      "examples": [
+        {
+          "jp": "彼は物事を悲観的に考えるきらいがある。",
+          "reading": "かれ は ものごと を ひかんてき に かんがえる きらい が ある。",
+          "en": "He has a tendency to look at things pessimistically."
+        },
+        {
+          "jp": "最近の報道は、事実より感情を重視するきらいがある。",
+          "reading": "さいきん の ほうどう は、じじつ より かんじょう を じゅうし する きらい が ある。",
+          "en": "Recent news coverage tends to prioritize emotion over fact."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "彼女は何でも一人で抱え込む（　　）がある。",
+          "choices": ["おそれ", "ぎみ", "むき", "きらい"],
+          "answer": 3,
+          "en": "She has a tendency to shoulder everything by herself."
+        }
+      ]
+    },
+    {
+      "id": "n1-g11",
+      "title": "〜極まりない",
+      "structure": "な形容詞語幹＋極まりない／極まる",
+      "explanation": "An emphatic expression meaning 'extremely' or 'utterly', attached to na-adjectives such as 失礼 or 危険. It usually conveys the speaker's strong negative judgment. 極まる is a slightly more literary variant with the same meaning.",
+      "examples": [
+        {
+          "jp": "彼の運転は危険極まりない。",
+          "reading": "かれ の うんてん は きけん きわまりない。",
+          "en": "His driving is dangerous in the extreme."
+        },
+        {
+          "jp": "客を待たせておいて謝罪もないとは、失礼極まりない。",
+          "reading": "きゃく を またせて おいて しゃざい も ない とは、しつれい きわまりない。",
+          "en": "Keeping customers waiting without even an apology is the height of rudeness."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "深夜の騒音は近所迷惑（　　）。",
+          "choices": ["に足る", "極まりない", "を禁じ得ない", "にたえる"],
+          "answer": 1,
+          "en": "Late-night noise is an utter nuisance to the neighborhood."
+        }
+      ]
+    },
+    {
+      "id": "n1-g12",
+      "title": "〜に至るまで",
+      "structure": "名詞＋に至るまで　（「AからBに至るまで」の形が多い）",
+      "explanation": "Emphasizes that a range extends even to an extreme or surprising endpoint: 'even down to'. It is often paired with から to mark the starting point of the range. The verb 至る itself means 'to reach'.",
+      "examples": [
+        {
+          "jp": "彼女は服装から髪型に至るまで、完璧にこだわる。",
+          "reading": "かのじょ は ふくそう から かみがた に いたる まで、かんぺき に こだわる。",
+          "en": "She insists on perfection in everything, from her clothes right down to her hairstyle."
+        },
+        {
+          "jp": "その事件は、細部に至るまで詳しく報道された。",
+          "reading": "その じけん は、さいぶ に いたる まで くわしく ほうどう された。",
+          "en": "The incident was reported in detail, down to the smallest particulars."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "空港では、持ち物は下着（　　）まですべて検査された。",
+          "choices": ["をもって", "にひきかえ", "に至る", "をよそに"],
+          "answer": 2,
+          "en": "At the airport, my belongings were inspected, right down to my underwear."
+        }
+      ]
+    },
+    {
+      "id": "n1-g13",
+      "title": "〜にひきかえ",
+      "structure": "名詞／普通形＋の＋にひきかえ",
+      "explanation": "Draws a sharp, often subjective contrast between two things: 'in stark contrast to'. Unlike the neutral に対して, it usually implies that one side is better and the other worse. It is common in both speech and writing.",
+      "examples": [
+        {
+          "jp": "兄が社交的なのにひきかえ、弟は内気だ。",
+          "reading": "あに が しゃこうてき な の に ひきかえ、おとうと は うちき だ。",
+          "en": "In contrast to the sociable older brother, the younger one is shy."
+        },
+        {
+          "jp": "去年の猛暑にひきかえ、今年の夏は涼しい。",
+          "reading": "きょねん の もうしょ に ひきかえ、ことし の なつ は すずしい。",
+          "en": "In contrast to last year's brutal heat, this summer is cool."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "几帳面な妹（　　）、姉は片付けが大の苦手だ。",
+          "choices": ["にもまして", "に至るまで", "をもって", "にひきかえ"],
+          "answer": 3,
+          "en": "In stark contrast to the meticulous younger sister, the older sister is hopeless at tidying up."
+        }
+      ]
+    },
+    {
+      "id": "n1-g14",
+      "title": "〜にもまして",
+      "structure": "名詞（疑問詞を含む）＋にもまして",
+      "explanation": "Means 'even more than', indicating that the current degree surpasses a previous or comparable case. With question words such as 何 or 誰, it means 'more than anything/anyone'. It has a formal flavor.",
+      "examples": [
+        {
+          "jp": "今年は例年にもまして、桜の開花が早い。",
+          "reading": "ことし は れいねん にも まして、さくら の かいか が はやい。",
+          "en": "This year the cherry blossoms are opening even earlier than in a typical year."
+        },
+        {
+          "jp": "何にもまして大切なのは、健康である。",
+          "reading": "なに にも まして たいせつ な の は、けんこう である。",
+          "en": "What matters more than anything else is health."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "昇進してから、彼は以前（　　）仕事に打ち込むようになった。",
+          "choices": ["にもまして", "にひきかえ", "はおろか", "をよそに"],
+          "answer": 0,
+          "en": "Since his promotion, he has thrown himself into his work even more than before."
+        }
+      ]
+    },
+    {
+      "id": "n1-g15",
+      "title": "〜をもって",
+      "structure": "名詞＋をもって（して）",
+      "explanation": "A formal particle phrase meaning 'by means of' or 'with', used with means, qualifications, or abstract instruments. It also marks a formal endpoint in announcements, as in 本日をもって 'as of today'. It is characteristic of official language.",
+      "examples": [
+        {
+          "jp": "本日をもって、当店は閉店いたします。",
+          "reading": "ほんじつ を もって、とうてん は へいてん いたします。",
+          "en": "As of today, this store is closing for good."
+        },
+        {
+          "jp": "結果をもって、実力を証明するしかない。",
+          "reading": "けっか を もって、じつりょく を しょうめい する しか ない。",
+          "en": "The only way to prove one's ability is with results."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "選考の結果は、書面（　　）お知らせいたします。",
+          "choices": ["をよそに", "にひきかえ", "をもって", "にもまして"],
+          "answer": 2,
+          "en": "We will notify you of the selection results in writing."
+        }
+      ]
+    },
+    {
+      "id": "n1-g16",
+      "title": "〜をよそに",
+      "structure": "名詞＋をよそに",
+      "explanation": "Means 'ignoring' or 'indifferent to', describing someone who acts without regard for others' concerns, opposition, or expectations. The subject is usually a third party, and the tone is often critical.",
+      "examples": [
+        {
+          "jp": "親の心配をよそに、彼は留学を決めてしまった。",
+          "reading": "おや の しんぱい を よそ に、かれ は りゅうがく を きめて しまった。",
+          "en": "Paying no heed to his parents' worries, he went ahead and decided to study abroad."
+        },
+        {
+          "jp": "住民の反対をよそに、工事は着々と進められた。",
+          "reading": "じゅうみん の はんたい を よそ に、こうじ は ちゃくちゃく と すすめられた。",
+          "en": "Ignoring the residents' opposition, the construction proceeded steadily."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "周囲の批判（　　）、社長は計画を強行した。",
+          "choices": ["をもって", "をよそに", "を禁じ得ず", "を余儀なくされ"],
+          "answer": 1,
+          "en": "Ignoring the criticism around him, the president pushed the plan through."
+        }
+      ]
+    },
+    {
+      "id": "n1-g17",
+      "title": "〜を禁じ得ない",
+      "structure": "名詞（感情を表す語）＋を禁じ得ない",
+      "explanation": "A formal written expression meaning 'cannot suppress (an emotion)', used with nouns like 怒り, 涙, 驚き, or 同情. It conveys that a feeling wells up spontaneously and cannot be held back. The subject is the speaker or writer.",
+      "examples": [
+        {
+          "jp": "被災地の惨状に、涙を禁じ得なかった。",
+          "reading": "ひさいち の さんじょう に、なみだ を きんじえなかった。",
+          "en": "I could not hold back my tears at the devastation in the disaster area."
+        },
+        {
+          "jp": "彼の無責任な発言には、怒りを禁じ得ない。",
+          "reading": "かれ の むせきにん な はつげん には、いかり を きんじえない。",
+          "en": "I cannot suppress my anger at his irresponsible remarks."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "恩師の突然の訃報に接し、驚き（　　）。",
+          "choices": ["を禁じ得ない", "を余儀なくされる", "にたえる", "に足る"],
+          "answer": 0,
+          "en": "On receiving the sudden news of my mentor's death, I cannot contain my shock."
+        }
+      ]
+    },
+    {
+      "id": "n1-g18",
+      "title": "〜を余儀なくされる",
+      "structure": "名詞＋を余儀なくされる／を余儀なくさせる",
+      "explanation": "Means 'to be forced to do something' by circumstances beyond one's control, such as disasters or financial trouble. The passive される takes the affected person as subject, while させる takes the cause as subject. It is formal and common in news writing.",
+      "examples": [
+        {
+          "jp": "台風のため、登山隊は下山を余儀なくされた。",
+          "reading": "たいふう の ため、とざんたい は げざん を よぎなく された。",
+          "en": "Because of the typhoon, the climbing party was forced to descend the mountain."
+        },
+        {
+          "jp": "業績悪化により、会社は工場の閉鎖を余儀なくされた。",
+          "reading": "ぎょうせき あっか に より、かいしゃ は こうじょう の へいさ を よぎなく された。",
+          "en": "Due to worsening business performance, the company was forced to close the factory."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "資金不足で、プロジェクトは中止（　　）。",
+          "choices": ["を禁じ得なかった", "にたえなかった", "めいていた", "を余儀なくされた"],
+          "answer": 3,
+          "en": "Owing to a lack of funds, the project was unavoidably cancelled."
+        }
+      ]
+    },
+    {
+      "id": "n1-g19",
+      "title": "〜ともなると／ともなれば",
+      "structure": "名詞＋ともなると／ともなれば",
+      "explanation": "Means 'when it comes to (a certain status, position, or occasion)', implying that at that level, things are naturally different. What follows is a consequence the speaker considers natural or expected. It cannot be used for trivial matters.",
+      "examples": [
+        {
+          "jp": "大学生ともなると、自分の行動に責任を持たなければならない。",
+          "reading": "だいがくせい とも なると、じぶん の こうどう に せきにん を もたなければ ならない。",
+          "en": "Once you are a university student, you have to take responsibility for your own actions."
+        },
+        {
+          "jp": "連休ともなれば、この辺りは観光客であふれる。",
+          "reading": "れんきゅう とも なれば、この あたり は かんこうきゃく で あふれる。",
+          "en": "Come a long holiday weekend, this area overflows with tourists."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "一流ホテルの支配人（　　）、高い語学力は当然求められる。",
+          "choices": ["ときたら", "にひきかえ", "ともなると", "なりに"],
+          "answer": 2,
+          "en": "For the manager of a first-class hotel, strong language skills are naturally expected."
+        }
+      ]
+    },
+    {
+      "id": "n1-g20",
+      "title": "〜たりとも",
+      "structure": "数量詞（一＋助数詞）＋たりとも〜ない",
+      "explanation": "Used with minimal quantities such as 一日 or 一円 to mean 'not even one', creating an emphatic total negation. It always appears with a negative predicate. The tone is formal and resolute.",
+      "examples": [
+        {
+          "jp": "試合終了まで、一瞬たりとも気を抜けない。",
+          "reading": "しあい しゅうりょう まで、いっしゅん たりとも き を ぬけない。",
+          "en": "Until the match is over, we cannot let our guard down for even an instant."
+        },
+        {
+          "jp": "お客様からいただいたお金は、一円たりとも無駄にできない。",
+          "reading": "おきゃくさま から いただいた おかね は、いちえん たりとも むだ に できない。",
+          "en": "We cannot waste even a single yen of the money our customers have given us."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "締め切りまで、一日（　　）猶予はない。",
+          "choices": ["だに", "たりとも", "すら", "なりとも"],
+          "answer": 1,
+          "en": "There is not even a single day's grace before the deadline."
+        }
+      ]
+    },
+    {
+      "id": "n1-g21",
+      "title": "〜だに",
+      "structure": "動詞辞書形／名詞＋だに",
+      "explanation": "A literary particle meaning 'even just', as in 想像するだに恐ろしい 'terrifying even to imagine'. With a negative, as in 微動だにしない, it means 'not even (budge)'. It attaches to a limited set of verbs and nouns such as 想像する, 考える, 夢, and 微動.",
+      "examples": [
+        {
+          "jp": "そんな大事故が起きるとは、想像するだに恐ろしい。",
+          "reading": "そんな だいじこ が おきる とは、そうぞう する だに おそろしい。",
+          "en": "It is terrifying even to imagine such a major accident happening."
+        },
+        {
+          "jp": "彼は名前を呼ばれても、微動だにしなかった。",
+          "reading": "かれ は なまえ を よばれて も、びどう だに しなかった。",
+          "en": "Even when his name was called, he did not budge an inch."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "あの日の光景は、思い出す（　　）身の毛がよだつ。",
+          "choices": ["すら", "たりとも", "なり", "だに"],
+          "answer": 3,
+          "en": "The scene from that day makes my hair stand on end just to recall."
+        }
+      ]
+    },
+    {
+      "id": "n1-g22",
+      "title": "〜すら",
+      "structure": "名詞（＋助詞）＋すら　（「〜ですら」の形も多い）",
+      "explanation": "Means 'even', presenting an extreme example to imply that everything else goes without saying. It is more literary than さえ and very often appears with a negative predicate. ですら is common with human subjects.",
+      "examples": [
+        {
+          "jp": "忙しくて、食事をする時間すらなかった。",
+          "reading": "いそがしくて、しょくじ を する じかん すら なかった。",
+          "en": "I was so busy that I did not even have time to eat."
+        },
+        {
+          "jp": "その問題は専門家ですら解決できなかった。",
+          "reading": "その もんだい は せんもんか で すら かいけつ できなかった。",
+          "en": "Even experts were unable to solve that problem."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "高熱で、水（　　）飲めない状態だった。",
+          "choices": ["すら", "だに", "たりとも", "ならでは"],
+          "answer": 0,
+          "en": "With the high fever, I was in a state where I could not even drink water."
+        }
+      ]
+    },
+    {
+      "id": "n1-g23",
+      "title": "〜こととて",
+      "structure": "名詞の／な形容詞な／動詞普通形（ぬ）＋こととて",
+      "explanation": "A very formal, somewhat old-fashioned way of giving a reason, often used when apologizing or asking for understanding. It frequently appears with 慣れぬ or 急な, as in 慣れぬこととて 'as I am unaccustomed to it'. The following clause often contains an apology or request for forgiveness.",
+      "examples": [
+        {
+          "jp": "慣れぬこととて、ご迷惑をおかけしました。",
+          "reading": "なれぬ こと とて、ごめいわく を おかけ しました。",
+          "en": "As I was unaccustomed to the task, I caused you trouble."
+        },
+        {
+          "jp": "休日のこととて、街は静まり返っていた。",
+          "reading": "きゅうじつ の こと とて、まち は しずまりかえって いた。",
+          "en": "It being a holiday, the town was utterly quiet."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "何分急な（　　）、十分な準備ができませんでした。",
+          "choices": ["ゆえで", "こととて", "とあって", "ときたら"],
+          "answer": 1,
+          "en": "As it was all so sudden, we were unable to prepare adequately."
+        }
+      ]
+    },
+    {
+      "id": "n1-g24",
+      "title": "〜とあって",
+      "structure": "名詞／普通形＋とあって",
+      "explanation": "States a special circumstance as the reason for an observed, often remarkable result: 'because (of the special situation)'. It is typical of news reporting and describes situations the speaker observes objectively. It is not used for the speaker's own personal matters.",
+      "examples": [
+        {
+          "jp": "連休初日とあって、高速道路は大渋滞だった。",
+          "reading": "れんきゅう しょにち と あって、こうそくどうろ は だいじゅうたい だった。",
+          "en": "It being the first day of the holiday period, the expressways were heavily congested."
+        },
+        {
+          "jp": "人気歌手が来るとあって、会場には朝から長蛇の列ができた。",
+          "reading": "にんき かしゅ が くる と あって、かいじょう には あさ から ちょうだ の れつ が できた。",
+          "en": "With a popular singer coming, a long line formed at the venue from the morning."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "無料で試食できる（　　）、売り場は大変な人だかりだった。",
+          "choices": ["とあれば", "こととて", "とあって", "ゆえに"],
+          "answer": 2,
+          "en": "Since free samples were available, the sales floor was tremendously crowded."
+        }
+      ]
+    },
+    {
+      "id": "n1-g25",
+      "title": "〜とあれば",
+      "structure": "名詞／普通形＋とあれば",
+      "explanation": "Means 'if it is the case that' or 'if it is for', presenting a special condition under which the subject is willing to do something, even something difficult. It often appears with ためとあれば. The main clause frequently expresses willingness or inevitability.",
+      "examples": [
+        {
+          "jp": "子供のためとあれば、親はどんな苦労もいとわない。",
+          "reading": "こども の ため と あれば、おや は どんな くろう も いとわない。",
+          "en": "If it is for their children, parents will not shy away from any hardship."
+        },
+        {
+          "jp": "必要とあれば、すぐにでも現地へ飛びます。",
+          "reading": "ひつよう と あれば、すぐ に でも げんち へ とびます。",
+          "en": "If it proves necessary, I will fly to the site at once."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "恩師の頼み（　　）、断るわけにはいかない。",
+          "choices": ["とあれば", "とあって", "ともなると", "たりとも"],
+          "answer": 0,
+          "en": "If it is a request from my mentor, I can hardly refuse."
+        }
+      ]
+    },
+    {
+      "id": "n1-g26",
+      "title": "〜いかんによって／いかんにかかわらず",
+      "structure": "名詞（の）＋いかんによって（は）／いかんにかかわらず／いかんを問わず",
+      "explanation": "いかん means 'how something turns out', so いかんによって means 'depending on', while いかんにかかわらず and いかんを問わず mean 'regardless of'. These are highly formal and typical of regulations and official notices.",
+      "examples": [
+        {
+          "jp": "交渉の結果いかんによって、計画は変更されうる。",
+          "reading": "こうしょう の けっか いかん に よって、けいかく は へんこう されうる。",
+          "en": "Depending on the outcome of the negotiations, the plan may be changed."
+        },
+        {
+          "jp": "理由のいかんにかかわらず、暴力は許されない。",
+          "reading": "りゆう の いかん に かかわらず、ぼうりょく は ゆるされない。",
+          "en": "Regardless of the reason, violence is not to be tolerated."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "検査の結果（　　）によっては、手術が必要になることもある。",
+          "choices": ["よそ", "ずくめ", "かたわら", "いかん"],
+          "answer": 3,
+          "en": "Depending on the test results, surgery may become necessary."
+        }
+      ]
+    },
+    {
+      "id": "n1-g27",
+      "title": "〜かたがた",
+      "structure": "名詞（動作性名詞）＋かたがた",
+      "explanation": "A very formal expression meaning that one action also serves a second purpose, as in visiting someone 'to say thanks and also to...'. It attaches to nouns like お礼, ご挨拶, お詫び, and 報告, and is common in business letters and formal visits.",
+      "examples": [
+        {
+          "jp": "お礼かたがた、近況をご報告いたします。",
+          "reading": "おれい かたがた、きんきょう を ごほうこく いたします。",
+          "en": "Along with my thanks, I write to report my recent news."
+        },
+        {
+          "jp": "帰省かたがた、恩師のお宅を訪ねた。",
+          "reading": "きせい かたがた、おんし の おたく を たずねた。",
+          "en": "While home visiting my family, I also called on my former teacher."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "ご挨拶（　　）、新商品のご案内に伺いました。",
+          "choices": ["がてら", "かたわら", "かたがた", "ながらに"],
+          "answer": 2,
+          "en": "I have come to pay my respects and also to introduce our new product."
+        }
+      ]
+    },
+    {
+      "id": "n1-g28",
+      "title": "〜かたわら",
+      "structure": "動詞辞書形／名詞の＋かたわら",
+      "explanation": "Means 'while (doing one's main occupation), also...', describing a secondary, long-term activity carried on alongside a primary one. The first clause is the main job or role. It is a formal written expression.",
+      "examples": [
+        {
+          "jp": "彼は会社勤めのかたわら、小説を書いている。",
+          "reading": "かれ は かいしゃづとめ の かたわら、しょうせつ を かいて いる。",
+          "en": "While holding down a company job, he also writes novels."
+        },
+        {
+          "jp": "彼女は子育てをするかたわら、大学院で学んでいる。",
+          "reading": "かのじょ は こそだて を する かたわら、だいがくいん で まなんで いる。",
+          "en": "While raising her children, she is also studying at graduate school."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "農業の（　　）、彼は村の観光ガイドも務めている。",
+          "choices": ["かたがた", "かたわら", "がてら", "そばから"],
+          "answer": 1,
+          "en": "Alongside farming, he also serves as a tour guide for the village."
+        }
+      ]
+    },
+    {
+      "id": "n1-g29",
+      "title": "〜がてら",
+      "structure": "動詞ます形／動作性名詞＋がてら",
+      "explanation": "Means doing one action and taking the opportunity to do another at the same time, like 'while (out) doing A, also B'. It is lighter and more casual than かたがた and typically involves movement, such as a walk or an errand.",
+      "examples": [
+        {
+          "jp": "散歩がてら、郵便局に寄ってきた。",
+          "reading": "さんぽ がてら、ゆうびんきょく に よって きた。",
+          "en": "While out on a walk, I stopped by the post office."
+        },
+        {
+          "jp": "買い物に行きがてら、図書館で本を返してきた。",
+          "reading": "かいもの に いき がてら、としょかん で ほん を かえして きた。",
+          "en": "On my way out shopping, I also returned the books to the library."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "駅まで客を送り（　　）、夕飯の材料を買ってきた。",
+          "choices": ["かたわら", "そばから", "かたがた", "がてら"],
+          "answer": 3,
+          "en": "While seeing my guest off at the station, I also bought ingredients for dinner."
+        }
+      ]
+    },
+    {
+      "id": "n1-g30",
+      "title": "〜そばから",
+      "structure": "動詞辞書形／た形＋そばから",
+      "explanation": "Means 'no sooner does one do A than B happens', describing something undone or repeated immediately after each attempt. It implies an annoying, repeated cycle, such as forgetting things as soon as one learns them. It is not used for one-time events.",
+      "examples": [
+        {
+          "jp": "習ったそばから忘れてしまう。",
+          "reading": "ならった そばから わすれて しまう。",
+          "en": "I forget things the moment I learn them."
+        },
+        {
+          "jp": "片付けるそばから、子供が部屋を散らかす。",
+          "reading": "かたづける そばから、こども が へや を ちらかす。",
+          "en": "No sooner do I tidy up than the kids mess the room up again."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "注意した（　　）、彼はまた同じ間違いをした。",
+          "choices": ["そばから", "が早いか", "や否や", "なりに"],
+          "answer": 0,
+          "en": "No sooner had I warned him than he made the same mistake again."
+        }
+      ]
+    },
+    {
+      "id": "n1-g31",
+      "title": "〜が早いか",
+      "structure": "動詞辞書形（／た形）＋が早いか",
+      "explanation": "Means 'the instant that', with the second action following almost simultaneously. It describes actual, observed events, so the main clause is in the past tense and cannot express intention, commands, or negation. It conveys vivid immediacy.",
+      "examples": [
+        {
+          "jp": "ベルが鳴るが早いか、生徒たちは教室を飛び出した。",
+          "reading": "ベル が なる が はやい か、せいと たち は きょうしつ を とびだした。",
+          "en": "The instant the bell rang, the students dashed out of the classroom."
+        },
+        {
+          "jp": "彼は席に着くが早いか、弁当を広げ始めた。",
+          "reading": "かれ は せき に つく が はやい か、べんとう を ひろげはじめた。",
+          "en": "No sooner had he sat down than he started opening his boxed lunch."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "男は電車のドアが開く（　　）、ホームへ駆け出した。",
+          "choices": ["そばから", "が早いか", "なりに", "とあって"],
+          "answer": 1,
+          "en": "The moment the train doors opened, the man dashed out onto the platform."
+        }
+      ]
+    },
+    {
+      "id": "n1-g32",
+      "title": "〜や否や",
+      "structure": "動詞辞書形＋や否や／や",
+      "explanation": "A literary expression meaning 'as soon as', with the second event happening immediately after the first. Like が早いか, it reports actual past events and does not take volitional or imperative clauses. The short form や is even more literary.",
+      "examples": [
+        {
+          "jp": "横になるや否や、彼はいびきをかき始めた。",
+          "reading": "よこ に なる や いなや、かれ は いびき を かきはじめた。",
+          "en": "No sooner had he lain down than he began to snore."
+        },
+        {
+          "jp": "その商品は発売されるや否や、売り切れてしまった。",
+          "reading": "その しょうひん は はつばい される や いなや、うりきれて しまった。",
+          "en": "The product sold out as soon as it went on sale."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "彼女は知らせを聞く（　　）、病院へ駆けつけた。",
+          "choices": ["そばから", "ながらも", "や否や", "こととて"],
+          "answer": 2,
+          "en": "The moment she heard the news, she rushed to the hospital."
+        }
+      ]
+    },
+    {
+      "id": "n1-g33",
+      "title": "〜なくして（は）",
+      "structure": "名詞＋なくして（は）〜ない",
+      "explanation": "Means 'without', asserting that without the stated thing, the result would be impossible. The main clause is negative or expresses impossibility. It is formal and often used in speeches and written acknowledgements.",
+      "examples": [
+        {
+          "jp": "皆様のご協力なくしては、この成功はあり得ませんでした。",
+          "reading": "みなさま の ごきょうりょく なくして は、この せいこう は ありえません でした。",
+          "en": "Without everyone's cooperation, this success would not have been possible."
+        },
+        {
+          "jp": "涙なくしては語れない物語だ。",
+          "reading": "なみだ なくして は かたれない ものがたり だ。",
+          "en": "It is a story that cannot be told without tears."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "日々の努力（　　）、成功はあり得ない。",
+          "choices": ["ならでは", "をよそに", "なくして", "にたえず"],
+          "answer": 2,
+          "en": "Without daily effort, success is impossible."
+        }
+      ]
+    },
+    {
+      "id": "n1-g34",
+      "title": "〜ならでは",
+      "structure": "名詞＋ならでは（の＋名詞）",
+      "explanation": "Means 'unique to' or 'possible only for', highly praising a quality that only the stated person, place, or thing possesses. The pattern AならではのB is most common. It always carries a positive evaluation.",
+      "examples": [
+        {
+          "jp": "この味は老舗ならではのものだ。",
+          "reading": "この あじ は しにせ ならでは の もの だ。",
+          "en": "This flavor is something only a long-established shop could produce."
+        },
+        {
+          "jp": "京都ならではの落ち着いた雰囲気を楽しんだ。",
+          "reading": "きょうと ならでは の おちついた ふんいき を たのしんだ。",
+          "en": "We enjoyed the serene atmosphere that only Kyoto can offer."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "この作品には、手作り（　　）の温かみが感じられる。",
+          "choices": ["なくして", "ならでは", "に足る", "めいた"],
+          "answer": 1,
+          "en": "In this piece, you can feel a warmth that only handmade work possesses."
+        }
+      ]
+    },
+    {
+      "id": "n1-g35",
+      "title": "〜にたえる／にたえない",
+      "structure": "動詞辞書形／名詞＋にたえる／にたえない",
+      "explanation": "With verbs like 見る and 聞く, にたえない means something is so awful one cannot bear to see or hear it, while にたえる means it is worth seeing or can withstand scrutiny. With emotion nouns such as 感謝 and 遺憾, にたえない expresses that one feels the emotion keenly, as in 感謝の念にたえない.",
+      "examples": [
+        {
+          "jp": "その事故現場は、見るにたえない光景だった。",
+          "reading": "その じこ げんば は、みる に たえない こうけい だった。",
+          "en": "The accident site was a sight too terrible to look at."
+        },
+        {
+          "jp": "皆様のご支援をいただき、感謝の念にたえません。",
+          "reading": "みなさま の ごしえん を いただき、かんしゃ の ねん に たえません。",
+          "en": "Having received everyone's support, I am filled with the deepest gratitude."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "最近のネット上の中傷は、聞く（　　）ものが多い。",
+          "choices": ["にたえない", "に足りない", "を禁じ得ない", "を余儀なくされる"],
+          "answer": 0,
+          "en": "Much of the recent slander online is too vile to listen to."
+        }
+      ]
+    },
+    {
+      "id": "n1-g36",
+      "title": "〜に足る",
+      "structure": "動詞辞書形／動作性名詞＋に足る＋名詞",
+      "explanation": "A formal expression meaning 'worthy of' or 'sufficient to merit', as in 信頼するに足る人物 'a person worthy of trust'. It gives a positive assessment that something fully meets a standard. The negative に足りない／に足らない means 'not worth'.",
+      "examples": [
+        {
+          "jp": "彼は信頼するに足る人物だ。",
+          "reading": "かれ は しんらい する に たる じんぶつ だ。",
+          "en": "He is a person worthy of trust."
+        },
+        {
+          "jp": "それは議論するに足る重要な問題である。",
+          "reading": "それ は ぎろん する に たる じゅうよう な もんだい である。",
+          "en": "That is an important issue that merits discussion."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "この論文には、主張を裏付ける（　　）十分な証拠が示されている。",
+          "choices": ["にたえる", "極まる", "めく", "に足る"],
+          "answer": 3,
+          "en": "This paper presents evidence sufficient to support its claims."
+        }
+      ]
+    },
+    {
+      "id": "n1-g37",
+      "title": "〜ばこそ",
+      "structure": "動詞・形容詞の仮定形＋ばこそ（文末は「のだ」が多い）",
+      "explanation": "Emphasizes that something happens precisely because of the stated positive reason, and not for any other. The sentence often ends in のだ for emphasis. Unlike からこそ, it is formal and typically gives reasons the speaker views favorably.",
+      "examples": [
+        {
+          "jp": "体が丈夫であればこそ、厳しい仕事もこなせるのだ。",
+          "reading": "からだ が じょうぶ で あれば こそ、きびしい しごと も こなせる の だ。",
+          "en": "It is precisely because I am in sound health that I can handle demanding work."
+        },
+        {
+          "jp": "君のためを思えばこそ、あえて厳しいことを言うのだ。",
+          "reading": "きみ の ため を おもえば こそ、あえて きびしい こと を いう の だ。",
+          "en": "It is exactly because I care about you that I dare to say harsh things."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "愛情があれ（　　）、子供を叱るのです。",
+          "choices": ["ばそれまで", "ばこそ", "ばきりがなく", "ばまだしも"],
+          "answer": 1,
+          "en": "It is precisely out of love that parents scold their children."
+        }
+      ]
+    },
+    {
+      "id": "n1-g38",
+      "title": "〜まみれ",
+      "structure": "名詞＋まみれ（の／になる）",
+      "explanation": "Means 'covered all over with' something unpleasant that sticks to a surface, such as mud, sweat, blood, or dust. It is also used figuratively, as in 借金まみれ 'drowning in debt'. It differs from だらけ in that it applies to things physically clinging to surfaces.",
+      "examples": [
+        {
+          "jp": "子供たちは泥まみれになって遊んでいた。",
+          "reading": "こども たち は どろまみれ に なって あそんで いた。",
+          "en": "The children were playing, covered from head to toe in mud."
+        },
+        {
+          "jp": "彼は借金まみれの生活から抜け出した。",
+          "reading": "かれ は しゃっきん まみれ の せいかつ から ぬけだした。",
+          "en": "He escaped from a life buried in debt."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "作業員たちは汗（　　）になって働いていた。",
+          "choices": ["ずくめ", "めいて", "まみれ", "がち"],
+          "answer": 2,
+          "en": "The workers were toiling away, drenched in sweat."
+        }
+      ]
+    },
+    {
+      "id": "n1-g39",
+      "title": "〜ずくめ",
+      "structure": "名詞＋ずくめ（の／だ）",
+      "explanation": "Means 'nothing but' or 'entirely', indicating that everything about a situation consists of the same thing, as in いいことずくめ 'nothing but good things' or 黒ずくめ 'dressed all in black'. Unlike まみれ, it describes the makeup of events or appearance rather than things stuck to a surface.",
+      "examples": [
+        {
+          "jp": "今年はいいことずくめの一年だった。",
+          "reading": "ことし は いい こと ずくめ の いちねん だった。",
+          "en": "This year was a year filled with nothing but good things."
+        },
+        {
+          "jp": "黒ずくめの服装の男が店に入ってきた。",
+          "reading": "くろずくめ の ふくそう の おとこ が みせ に はいって きた。",
+          "en": "A man dressed entirely in black came into the shop."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "今月は残業（　　）で、休む暇もなかった。",
+          "choices": ["まみれ", "がてら", "なり", "ずくめ"],
+          "answer": 3,
+          "en": "This month was nothing but overtime, with no time to rest."
+        }
+      ]
+    },
+    {
+      "id": "n1-g40",
+      "title": "〜めく",
+      "structure": "名詞＋めく（めいた＋名詞／めいて）",
+      "explanation": "A suffix meaning 'to take on the air of' or 'to seem like', as in 春めく 'to become spring-like' or 謎めいた 'enigmatic'. It attaches to a limited set of nouns including 春, 秋, 謎, 皮肉, and 冗談. The attributive form is めいた.",
+      "examples": [
+        {
+          "jp": "日差しが柔らかくなり、だいぶ春めいてきた。",
+          "reading": "ひざし が やわらかく なり、だいぶ はるめいて きた。",
+          "en": "The sunlight has softened, and it has come to feel quite spring-like."
+        },
+        {
+          "jp": "彼女は謎めいた微笑を浮かべた。",
+          "reading": "かのじょ は なぞめいた びしょう を うかべた。",
+          "en": "She wore an enigmatic smile."
+        }
+      ],
+      "quiz": [
+        {
+          "q": "彼の言葉には、どこか皮肉（　　）響きがあった。",
+          "choices": ["めいた", "ずくめの", "まみれの", "なりの"],
+          "answer": 0,
+          "en": "There was a somewhat sarcastic ring to his words."
+        }
+      ]
+    }
+  ]
+}

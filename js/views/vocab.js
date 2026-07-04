@@ -89,7 +89,7 @@ async function renderFlashcards(app, level) {
     const w = deck[i];
     let flipped = false;
     wrap.replaceChildren(
-      el('p', { class: 'flash-count' }, `Card ${i + 1} / ${deck.length} · ${unknown.length} words left to learn`),
+      el('p', { class: 'flash-count' }, `Card ${i + 1} / ${deck.length} · ${unknown.length - learned} words left to learn`),
     );
     const card = el('div', { class: 'flash-card', onclick: flip },
       el('span', { class: 'flash-front', lang: 'ja' }, w.k),

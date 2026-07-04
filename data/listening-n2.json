@@ -1,0 +1,120 @@
+{
+  "level": "N2",
+  "exercises": [
+    {
+      "id": "n2-l1",
+      "title": "ニュース：台風情報",
+      "script": "台風十二号のニュースをお伝えします。大型の台風十二号は、現在、九州の南の海上を北に向かって進んでいます。明日の朝には九州南部に上陸する見込みです。台風の接近に伴い、九州地方では今夜から非常に強い雨と風が予想されています。特に川の近くや山の斜面にお住まいの方は、早めの避難を心がけてください。また、明日は新幹線や飛行機の運休が予想されるため、交通機関を利用する予定の方は、最新の運行情報を確認してください。市町村から避難の指示が出た場合は、すぐに従うようお願いします。今後も台風の情報に十分ご注意ください。",
+      "en": "Here is the news about Typhoon No. 12. The large Typhoon No. 12 is currently moving northward over the sea south of Kyushu. It is expected to make landfall in southern Kyushu tomorrow morning. As the typhoon approaches, extremely heavy rain and strong winds are forecast for the Kyushu region starting tonight. In particular, those living near rivers or on mountain slopes should evacuate early. Also, since bullet trains and flights are expected to be suspended tomorrow, those planning to use public transportation should check the latest service information. If your municipality issues an evacuation order, please follow it immediately. Please continue to pay close attention to typhoon updates.",
+      "questions": [
+        {
+          "q": "台風十二号はいつ九州南部に上陸する見込みか。",
+          "choices": ["今夜", "今日の午後", "明日の朝", "明日の夜"],
+          "answer": 2
+        },
+        {
+          "q": "特に早めの避難を呼びかけているのはどんな人か。",
+          "choices": ["川の近くや山の斜面に住んでいる人", "海で泳ぐ予定の人", "都市の中心部に住んでいる人", "車を持っていない人"],
+          "answer": 0
+        },
+        {
+          "q": "交通機関を利用する予定の人は、何をするように言っているか。",
+          "choices": ["予約をすべて取り消す", "最新の運行情報を確認する", "早朝の便に変更する", "駅で一晩待つ"],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n2-l2",
+      "title": "ビジネス報告：新商品の販売状況",
+      "script": "それでは、新商品の販売状況についてご報告いたします。先月発売したお茶の新商品「みどりの香り」は、発売から一か月で五十万本を売り上げました。これは当初の目標の一・五倍にあたります。購入者を年代別に見ると、二十代と三十代が全体の六割を占めています。若い世代に人気が出た理由としては、砂糖を使っていない点と、デザインのよさが挙げられます。一方、五十代以上の売り上げは伸び悩んでおり、今後の課題となっています。そこで来月からは、健康効果を中心にしたテレビ広告を始める予定です。この広告によって、幅広い世代への売り上げ拡大を目指します。",
+      "en": "Now, I will report on the sales of our new product. Our new tea product 'Midori no Kaori,' launched last month, sold 500,000 bottles in the first month after release. This is 1.5 times our initial target. Looking at purchasers by age group, people in their twenties and thirties account for 60 percent of the total. The reasons it became popular with the younger generation include the fact that it contains no sugar and its good design. On the other hand, sales to people aged fifty and over have been sluggish, which is an issue going forward. Therefore, starting next month, we plan to launch a TV advertising campaign focused on health benefits. Through this advertising, we aim to expand sales to a wide range of generations.",
+      "questions": [
+        {
+          "q": "新商品は発売から一か月でどのくらい売れたか。",
+          "choices": ["十五万本", "五十万本", "五百万本", "五万本"],
+          "answer": 1
+        },
+        {
+          "q": "若い世代に人気が出た理由は何だと言っているか。",
+          "choices": ["値段が安いことと量が多いこと", "有名人が宣伝していること", "健康効果のテレビ広告", "砂糖を使っていないこととデザインのよさ"],
+          "answer": 3
+        },
+        {
+          "q": "来月から何をする予定だと言っているか。",
+          "choices": ["健康効果を中心にしたテレビ広告を始める", "商品の値下げを行う", "新しい味の商品を発売する", "五十代向けのデザインに変更する"],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "n2-l3",
+      "title": "大学の講義：睡眠と記憶",
+      "script": "今日は、睡眠と記憶の関係についてお話しします。皆さんは、試験の前の夜に眠らずに勉強したことがあるでしょうか。実は、研究によると、睡眠は記憶を脳に定着させるために重要な役割を果たしています。私たちが昼間に学んだことは、眠っている間に整理され、長く残る記憶に変わるのです。ある実験では、単語を覚えた後にしっかり眠ったグループのほうが、眠らなかったグループよりも成績がよいという結果が出ました。つまり、眠らずに勉強を続けることは、かえって効率が悪いと言えます。試験の前こそ、十分な睡眠をとることをお勧めします。次回は、昼寝の効果について詳しく見ていきます。",
+      "en": "Today I will talk about the relationship between sleep and memory. Have you ever stayed up all night studying before an exam? In fact, according to research, sleep plays an important role in fixing memories in the brain. What we learn during the day is organized while we sleep and turned into long-lasting memory. In one experiment, the group that slept well after memorizing vocabulary got better results than the group that did not sleep. In other words, continuing to study without sleeping is actually inefficient. Especially before an exam, I recommend getting plenty of sleep. Next time, we will look in detail at the effects of napping.",
+      "questions": [
+        {
+          "q": "この講義によると、睡眠はどんな役割を果たしているか。",
+          "choices": ["体の疲れだけを取る", "新しい単語を作り出す", "記憶を脳に定着させる", "勉強への興味を高める"],
+          "answer": 2
+        },
+        {
+          "q": "実験ではどのような結果が出たか。",
+          "choices": ["眠らなかったグループのほうが成績がよかった", "覚えた後にしっかり眠ったグループのほうが成績がよかった", "二つのグループに差はなかった", "昼寝をしたグループが一番成績がよかった"],
+          "answer": 1
+        },
+        {
+          "q": "次回の講義のテーマは何か。",
+          "choices": ["試験勉強の方法", "夢の仕組み", "記憶力を高める食事", "昼寝の効果"],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "n2-l4",
+      "title": "市のお知らせ：防災訓練",
+      "script": "市民の皆様にお知らせします。来週の日曜日、十月十五日の午前九時から、市内全域で防災訓練を実施します。当日は午前九時に、地震の発生を知らせる放送が流れます。放送が聞こえたら、まず机の下に入るなど、身の安全を確保してください。その後、お近くの小学校まで実際に歩いて避難していただきます。避難の際は、エレベーターを使わず、階段をご利用ください。会場では、消火器の使い方や、けが人の運び方の講習も行います。参加は無料で、申し込みは必要ありません。動きやすい服装でお越しください。多くの皆様のご参加をお待ちしております。",
+      "en": "An announcement for all residents. Next Sunday, October 15, starting at 9 a.m., a disaster-prevention drill will be held throughout the city. On the day, at 9 a.m., a broadcast announcing an earthquake will be played. When you hear the broadcast, first ensure your safety, for example by getting under a desk. After that, you will actually walk to your nearest elementary school to evacuate. When evacuating, please use the stairs, not the elevator. At the venue, there will also be training sessions on how to use a fire extinguisher and how to carry injured people. Participation is free and no registration is required. Please come in clothes that are easy to move in. We look forward to the participation of many residents.",
+      "questions": [
+        {
+          "q": "防災訓練はいつ行われるか。",
+          "choices": ["来週の日曜日の午前九時から", "今週の土曜日の午前九時から", "来週の日曜日の午後三時から", "十月五日の午前九時から"],
+          "answer": 0
+        },
+        {
+          "q": "放送が聞こえたら、まず何をするように言っているか。",
+          "choices": ["すぐに小学校へ走る", "市役所に電話する", "机の下に入るなどして身の安全を確保する", "エレベーターで一階に降りる"],
+          "answer": 2
+        },
+        {
+          "q": "会場で行われる講習の内容はどれか。",
+          "choices": ["料理の作り方と栄養の知識", "消火器の使い方とけが人の運び方", "地震の仕組みについての講義", "避難所での生活体験"],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "n2-l5",
+      "title": "商品説明：ロボット掃除機",
+      "script": "本日ご紹介するのは、新型のロボット掃除機「クリンボ」です。クリンボの最大の特徴は、部屋の形を自動で記憶する機能です。一度掃除をすると部屋の地図が作られ、二回目からは効率のよい順番で掃除を行います。また、階段などの段差を感知して、落ちる前に自動で方向を変えるため、二階でも安心してお使いいただけます。運転音は従来の製品に比べて約半分に抑えられており、夜間やお子様のお昼寝中でもご使用いただけます。掃除が終わると、自動で充電器に戻ります。スマートフォンのアプリを使えば、外出先から掃除を開始することも可能です。価格は税込みで四万八千円。今月末までにご購入の方には、交換用のフィルターを二つ、無料でお付けします。",
+      "en": "Today we are introducing the new robot vacuum cleaner 'Clinbo.' Clinbo's greatest feature is its function of automatically memorizing the shape of your rooms. After cleaning once, a map of the room is created, and from the second time on, it cleans in an efficient order. It also senses drops such as staircases and automatically changes direction before falling, so you can use it safely on the second floor. Its operating noise has been reduced to about half that of previous models, so it can be used at night or while your children are napping. When cleaning is finished, it automatically returns to its charger. Using a smartphone app, you can also start cleaning while away from home. The price is 48,000 yen including tax. Customers who purchase by the end of this month will receive two replacement filters free of charge.",
+      "questions": [
+        {
+          "q": "クリンボの最大の特徴は何だと言っているか。",
+          "choices": ["水拭きができること", "世界で一番小さいこと", "音声で会話ができること", "部屋の形を自動で記憶すること"],
+          "answer": 3
+        },
+        {
+          "q": "運転音について、何と言っているか。",
+          "choices": ["従来の製品の約半分に抑えられている", "従来の製品より少し大きい", "完全に無音である", "昼間しか使えない大きさである"],
+          "answer": 0
+        },
+        {
+          "q": "今月末までに購入すると、何がもらえるか。",
+          "choices": ["専用のアプリの有料版", "五千円の割引券", "交換用のフィルター二つ", "予備のバッテリー"],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
